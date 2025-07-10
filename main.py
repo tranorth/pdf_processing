@@ -1,12 +1,10 @@
-#main.py
+# main.py
 
 import os
 import io
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-
-# Import the function that builds your agent
 from agent import create_pdf_agent
 
 def process_pdf_with_agent(pdf_path: str, agent_executor):
@@ -20,24 +18,23 @@ def process_pdf_with_agent(pdf_path: str, agent_executor):
             "input": f"Fully process the PDF file located at the following path: {pdf_path}"
         })
         
-        # The agent's final output should be the CSV data string
         csv_output_string = result.get('output', '')
 
-        # Convert the CSV string into a pandas DataFrame
-        if csv_output_string and isinstance(csv_output_string, str):
+        # This is a more robust check that looks for the actual CSV header
+        if csv_output_string and isinstance(csv_output_string, str) and csv_output_string.strip().startswith('primary_submarket'):
             df = pd.read_csv(io.StringIO(csv_output_string))
             print(f"✅ Successfully created DataFrame for: {os.path.basename(pdf_path)}")
-            # Return the DataFrame
             return df
         else:
             print(f"❌ Agent did not return valid CSV data for {os.path.basename(pdf_path)}.")
-            # Return None to indicate failure
+            print(f"   Received: {csv_output_string}")
             return None
             
     except Exception as e:
         print(f"❌ An error occurred processing {os.path.basename(pdf_path)}: {e}")
-        # Return None on error
         return None
+
+# ... your if __name__ == "__main__": block is correct and needs no changes.
 
 if __name__ == "__main__":
     report_dir = "data"
