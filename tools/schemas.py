@@ -14,3 +14,7 @@ class TableListSchema(BaseModel):
 class RawCSVSchema(BaseModel):
     """Input for the tool that processes a single raw CSV string."""
     raw_csv_data: str = Field(description="A single table, represented as a raw CSV string, to be formatted.")
+
+class FinalCSVSchema(BaseModel):
+    """Input for the final cleanup tool."""
+    generated_csv: str = Field(description="The generated CSV string from the previous step, which may include extra text or markdown.")
