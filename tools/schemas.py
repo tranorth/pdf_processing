@@ -1,8 +1,16 @@
 # tools/schemas.py
 
-from typing import Type
+from typing import Type, List
 from pydantic.v1 import BaseModel, Field
 
-class PDFProcessorSchema(BaseModel):
-    """Input schema for the PDFProcessorTool."""
-    pdf_path: str = Field(description="The full file path to the PDF document to be processed.")
+class PDFPathSchema(BaseModel):
+    """Input for the tool that needs a PDF file path."""
+    pdf_path: str = Field(description="The full file path to the PDF document.")
+
+class TableListSchema(BaseModel):
+    """Input for the tool that operates on a list of tables."""
+    tables_as_csv: List[str] = Field(description="A list of tables, each represented as a raw CSV string, to be analyzed.")
+
+class RawCSVSchema(BaseModel):
+    """Input for the tool that processes a single raw CSV string."""
+    raw_csv_data: str = Field(description="A single table, represented as a raw CSV string, to be formatted.")
