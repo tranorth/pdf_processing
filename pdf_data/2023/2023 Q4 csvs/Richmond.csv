@@ -1,0 +1,6 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northeast,,Warehouse,4970631,0.01,-29200,323475,9.39,,
+Northwest,,Warehouse,22007801,0.051,-324785,1117087,7.89,,
+Southeast,,Warehouse,32445948,0.037,92424,696178,7.04,,
+Southwest,,Warehouse,25390049,0.049,25980,505068,6.83,,
+Total,,Warehouse,84814429,0.043,-235581,2641808,7.3,,

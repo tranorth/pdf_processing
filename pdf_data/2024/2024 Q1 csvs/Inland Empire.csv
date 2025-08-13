@@ -1,0 +1,25 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Inland Empire East,Banning/Beaumont,Industrial,9556230,0.048,57253,0,0.00,0,57253
+Inland Empire East,Colton,Industrial,8890982,0.042,37940,417809,0.00,0,0
+Inland Empire East,Corona/Norco,Industrial,33560089,0.076,76274,2552912,1.43,0,165257
+Inland Empire East,Moreno Valley,Industrial,33493816,0.033,28212,1111088,0.00,0,148212
+Inland Empire East,Perris,Industrial,41716788,0.093,-314587,3859173,1.23,0,1147726
+Inland Empire East,Redlands/Loma Linda,Industrial,30436069,0.11,-1058289,3339249,1.13,0,224582
+Inland Empire East,Rialto/Bloomington,Industrial,40790737,0.068,-1153639,2764719,0.95,0,25680
+Inland Empire East,Riverside,Industrial,58067349,0.045,87894,2611674,1.12,0,537324
+Inland Empire East,San Bernardino,Industrial,45320650,0.082,-764066,3705343,1.16,0,553604
+Inland Empire East,,Industrial,301832710,0.069,-3040948,7443004,1.20,1656474,2859638
+Inland Empire West,Chino/Chino Hills,Industrial,56004184,0.026,315284,1470080,1.44,0,1127015
+Inland Empire West,Fontana,Industrial,75985924,0.048,987029,3609975,1.38,0,1032307
+Inland Empire West,Jurupa Valley/Eastvale,Industrial,48335761,0.075,651071,542531,1.50,0,1844762
+Inland Empire West,Ontario/Montclair/Upland,Industrial,122298625,0.058,97415,7058620,1.37,0,3158265
+Inland Empire West,Rancho Cucamonga,Industrial,44388399,0.044,26396,347748,1.41,0,207910
+Inland Empire West,,Industrial,347012893,0.051,2077195,13006105,1.44,2938902,7370259
+INLAND EMPIRE CORE,,Industrial,648845603,0.059,-963753,20449109,1.36,4595376,10229897
+Inland Empire North,Adelanto,Industrial,4349348,0.102,0,445500,0.00,0,0
+Inland Empire North,Apple Valley,Industrial,3266548,0,0,0,0.00,0,0
+Inland Empire North,Barstow,Industrial,571828,0,0,0,0.00,0,0
+Inland Empire North,Hesperia,Industrial,5349139,0.128,-150000,683133,0.00,0,0
+Inland Empire North,Victorville,Industrial,10017115,0.053,0,528892,0.93,0,0
+Inland Empire North,,Industrial,23553978,0.07,-150000,0,0.93,0,0
+INLAND EMPIRE + IEN,,Industrial,672399581,0.06,-1113753,20449109,1.36,4595376,10229897

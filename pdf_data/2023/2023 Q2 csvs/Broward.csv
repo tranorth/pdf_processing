@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central Broward,,Industrial,18572907,0.0272,-42040,,15.59,0,
+Coral Springs,,Industrial,8691515,0.0303,106431,627385,15.42,0,
+Northeast Broward,,Industrial,11765671,0.0447,104492,,15.33,0,
+Pompano/Lauderdale,,Industrial,25269959,0.0265,-24672,,14.54,0,
+Southeast Broward,,Industrial,16099963,0.0263,117908,576237,15,0,
+Southwest Broward,,Industrial,17518956,0.0196,138246,,15,0,
+Sunrise,,Industrial,5829397,0.0108,4338,103300,16.56,0,
+Grand Total,,Industrial,103748368,0.026,404703,1306922,15.35,0,

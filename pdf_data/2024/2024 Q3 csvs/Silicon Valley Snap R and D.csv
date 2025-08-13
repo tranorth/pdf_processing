@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Palo Alto,,,10961775,13.2,35382,,6.09,,86054
+Mountain View/Los Altos,,,11235907,14.0,-37555,,4.01,,98567
+Sunnyvale,,,18551858,10.7,-143055,,3.69,,431261
+West Valley,,,4416943,5.8,0,,2.63,,59131
+Santa Clara,,,19943286,13.4,-161236,,2.55,,215024
+San Jose IBP,,,9897600,5.6,-9605,,1.81,,6377
+San Jose North,,,23553627,15.0,207066,,2.75,,507255
+San Jose South,,,9380418,13.7,-14848,,1.87,,68344
+Milpitas,,,12517020,12.5,24192,,2.35,,243114
+Fremont/Newark,,,23024400,10.5,-558527,,2.02,,538865
+Silicon Valley,,,143482834,12.0,-658186,847000,2.88,0,2253992

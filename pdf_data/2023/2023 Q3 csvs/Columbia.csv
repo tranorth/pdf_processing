@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Calhoun,,Industrial,1234281,0,,0,5.45,,
+Cayce-West Columbia,,Industrial,15573502,0.025,,,6.07,,
+Dutch Fork,,Industrial,1101549,0.043,,,8.38,,
+Fairfield,,Industrial,2166416,0,,,3.25,,
+Kershaw,,Industrial,6788168,0.03,,,3.76,,
+Lexington,,Industrial,8165626,0.019,,410000,5.17,,
+Newberry,,Industrial,1774554,0.184,,,3.5,,
+North Columbia,,Industrial,3718756,0.002,,,4.47,,
+Northeast Columbia,,Industrial,9869406,0.01,,,5.87,,
+Saluda County,,Industrial,476181,0,,,0,,
+Southeast Columbia,,Industrial,16195747,0.024,,457140,4.89,,
+Columbia Total,,Industrial,67064186,0.024,,867140,5.08,,

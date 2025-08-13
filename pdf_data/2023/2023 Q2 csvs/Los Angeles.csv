@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Commerce/Vernon,,Industrial,163978956,0.020,-981296,605639,1.66,0,1011719
+Downtown Los Angeles,,Industrial,106781594,0.018,79858,253318,1.40,0,379006
+Mid-Counties,,Industrial,105297191,0.010,104084,369378,1.77,23136,1658181
+Greater San Fernando Valley,,Industrial,179037799,0.010,-99492,1344476,1.61,278670,1630904
+San Gabriel Valley,,Industrial,161089536,0.015,522419,3896726,1.66,0,1946319
+South Bay,,Industrial,206393699,0.016,-345571,1540766,1.91,538570,2309470
+Ventura County,,Industrial,67951279,0.015,-202932,756787,1.29,0,869583
+Los Angeles County,,Industrial,922578775,0.015,-719998,7987167,1.71,840376,8945599
+Greater Los Angeles,,Industrial,990530054,0.015,-922930,8743954,1.69,840376,9815182

@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Bayview/Hunters Point,,"Industrial",7508240,0.088,-215112,0,1.48,,
+Mission Bay/China Basin,,"Industrial",3177665,0.086,249068,0,1.88,,
+Mission/Potrero,,"Industrial",8022896,0.056,-18900,0,2.06,,
+Showplace Square,,"Industrial",927717,0.077,33331,0,1.99,,
+South of Market,,"Industrial",2241955,0.166,54730,0,2.26,,
+San Francisco Total Market,,"Industrial",21878473,0.083,103117,0,1.80,,
+Total,,"Warehouse",18937271,0.069,-119479,0,1.77,,
+Total,,"Manufacturing",2941202,0.175,222596,0,1.93,,

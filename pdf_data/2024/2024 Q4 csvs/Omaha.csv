@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Council Bluffs,,"Industrial",6642128,0.022,80582,0,10.32,36800,
+Northeast,,"Industrial",10672386,0.041,39670,0,6.41,0,
+Northwest,,"Industrial",6645241,0.009,1150,0,8.55,0,
+Sarpy East,,"Industrial",1886744,0.000,0,0,6.75,0,
+Sarpy West,,"Industrial",22976032,0.058,-12954,370872,7.52,0,
+South Central,,"Industrial",20358396,0.014,-103731,105000,9.36,0,
+Southeast,,"Industrial",8170898,0.003,10200,0,7.58,0,
+Southwest,,"Industrial",8777039,0.011,-7945,0,6.84,0,
+Total,,"Industrial",86128864,0.028,6972,475872,7.50,36800,

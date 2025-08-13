@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Lake,,Industrial,12836802,0.153,19770,0,6.73,,
+NE Orange,,Industrial,5430626,0.068,-15600,0,12.00,,
+NW Orange,,Industrial,31748174,0.19,106811,869075,8.08,,
+Osceola,,Industrial,8109128,0.076,73177,220000,10.64,,
+Seminole,,Industrial,17561541,0.066,44197,10000,13.10,,
+SE Orange,,Industrial,47215031,0.059,433930,2339279,10.54,,
+SW Orange,,Industrial,28399609,0.048,18547,0,11.91,,
+Market Total,,Industrial,151300911,0.094,680832,3438354,8.92,,

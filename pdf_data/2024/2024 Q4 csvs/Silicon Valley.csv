@@ -1,0 +1,37 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Palo Alto,,Manufacturing,1292057,0.037,0,,2.20,,0
+Palo Alto,,Warehouse/Distribution,29208,0.000,0,,1.95,,0
+Palo Alto,,Industrial,1321265,0.036,0,,1.95,,0
+Mountain View/Los Altos,,Manufacturing,1665343,0.048,10500,,2.86,,27500
+Mountain View/Los Altos,,Warehouse/Distribution,148248,0.114,-16951,,2.40,,0
+Mountain View/Los Altos,,Industrial,1813591,0.053,-6451,,2.86,,27500
+Sunnyvale,,Manufacturing,3538218,0.008,-17704,,2.65,,181636
+Sunnyvale,,Warehouse/Distribution,2162906,0.010,0,,2.05,,90544
+Sunnyvale,,Industrial,5701124,0.009,-17704,,2.41,,272180
+Santa Clara,,Manufacturing,10733049,0.022,-23785,,1.65,,68870
+Santa Clara,,Warehouse/Distribution,5169916,0.026,32000,,1.86,,199160
+Santa Clara,,Industrial,15902965,0.023,8215,,1.76,,268030
+West Valley,,Manufacturing,1377651,0.028,-3000,,2.30,,5440
+West Valley,,Warehouse/Distribution,201222,0.000,0,,2.15,,0
+West Valley,,Industrial,1578873,0.024,-3000,,2.30,,5440
+San Jose-IBP/Downtown,,Manufacturing,7380886,0.018,12715,,1.69,,70268
+San Jose-IBP/Downtown,,Warehouse/Distribution,4522188,0.101,358,,1.52,,66300
+San Jose-IBP/Downtown,,Advanced Manufacturing,680520,0.000,0,,1.95,,0
+San Jose-IBP/Downtown,,Industrial,12583594,0.047,13073,,1.52,,136568
+San Jose-North,,Manufacturing,4229634,0.022,5844,,1.55,,41066
+San Jose-North,,Warehouse/Distribution,5725936,0.024,-91202,,1.48,,77812
+San Jose-North,,Industrial,10518781,0.022,-85318,,1.50,,118878
+San Jose-South,,Manufacturing,5785034,0.026,4590,,1.63,,29085
+San Jose-South,,Warehouse/Distribution,6337129,0.030,-48833,,1.49,,101852
+San Jose-South,,Industrial,12761691,0.026,-44243,,1.54,,130937
+Milpitas,,Manufacturing,2624471,0.060,23920,,2.07,,30165
+Milpitas,,Warehouse/Distribution,5919084,0.035,58288,,1.50,,123370
+Milpitas,,Industrial,9735520,0.037,82208,,1.76,,153535
+Fremont/Newark,,Manufacturing,17281580,0.019,1598,,1.70,,66941
+Fremont/Newark,,Warehouse/Distribution,11968615,0.046,-39465,,1.60,,190876
+Fremont/Newark,,Advanced Manufacturing,8344418,0.074,0,,2.05,,0
+Fremont/Newark,,Industrial,37594613,0.040,-37867,,1.66,,257817
+Silicon Valley,,Manufacturing,55907923,0.023,-14718,,1.83,,520971
+Silicon Valley,,Warehouse/Distribution,42184452,0.041,-105805,,1.57,,849914
+Silicon Valley,,Advanced Manufacturing,11419642,0.054,0,,2.03,,0
+Silicon Valley,,Total,109512017,0.033,-91087,2000000,1.68,0,1370885

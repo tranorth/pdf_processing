@@ -1,0 +1,710 @@
+Period,Market,primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+2023 Q1,Atlanta,Central Atlanta,,Industrial,7205716.0,0.077,-55352.0,0.0,10.21,,
+2023 Q1,Atlanta,Chattahoochee,,Industrial,15503898.0,0.062,-100244.0,0.0,9.64,,
+2023 Q1,Atlanta,Northwest/I-575,,Industrial,69824178.0,0.066,134508.0,10399222.0,6.71,1730187.0,
+2023 Q1,Atlanta,N Central/GA 400,,Industrial,25166819.0,0.067,-65930.0,148000.0,8.82,207276.0,
+2023 Q1,Atlanta,Northeast/I-85,,Industrial,197397920.0,0.044,1329951.0,12269618.0,6.94,369128.0,
+2023 Q1,Atlanta,Stone Mountain,,Industrial,27983948.0,0.014,8429.0,0.0,6.13,,
+2023 Q1,Atlanta,Airport,,Industrial,82253205.0,0.03,658455.0,1385033.0,7.23,1438339.0,
+2023 Q1,Atlanta,Southeast/I-75,,Industrial,68449199.0,0.046,984144.0,5254807.0,6.37,637506.0,
+2023 Q1,Atlanta,Southwest/I-85,,Industrial,59481276.0,0.021,-376436.0,2965366.0,6.68,,
+2023 Q1,Atlanta,I-20 East,,Industrial,39076653.0,0.037,72970.0,3151596.0,6.23,315645.0,
+2023 Q1,Atlanta,I-20 West,,Industrial,107321743.0,0.053,162524.0,2102635.0,6.26,1908960.0,
+2023 Q1,Atlanta,ATLANTA,,Warehouse/Distribution,537440396.0,0.045,3170034.0,37521532.0,6.27,6607041.0,
+2023 Q1,Austin,BASTROP COUNTY,,Industrial,847334.0,0.022,,105000.0,6.0,,
+2023 Q1,Austin,CALDWELL COUNTY,,Industrial,415763.0,,,167794.0,,,
+2023 Q1,Austin,CEDAR PARK,,Industrial,7306872.0,0.025,29277.0,149000.0,9.78,,
+2023 Q1,Austin,CENTRAL,,Industrial,1737426.0,0.074,-7759.0,,16.48,,
+2023 Q1,Austin,EAST,,Industrial,9500486.0,0.021,36659.0,288199.0,11.23,120337.0,
+2023 Q1,Austin,FAR NORTH,,Industrial,5045540.0,0.205,372533.0,3701869.0,9.48,187558.0,
+2023 Q1,Austin,FAR NORTHEAST,,Industrial,2462106.0,0.145,84936.0,2211268.0,10.77,628030.0,
+2023 Q1,Austin,HAYS COUNTY,,Industrial,11005503.0,0.103,-79933.0,3625518.0,7.85,495525.0,
+2023 Q1,Austin,NORTH,,Industrial,16176309.0,0.041,81243.0,125030.0,16.13,,
+2023 Q1,Austin,NORTHEAST,,Industrial,26613073.0,0.038,445609.0,2382310.0,11.04,191400.0,
+2023 Q1,Austin,NORTHWEST,,Industrial,658282.0,,,50620.0,12.0,,
+2023 Q1,Austin,ROUND ROCK,,Industrial,5242381.0,0.03,,1334676.0,13.88,,
+2023 Q1,Austin,SOUTH,,Industrial,2753375.0,0.021,41313.0,655311.0,19.71,,
+2023 Q1,Austin,SOUTHEAST,,Industrial,17384803.0,0.048,64721.0,1769251.0,9.7,103742.0,
+2023 Q1,Austin,SOUTHWEST,,Industrial,3879856.0,0.039,-9772.0,,15.0,,
+2023 Q1,Austin,AUSTIN TOTAL,,Industrial,111029109.0,0.053,1058827.0,16565846.0,11.21,1726592.0,
+2023 Q1,Boise,Airport,,Industrial,5790501.0,0.001,214100.0,1480043.0,1.1,220160.0,
+2023 Q1,Boise,Bench,,Industrial,1894698.0,0.008,-1090.0,,1.07,,
+2023 Q1,Boise,Caldwell,,Industrial,5137591.0,0.063,72300.0,396480.0,0.74,,
+2023 Q1,Boise,Downtown,,Industrial,473827.0,0.0,,,,,
+2023 Q1,Boise,Eagle,,Industrial,243270.0,0.011,-2605.0,14087.0,,,
+2023 Q1,Boise,Kuna,,Industrial,203390.0,0.0,,,1.1,,
+2023 Q1,Boise,Meridian,,Industrial,6029979.0,0.014,-36907.0,,0.8,,
+2023 Q1,Boise,Middleton,,Industrial,265608.0,0.0,,,,,
+2023 Q1,Boise,Nampa,,Industrial,11181183.0,0.037,45187.0,2079103.0,0.8,,
+2023 Q1,Boise,North Boise,,Industrial,1704516.0,0.008,15739.0,,0.75,,
+2023 Q1,Boise,South Meridian,,Industrial,876649.0,0.011,,,1.54,,
+2023 Q1,Boise,Southeast,,Industrial,4287732.0,0.01,43434.0,,1.54,,
+2023 Q1,Boise,Southwest,,Industrial,2238188.0,0.017,-38601.0,54300.0,0.79,,
+2023 Q1,Boise,Star,,Industrial,58076.0,0.0,,,,,
+2023 Q1,Boise,West,,Industrial,3572338.0,0.009,-9454.0,,1.17,,
+2023 Q1,Boise,West Canyon,,Industrial,1089102.0,0.0,,,,,
+2023 Q1,Boise,Market Total,,Industrial,45046648.0,0.022,302103.0,4024013.0,0.82,220160.0,
+2023 Q1,Boston,Urban,,Industrial,14465208.0,0.029,-39316.0,,24.05,,
+2023 Q1,Boston,Close-In Suburbs North,,Industrial,17860289.0,0.039,20729.0,,25.62,,
+2023 Q1,Boston,Route 128-North,,Industrial,33395025.0,0.027,-126251.0,,18.57,,
+2023 Q1,Boston,Route 495 Northeast,,Industrial,20786010.0,0.025,-12840.0,,16.48,,
+2023 Q1,Boston,Route 3 - North,,Industrial,17855269.0,0.049,-93626.0,,16.34,,
+2023 Q1,Boston,Metro North Total,,Industrial,89896593.0,0.034,-211988.0,20.2,,,
+2023 Q1,Boston,Route 128-South,,Industrial,44252803.0,0.047,-244101.0,,13.19,,
+2023 Q1,Boston,Route 495-South,,Industrial,70709184.0,0.032,794753.0,,12.76,,
+2023 Q1,Boston,Metro South Total,,Industrial,114961987.0,0.038,550652.0,12.9,,,
+2023 Q1,Boston,Route 128-West,,Industrial,6412601.0,0.025,77419.0,,25.75,,
+2023 Q1,Boston,Framingham - Natick,,Industrial,4528544.0,0.02,-5081.0,,13.86,,
+2023 Q1,Boston,Route 495 Route 2 West,,Industrial,21318483.0,0.028,152825.0,,15.16,,
+2023 Q1,Boston,Route 495 Mass Pike West,,Industrial,23881898.0,0.017,-190286.0,,13.04,,
+2023 Q1,Boston,Metro West Total,,Industrial,56141526.0,0.022,34877.0,14.59,,,
+2023 Q1,Boston,Greater Boston Total,,Industrial,275465314.0,0.033,334225.0,3100000.0,15.52,,
+2023 Q1,Boston,City of Worcester,,Industrial,9262714.0,0.004,27787.0,,9.07,,
+2023 Q1,Boston,Worcester North,,Industrial,11365925.0,0.04,287150.0,,12.92,,
+2023 Q1,Boston,Worcester South,,Industrial,9248542.0,0.118,-42000.0,,11.04,,
+2023 Q1,Boston,Worcester Total,,Industrial,29877181.0,0.053,272937.0,1770000.0,11.5,,
+2023 Q1,Broward,Broward,Central Broward,Industrial,18572907.0,0.0303,-78034.0,0.0,15.6,,
+2023 Q1,Broward,Broward,Coral Springs,Industrial,8691515.0,0.0338,-12767.0,627385.0,16.0,,
+2023 Q1,Broward,Broward,Northeast Broward,Industrial,11767707.0,0.0462,263359.0,0.0,17.25,,
+2023 Q1,Broward,Broward,Pompano/Lauderdale,Industrial,25269959.0,0.0265,-66595.0,0.0,17.5,,
+2023 Q1,Broward,Broward,Southeast Broward,Industrial,16043813.0,0.0305,187432.0,748220.0,15.5,,
+2023 Q1,Broward,Broward,Southwest Broward,Industrial,17518956.0,0.0213,-6835.0,0.0,15.5,,
+2023 Q1,Broward,Broward,Sunrise,Industrial,5829397.0,0.0252,388.0,0.0,15.75,,
+2023 Q1,Broward,Broward,Total,Industrial,103694254.0,0.027,286948.0,1375605.0,15.25,,
+2023 Q1,Charleston,Charleston,,Industrial,1044665.0,0.0,0.0,50000.0,,,
+2023 Q1,Charleston,East Cooper,,Industrial,8998631.0,0.005,-16344.0,0.0,,,
+2023 Q1,Charleston,Hanahan,,Industrial,6883723.0,0.002,60634.0,0.0,,,
+2023 Q1,Charleston,Hwy 52 North,,Industrial,6094566.0,0.0,0.0,135200.0,,,
+2023 Q1,Charleston,I-26 North,,Industrial,24931448.0,0.03,1785697.0,9798811.0,,,
+2023 Q1,Charleston,North Charleston/Ladson,,Industrial,29059921.0,0.004,456071.0,620885.0,,,
+2023 Q1,Charleston,West Ashley,,Industrial,1025532.0,0.013,0.0,0.0,,,
+2023 Q1,Charleston,,,Manufacturing,24692920.0,0.003,0.0,0.0,,,
+2023 Q1,Charleston,,,R&D/Flex,2385476.0,0.036,0.0,0.0,,,
+2023 Q1,Charleston,,,Warehouse/Distribution,50360090.0,0.011,2286058.0,10604898.0,,,
+2023 Q1,Charleston,MARKET TOTAL,,Industrial,78038486.0,0.013,2286058.0,10604898.0,,,
+2023 Q1,Chicago,McHenry County,,Industrial,21332362.0,0.033,-4500.0,907093.0,6.35,249694.0,30000.0
+2023 Q1,Chicago,Lake County,,Industrial,78747222.0,0.035,128655.0,218500.0,6.6,0.0,205167.0
+2023 Q1,Chicago,NE Cook County,,Industrial,49019036.0,0.016,18246.0,1659664.0,7.45,0.0,251116.0
+2023 Q1,Chicago,NW Cook County,,Industrial,29940535.0,0.038,190834.0,1365205.0,6.28,0.0,647371.0
+2023 Q1,Chicago,N Kane County,,Industrial,34348504.0,0.037,502680.0,1894790.0,5.96,508315.0,198100.0
+2023 Q1,Chicago,N DuPage County,,Industrial,44756957.0,0.027,140500.0,812050.0,6.95,153000.0,109515.0
+2023 Q1,Chicago,O'Hare,,Industrial,100580028.0,0.028,164368.0,672267.0,8.3,1017550.0,761784.0
+2023 Q1,Chicago,City North,,Industrial,60202756.0,0.025,-56585.0,1184800.0,8.05,0.0,27482.0
+2023 Q1,Chicago,Near West Suburbs,,Industrial,80541186.0,0.023,-139196.0,1789999.0,6.83,148144.0,161990.0
+2023 Q1,Chicago,West Suburbs,,Industrial,38556146.0,0.024,22997.0,80464.0,7.25,187824.0,333530.0
+2023 Q1,Chicago,Central Kane & DuPage,,Industrial,38872344.0,0.027,461970.0,1204760.0,6.15,258720.0,212922.0
+2023 Q1,Chicago,Far West Suburbs,,Industrial,68057136.0,0.036,-44033.0,952761.0,5.84,392973.0,324316.0
+2023 Q1,Chicago,Southwest Suburbs,,Industrial,62821879.0,0.016,62619.0,1591323.0,5.88,37000.0,11897.0
+2023 Q1,Chicago,Far SW Suburbs,,Industrial,93402114.0,0.016,235807.0,2890679.0,6.36,795965.0,2095030.0
+2023 Q1,Chicago,City South,,Industrial,107037756.0,0.023,-52451.0,663712.0,7.35,0.0,138875.0
+2023 Q1,Chicago,South Suburbs,,Industrial,65737773.0,0.034,64049.0,3205216.0,5.73,0.0,1208873.0
+2023 Q1,Chicago,Joliet Area,,Industrial,96125522.0,0.05,2800.0,7240090.0,6.18,321162.0,206800.0
+2023 Q1,Chicago,Northwest Indiana,,Industrial,30442486.0,0.02,-19514.0,1460008.0,5.5,134145.0,94319.0
+2023 Q1,Chicago,Dekalb Area,,Industrial,14048233.0,0.019,0.0,0.0,4.33,0.0,0.0
+2023 Q1,Chicago,Southeast Wisconsin,,Industrial,77227147.0,0.06,380286.0,4634960.0,5.1,2295454.0,798090.0
+2023 Q1,Chicago,Rockford Area,,Industrial,34602501.0,0.037,61500.0,1518765.0,4.27,0.0,354000.0
+2023 Q1,Chicago,TOTAL,,Industrial,1226399623.0,0.03,2121032.0,35947106.0,6.32,6499946.0,8171177.0
+2023 Q1,Cincinnati,Central,,,83773706.0,0.036,1435340.0,0.0,5.92,1424135.0,
+2023 Q1,Cincinnati,Northeast,,,67227470.0,0.02,1270.0,1780429.0,6.36,,
+2023 Q1,Cincinnati,Northwest,,,86456446.0,0.023,773248.0,1850485.0,6.43,868886.0,
+2023 Q1,Cincinnati,Northern Kentucky,,,81851387.0,0.037,-897995.0,4406754.0,5.52,,
+2023 Q1,Cincinnati,Metro Total,,,319309009.0,0.03,1311863.0,8037668.0,5.95,2293021.0,
+2023 Q1,Cleveland,Downtown,,Warehouse/Distribution,24193887.0,0.02,27745.0,,5.18,,
+2023 Q1,Cleveland,East,,Warehouse/Distribution,2787185.0,0.054,-3925.0,,6.74,,
+2023 Q1,Cleveland,Geauga West,,Warehouse/Distribution,926688.0,0.032,1800.0,,6.49,,
+2023 Q1,Cleveland,Lake County West,,Warehouse/Distribution,8892898.0,0.06,0.0,,4.81,,
+2023 Q1,Cleveland,Northeast,,Warehouse/Distribution,9700821.0,0.029,-1299.0,,6.84,,
+2023 Q1,Cleveland,Northwest,,Warehouse/Distribution,11109661.0,0.033,-139700.0,,5.48,,
+2023 Q1,Cleveland,South,,Warehouse/Distribution,19040456.0,0.02,124141.0,,5.61,,
+2023 Q1,Cleveland,Southeast,,Warehouse/Distribution,38286999.0,0.046,31532.0,,6.17,,
+2023 Q1,Cleveland,Southwest,,Warehouse/Distribution,22557242.0,0.074,-224472.0,,5.37,,
+2023 Q1,Cleveland,Total Market,,Warehouse/Distribution,137495837.0,0.041,-184178.0,2215007.0,5.71,,
+2023 Q1,Dallas Fort Worth,Dallas,DFW Airport,Industrial,87597224.0,0.046,831072.0,3576554.0,,2177479.0,
+2023 Q1,Dallas Fort Worth,Dallas,East Dallas,Industrial,49078422.0,0.134,1550441.0,10130690.0,,1580884.0,
+2023 Q1,Dallas Fort Worth,Dallas,Northeast Dallas,Industrial,107836380.0,0.031,204896.0,2781257.0,,202131.0,
+2023 Q1,Dallas Fort Worth,Dallas,Northwest Dallas,Industrial,118753368.0,0.04,226232.0,4852825.0,,1327281.0,
+2023 Q1,Dallas Fort Worth,Dallas,South Dallas,Industrial,105390671.0,0.122,308400.0,15026612.0,,6618214.0,
+2023 Q1,Dallas Fort Worth,Dallas,South Stemmons,Industrial,127650975.0,0.035,134192.0,602355.0,,636520.0,
+2023 Q1,Dallas Fort Worth,Dallas,287 Corridor,Industrial,22081234.0,0.123,1053606.0,3110047.0,,1510479.0,
+2023 Q1,Dallas Fort Worth,Dallas,Total,Industrial,618388274.0,0.063,4308839.0,40080340.0,,14052988.0,
+2023 Q1,Dallas Fort Worth,Fort Worth,Great Southwest/Arlington,Industrial,118539471.0,0.025,468469.0,2236383.0,,298506.0,
+2023 Q1,Dallas Fort Worth,Fort Worth,North Fort Worth,Industrial,116408826.0,0.061,3520496.0,15945682.0,,5098833.0,
+2023 Q1,Dallas Fort Worth,Fort Worth,South Fort Worth,Industrial,81295614.0,0.063,552855.0,4609825.0,,1041300.0,
+2023 Q1,Dallas Fort Worth,Fort Worth,Total,Industrial,316243911.0,0.048,4541820.0,22791890.0,,6438639.0,
+2023 Q1,Dallas Fort Worth,DFW,Total,Industrial,934632185.0,0.058,8850659.0,62872230.0,,20491627.0,
+2023 Q1,Dallas Fort Worth,DFW Airport,East DFW/Las Colinas,Industrial,63962504.0,0.057,676009.0,2783778.0,,2177479.0,
+2023 Q1,Dallas Fort Worth,DFW Airport,West DFW/Grapevine,Industrial,23634720.0,0.015,155063.0,792776.0,,0.0,
+2023 Q1,Dallas Fort Worth,East Dallas,Central East Dallas,Industrial,17138339.0,0.138,-44245.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,East Dallas,East Dallas/Mesquite,Industrial,26363898.0,0.097,1594686.0,3471412.0,,1580884.0,
+2023 Q1,Dallas Fort Worth,East Dallas,Forney/Terrell,Industrial,5576185.0,0.3,0.0,6659278.0,,0.0,
+2023 Q1,Dallas Fort Worth,Northeast Dallas,Allen/McKinney,Industrial,14726373.0,0.047,330536.0,1620960.0,,132710.0,
+2023 Q1,Dallas Fort Worth,Northeast Dallas,Northeast Dallas/Garland,Industrial,50955053.0,0.016,-73705.0,500008.0,,0.0,
+2023 Q1,Dallas Fort Worth,Northeast Dallas,Plano,Industrial,21219472.0,0.037,64085.0,0.0,,69421.0,
+2023 Q1,Dallas Fort Worth,Northeast Dallas,Richardson,Industrial,17043504.0,0.06,-146642.0,359169.0,,0.0,
+2023 Q1,Dallas Fort Worth,Northeast Dallas,Rockwall,Industrial,3891978.0,0.0,30622.0,301120.0,,0.0,
+2023 Q1,Dallas Fort Worth,Northwest Dallas,Denton,Industrial,13909877.0,0.105,-114573.0,3990659.0,,227420.0,
+2023 Q1,Dallas Fort Worth,Northwest Dallas,Lewisville,Industrial,34134635.0,0.047,526372.0,599812.0,,808921.0,
+2023 Q1,Dallas Fort Worth,Northwest Dallas,Metropolitan/Addison,Industrial,19864799.0,0.031,-50303.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,Northwest Dallas,North Stemmons/Valwood,Industrial,48877613.0,0.015,-140802.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,Northwest Dallas,NW Dallas Outlying,Industrial,1966444.0,0.148,5538.0,262354.0,,290940.0,
+2023 Q1,Dallas Fort Worth,South Dallas,Redbird Airport,Industrial,21816829.0,0.099,-155113.0,0.0,,1774247.0,
+2023 Q1,Dallas Fort Worth,South Dallas,Southeast Dallas/I-45,Industrial,64636217.0,0.129,133344.0,15026612.0,,3614557.0,
+2023 Q1,Dallas Fort Worth,South Dallas,Southwest Dallas/US 67,Industrial,18937625.0,0.125,330169.0,0.0,,1229410.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,East Hines North,Industrial,20178551.0,0.02,34175.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,East Brookhollow,Industrial,7906312.0,0.026,-26077.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,Eastern Lonestar/Turnpike,Industrial,32536137.0,0.056,-50589.0,0.0,,636520.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,North Trinity,Industrial,9704015.0,0.035,-10976.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,West Hines North,Industrial,8874628.0,0.031,278303.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,West Brookhollow,Industrial,40528422.0,0.03,-90943.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Stemmons,Western Lonestar/Turnpike,Industrial,7922910.0,0.028,299.0,602355.0,,0.0,
+2023 Q1,Dallas Fort Worth,287 Corridor,Mansfield/Midlothian,Industrial,14250385.0,0.159,1053606.0,3110047.0,,1510479.0,
+2023 Q1,Dallas Fort Worth,287 Corridor,Waxahachie/Ennis,Industrial,7830849.0,0.058,0.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,Great Southwest,Arlington,Industrial,24419314.0,0.04,-59435.0,1531043.0,,0.0,
+2023 Q1,Dallas Fort Worth,Great Southwest,Lower Great Southwest,Industrial,39437345.0,0.022,-108607.0,0.0,,298506.0,
+2023 Q1,Dallas Fort Worth,Great Southwest,Upper Great Southwest,Industrial,54682812.0,0.019,636511.0,705340.0,,0.0,
+2023 Q1,Dallas Fort Worth,North Fort Worth,Meacham Field/Fossil Creek,Industrial,45320643.0,0.088,432718.0,1053709.0,,1590357.0,
+2023 Q1,Dallas Fort Worth,North Fort Worth,Northeast Tarrant/Alliance,Industrial,66636655.0,0.046,3097278.0,12042574.0,,3508476.0,
+2023 Q1,Dallas Fort Worth,North Fort Worth,West Tarrant,Industrial,4451528.0,0.003,-9500.0,2849399.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Fort Worth,Cleburne,Industrial,2108372.0,0.094,0.0,585143.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Fort Worth,East Fort Worth,Industrial,25728809.0,0.026,-13708.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Fort Worth,North Central Fort Worth,Industrial,11001474.0,0.009,-1128.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Fort Worth,South Central Fort Worth,Industrial,8219016.0,0.028,-5841.0,0.0,,0.0,
+2023 Q1,Dallas Fort Worth,South Fort Worth,South Central Tarrant,Industrial,32294624.0,0.119,495920.0,3107272.0,,1041300.0,
+2023 Q1,Dallas Fort Worth,South Fort Worth,Southwest Tarrant,Industrial,1943319.0,0.031,77612.0,917410.0,,0.0,
+2023 Q1,Denver,Airport,Airport East,Industrial,40802149.0,0.101,317581.0,1023330.0,6.33,,
+2023 Q1,Denver,Airport,Airport Central,Industrial,55721045.0,0.038,-57780.0,,7.67,,
+2023 Q1,Denver,Airport,,Industrial,96523194.0,0.065,259801.0,6090233.0,6.81,,
+2023 Q1,Denver,Boulder,,Industrial,11139489.0,0.035,-13402.0,,16.96,,
+2023 Q1,Denver,I-76 Corridor,,Industrial,14712013.0,0.241,315081.0,888750.0,6.51,,
+2023 Q1,Denver,Longmont,,Industrial,5273968.0,0.185,-96718.0,,15.26,,
+2023 Q1,Denver,North,,Industrial,12610365.0,0.081,123937.0,1342422.0,9.59,,
+2023 Q1,Denver,North Central,,Industrial,34439643.0,0.047,-73728.0,607200.0,10.21,,
+2023 Q1,Denver,Northwest,,Industrial,17143571.0,0.063,-46437.0,708115.0,13.12,,
+2023 Q1,Denver,South Central,,Industrial,24921717.0,0.007,45350.0,,9.74,,
+2023 Q1,Denver,Southeast,,Industrial,23511902.0,0.099,130704.0,445973.0,10.65,,
+2023 Q1,Denver,Southwest,,Industrial,8691019.0,0.016,91434.0,,12.31,,
+2023 Q1,Denver,West,,Industrial,11298091.0,0.011,-11691.0,,12.97,,
+2023 Q1,Denver,METRO TOTAL,,Industrial,260264972.0,0.068,724331.0,10082693.0,8.77,,
+2023 Q1,Des Moines,Western Suburbs,,Warehouse & Distribution,11983081.0,0.0297,-269422.0,412500.0,6.84,,
+2023 Q1,Des Moines,CBD,,Warehouse & Distribution,594479.0,0.0226,0.0,0.0,5.86,,
+2023 Q1,Des Moines,Northwest,,Warehouse & Distribution,3805010.0,0.0275,-37440.0,0.0,6.24,,
+2023 Q1,Des Moines,Northeast,,Warehouse & Distribution,17103799.0,0.055,-807636.0,628147.0,5.71,,
+2023 Q1,Des Moines,South,,Warehouse & Distribution,4258016.0,0.0495,0.0,0.0,4.92,,
+2023 Q1,Des Moines,Ankeny,,Warehouse & Distribution,4928314.0,0.1364,-84200.0,0.0,6.25,,
+2023 Q1,Des Moines,Greater DSM,,Warehouse & Distribution,42672699.0,0.0539,-1198698.0,1040647.0,5.95,,
+2023 Q1,Detroit,Detroit,,Industrial,86784134.0,0.03,273593.0,1333098.0,6.26,426500.0,
+2023 Q1,Detroit,Downriver,,Industrial,70697486.0,0.017,142220.0,1405624.0,6.47,,
+2023 Q1,Detroit,I-75 Corridor,,Industrial,83991842.0,0.013,-97548.0,735000.0,8.95,,
+2023 Q1,Detroit,Macomb,,Industrial,107199381.0,0.019,-76381.0,952992.0,6.99,,
+2023 Q1,Detroit,NW Suburbs,,Industrial,57615678.0,0.021,-121168.0,703294.0,9.66,81745.0,
+2023 Q1,Detroit,SE Oakland,,Industrial,16806468.0,0.029,-4475.0,,6.78,,
+2023 Q1,Detroit,Washtenaw,,Industrial,24340146.0,0.007,-7485.0,,12.63,,
+2023 Q1,Detroit,Western Wayne,,Industrial,89773481.0,0.016,30295.0,482593.0,6.45,,
+2023 Q1,Detroit,TOTAL,,Industrial,537311916.0,0.019,139051.0,5612601.0,7.23,508245.0,
+2023 Q1,El Paso,West,,Industrial,,0.018,18145.0,585395.0,,177000.0,
+2023 Q1,El Paso,Northeast,,Industrial,,0.014,104388.0,,,,
+2023 Q1,El Paso,Central,,Industrial,,0.002,,,,,
+2023 Q1,El Paso,East,,Industrial,,0.009,619221.0,4804339.0,,619221.0,
+2023 Q1,El Paso,Lower Valley,,Industrial,,0.1,,304303.0,,,
+2023 Q1,El Paso,El Paso Total,,Industrial,,0.015,741754.0,5694037.0,,796221.0,
+2023 Q1,El Paso,El Paso Total,,Class A,,0.033,637366.0,5694037.0,,796221.0,
+2023 Q1,El Paso,El Paso Total,,Class B,,0.004,104388.0,,,,
+2023 Q1,Greater Los Angeles,Commerce/Vernon,,Industrial,163612629.0,0.016,-1189556.0,209985.0,1.56,0.0,1614457.0
+2023 Q1,Greater Los Angeles,Downtown Los Angeles,,Industrial,106777382.0,0.022,-556573.0,0.0,1.56,0.0,81431.0
+2023 Q1,Greater Los Angeles,Mid-Counties,,Industrial,105274055.0,0.008,-21906.0,369378.0,1.74,28332.0,1445750.0
+2023 Q1,Greater Los Angeles,Greater San Fernando Valley,,Industrial,179016367.0,0.006,-49102.0,1623146.0,1.61,0.0,1521632.0
+2023 Q1,Greater Los Angeles,San Gabriel Valley,,Industrial,161052682.0,0.016,-498814.0,3735398.0,1.72,34089.0,2156999.0
+2023 Q1,Greater Los Angeles,South Bay,,Industrial,206235805.0,0.011,-390544.0,1296447.0,1.98,379927.0,2610343.0
+2023 Q1,Greater Los Angeles,Ventura County,,Industrial,68023055.0,0.01,154894.0,903800.0,1.3,40000.0,769920.0
+2023 Q1,Greater Los Angeles,Greater Los Angeles,,Industrial,989991975.0,0.013,-2551601.0,8138154.0,1.69,482393.0,10280171.0
+2023 Q1,Houston,CBD,,Industrial,51129147.0,0.031,20028.0,0.0,0.84,,
+2023 Q1,Houston,North,,Industrial,109715572.0,0.049,449990.0,6853851.0,0.78,502992.0,
+2023 Q1,Houston,Northeast,,Industrial,39103335.0,0.029,405204.0,3244670.0,0.78,,
+2023 Q1,Houston,Northwest,,Industrial,143131244.0,0.041,623021.0,5716672.0,0.81,728839.0,
+2023 Q1,Houston,Southeast,,Industrial,106995551.0,0.037,1193390.0,6244155.0,0.83,2530151.0,
+2023 Q1,Houston,South,,Industrial,34241892.0,0.024,680934.0,1853114.0,0.81,603780.0,
+2023 Q1,Houston,Southwest,,Industrial,84658282.0,0.037,-47596.0,2201940.0,0.78,,
+2023 Q1,Houston,West,,Industrial,28836130.0,0.157,1524336.0,2669215.0,0.78,3458883.0,
+2023 Q1,Houston,HOUSTON TOTAL,,Industrial,597911153.0,0.044,4849307.0,28783617.0,0.8,7824645.0,
+2023 Q1,Indianapolis,East,,Industrial,50762052.0,0.128,1948906.0,6912466.0,6.09,,1031062.0
+2023 Q1,Indianapolis,Northeast,,Industrial,25798801.0,0.027,83268.0,313693.0,9.44,,
+2023 Q1,Indianapolis,Northwest,,Industrial,67885332.0,0.064,1678693.0,3179237.0,6.37,,1273013.0
+2023 Q1,Indianapolis,Southeast,,Industrial,13946835.0,0.031,1140.0,2603592.0,4.97,,
+2023 Q1,Indianapolis,Southwest,,Industrial,76728638.0,0.022,445156.0,1218560.0,6.16,,1354850.0
+2023 Q1,Indianapolis,West,,Industrial,34692103.0,0.085,756353.0,2655242.0,6.32,,134100.0
+2023 Q1,Indianapolis,South,,Industrial,34213928.0,0.007,-17204.0,1327696.0,6.39,,1421522.0
+2023 Q1,Indianapolis,CBD,,Industrial,30698528.0,0.12,1474259.0,0.0,4.45,,
+2023 Q1,Indianapolis,North,,Industrial,4381179.0,0.014,-23348.0,0.0,12.92,,
+2023 Q1,Indianapolis,Total,,Industrial,339107396.0,0.061,6347223.0,33823802.0,6.08,,5214547.0
+2023 Q1,Inland Empire,Inland Empire East,Banning/Beaumont,Industrial,6280227.0,0.0,-2334.0,3610375.0,0.0,,0.0
+2023 Q1,Inland Empire,Inland Empire East,Colton,Industrial,9472227.0,0.0,126000.0,0.0,0.0,,126000.0
+2023 Q1,Inland Empire,Inland Empire East,Corona/Norco,Industrial,33858239.0,0.047,-30724.0,203823.0,1.5,,232683.0
+2023 Q1,Inland Empire,Inland Empire East,Moreno Valley,Industrial,33157175.0,0.008,-2188.0,86550.0,1.4,,366117.0
+2023 Q1,Inland Empire,Inland Empire East,Perris,Industrial,37077877.0,0.034,1547745.0,4025374.0,0.0,1547745.0,0.0
+2023 Q1,Inland Empire,Inland Empire East,Redlands/Loma Linda,Industrial,29830230.0,0.012,-15409.0,568874.0,1.32,,465249.0
+2023 Q1,Inland Empire,Inland Empire East,Rialto,Industrial,35820155.0,0.015,116823.0,795594.0,1.32,,32937.0
+2023 Q1,Inland Empire,Inland Empire East,Riverside,Industrial,58952738.0,0.007,789409.0,857859.0,1.34,,165800.0
+2023 Q1,Inland Empire,Inland Empire East,San Bernardino,Industrial,44892353.0,0.009,1477474.0,871437.0,1.4,,334185.0
+2023 Q1,Inland Empire,Inland Empire East,Inland Empire East,Industrial,289341221.0,0.017,4006796.0,11019886.0,1.39,7083574.0,1722971.0
+2023 Q1,Inland Empire,Inland Empire West,Chino/Chino Hills,Industrial,55594848.0,0.017,-60719.0,358746.0,1.66,,268869.0
+2023 Q1,Inland Empire,Inland Empire West,Fontana (Bloomington),Industrial,80247502.0,0.041,-986608.0,4470917.0,1.75,,1320716.0
+2023 Q1,Inland Empire,Inland Empire West,Jurupa Valley/Eastvale,Industrial,45709978.0,0.003,459903.0,5740980.0,1.58,,1886212.0
+2023 Q1,Inland Empire,Inland Empire West,Ontario,Industrial,113385414.0,0.013,-53543.0,8122384.0,1.65,,1584587.0
+2023 Q1,Inland Empire,Inland Empire West,Rancho Cucamonga,Industrial,41170486.0,0.008,91226.0,2952719.0,1.48,,235603.0
+2023 Q1,Inland Empire,Inland Empire West,Inland Empire West,Industrial,336108228.0,0.018,-549741.0,21645746.0,1.62,2215378.0,5295987.0
+2023 Q1,Inland Empire,Inland Empire North,Adelanto,Industrial,3989948.0,0.05,0.0,63000.0,1.0,,29925.0
+2023 Q1,Inland Empire,Inland Empire North,Apple Valley,Industrial,3266548.0,0.0,0.0,0.0,0.0,,0.0
+2023 Q1,Inland Empire,Inland Empire North,Barstow,Industrial,571828.0,0.0,0.0,0.0,0.0,,0.0
+2023 Q1,Inland Empire,Inland Empire North,Hesperia,Industrial,3117539.0,0.006,0.0,2231600.0,0.74,,1004000.0
+2023 Q1,Inland Empire,Inland Empire North,Victorville,Industrial,7840842.0,0.003,-23700.0,1112490.0,0.0,,0.0
+2023 Q1,Inland Empire,Inland Empire North,Inland Empire North,Industrial,18786705.0,0.013,-23700.0,3407090.0,0.8,137235.0,1033925.0
+2023 Q1,Inland Empire,Inland Empire TOTAL,INLAND EMPIRE + IEN,Industrial,644236154.0,0.017,3433355.0,36072722.0,1.5,9436187.0,8052883.0
+2023 Q1,Kansas City,Clay,,Industrial,53922193.0,0.047,900173.0,1659475.0,4.8,,
+2023 Q1,Kansas City,Jackson,,Industrial,104518857.0,0.024,-320320.0,4222258.0,4.83,,
+2023 Q1,Kansas City,Johnson,,Industrial,83519064.0,0.042,-173983.0,3550369.0,5.88,,
+2023 Q1,Kansas City,Platte,,Industrial,16794343.0,0.013,47306.0,328320.0,4.87,,
+2023 Q1,Kansas City,Wyandotte,,Industrial,45934492.0,0.013,222746.0,40000.0,3.86,,
+2023 Q1,Kansas City,Cass,,Industrial,3995096.0,0.154,603000.0,498599.0,4.33,,
+2023 Q1,Kansas City,,,Bulk Distribution,160484119.0,0.037,1182653.0,10102157.0,4.33,,
+2023 Q1,Kansas City,,,Modern Bulk Distribution,72811519.0,0.047,1495921.0,9120157.0,4.82,,
+2023 Q1,Kansas City,Metro,,Industrial,308684045.0,0.032,1278922.0,10299021.0,5.0,,
+2023 Q1,Las Vegas,Airport,,Industrial,14906671.0,0.031,-12934.0,,1.19,,
+2023 Q1,Las Vegas,Central,,Industrial,8947106.0,0.014,-16452.0,,,,
+2023 Q1,Las Vegas,Henderson,,Industrial,20947664.0,0.007,-8814.0,2226114.0,1.07,,
+2023 Q1,Las Vegas,North Las Vegas,,Industrial,65507717.0,0.011,1610242.0,12443677.0,0.96,1668037.0,
+2023 Q1,Las Vegas,Southwest,,Industrial,45518000.0,0.016,274593.0,2082649.0,1.16,356540.0,
+2023 Q1,Las Vegas,Las Vegas Total,,Industrial,155827158.0,0.014,1846635.0,16752440.0,1.03,2024577.0,
+2023 Q1,Louisville,Bluegrass,,Industrial,8014969.0,0.004,337669.0,394850.0,6.95,327919.0,
+2023 Q1,Louisville,Bullitt County,,Industrial,23713212.0,0.071,524604.0,711975.0,4.93,0.0,
+2023 Q1,Louisville,Downtown,,Industrial,13405344.0,0.03,-68041.0,0.0,3.77,0.0,
+2023 Q1,Louisville,Northeast,,Industrial,11054078.0,0.0,0.0,0.0,6.95,0.0,
+2023 Q1,Louisville,Riverport,,Industrial,18358698.0,0.037,-23245.0,512893.0,5.27,0.0,
+2023 Q1,Louisville,Shelby County,,Industrial,6626168.0,0.0,19820.0,2115431.0,,0.0,
+2023 Q1,Louisville,Southern Indiana,,Industrial,30394625.0,0.045,732346.0,1241055.0,5.1,987270.0,
+2023 Q1,Louisville,Southside,,Industrial,60086333.0,0.013,1954924.0,663200.0,5.53,839581.0,
+2023 Q1,Louisville,TOTALS,,Industrial,171653427.0,0.029,3478077.0,5639404.0,5.03,2154770.0,
+2023 Q1,McAllen,McAllen,,Industrial,,0.005,136280.0,20000.0,6.25,,
+2023 Q1,McAllen,Pharr,,Industrial,,0.005,55786.0,260000.0,8.16,100000.0,
+2023 Q1,McAllen,Edinburg,,Industrial,,0.018,,0.0,,,
+2023 Q1,McAllen,Hidalgo,,Industrial,,0.034,30000.0,0.0,,30000.0,
+2023 Q1,McAllen,Mission,,Industrial,,0.046,,70000.0,6.24,,
+2023 Q1,McAllen,Off Park,,Industrial,,0.042,100000.0,0.0,5.51,,
+2023 Q1,McAllen,McAllen Total,,Class A,,0.008,314566.0,350000.0,7.13,160000.0,
+2023 Q1,McAllen,McAllen Total,,Class B,,0.015,7500.0,,6.24,,
+2023 Q1,McAllen,McAllen Total,,Industrial,,0.013,322066.0,350000.0,6.09,160000.0,
+2023 Q1,Memphis,Desoto County,,Bulk Warehouse,61616942.0,0.068,1071747.0,2745840.0,4.61,,
+2023 Q1,Memphis,Fayette County,,Bulk Warehouse,7107618.0,0.0,2000000.0,0.0,,,
+2023 Q1,Memphis,Marshall County,,Bulk Warehouse,19916784.0,0.134,0.0,1893028.0,4.49,,
+2023 Q1,Memphis,Northeast,,Bulk Warehouse,3876616.0,0.009,0.0,0.0,9.0,,
+2023 Q1,Memphis,Northwest,,Bulk Warehouse,18208419.0,0.034,0.0,0.0,2.0,,
+2023 Q1,Memphis,Southeast,,Bulk Warehouse,68714914.0,0.044,25335.0,1648640.0,4.72,,
+2023 Q1,Memphis,Southwest,,Bulk Warehouse,16258206.0,0.023,108500.0,0.0,3.0,,
+2023 Q1,Memphis,Memphis MSA,,Bulk Warehouse,195699499.0,0.053,3205582.0,6287508.0,4.49,,
+2023 Q1,Milwaukee,Kenosha,,Industrial,43156859.0,0.082,442721.0,3321052.0,4.5,1603758.0,
+2023 Q1,Milwaukee,Milwaukee Downtown,,Industrial,11827396.0,0.052,0.0,,4.3,0.0,
+2023 Q1,Milwaukee,Milwaukee North Central,,Industrial,12237532.0,0.033,0.0,0.0,4.1,250585.0,
+2023 Q1,Milwaukee,Milwaukee North Shore,,Industrial,5743081.0,0.062,0.0,,4.0,0.0,
+2023 Q1,Milwaukee,Milwaukee Northwest,,Industrial,20822160.0,0.007,161430.0,892483.0,4.3,738862.0,
+2023 Q1,Milwaukee,Milwaukee South,,Industrial,34662531.0,0.049,88404.0,812075.0,5.6,391236.0,
+2023 Q1,Milwaukee,Milwaukee South Central,,Industrial,13276248.0,0.064,630.0,0.0,5.6,0.0,
+2023 Q1,Milwaukee,Milwaukee West,,Industrial,13924905.0,0.036,0.0,0.0,4.6,0.0,
+2023 Q1,Milwaukee,Ozaukee,,Industrial,12099902.0,0.016,88763.0,36843.0,4.6,0.0,
+2023 Q1,Milwaukee,Racine,,Industrial,31070288.0,0.027,-55735.0,2049325.0,5.2,573587.0,
+2023 Q1,Milwaukee,Sheboygan,,Industrial,18810566.0,0.008,0.0,100800.0,5.5,0.0,
+2023 Q1,Milwaukee,Walworth,,Industrial,11474824.0,0.006,0.0,0.0,3.8,0.0,
+2023 Q1,Milwaukee,Washington,,Industrial,22727852.0,0.018,233282.0,200000.0,5.02,436862.0,
+2023 Q1,Milwaukee,Waukesha Northeast,,Industrial,22409862.0,0.004,-33800.0,0.0,5.8,0.0,
+2023 Q1,Milwaukee,Waukesha Northwest,,Industrial,24822160.0,0.02,49257.0,0.0,5.8,282200.0,
+2023 Q1,Milwaukee,Southeast Waukesha,,Industrial,15814851.0,0.011,-5126.0,660324.0,7.3,0.0,
+2023 Q1,Milwaukee,Waukesha Southwest,,Industrial,17350862.0,0.001,0.0,0.0,6.5,0.0,
+2023 Q1,Milwaukee,TOTAL,,Industrial,334617663.0,0.032,859408.0,8296902.0,4.9,4453907.0,
+2023 Q1,Nashville,Nashville,Allied Drive/I-65,Industrial,18752296.0,0.022,9259.0,0.0,10.57,,
+2023 Q1,Nashville,Nashville,CBD/Polk Avenue,Industrial,12965250.0,0.022,0.0,0.0,8.96,,
+2023 Q1,Nashville,Nashville,Elm Hill Pike/I-40,Industrial,31470191.0,0.051,2183.0,274480.0,8.13,,
+2023 Q1,Nashville,Nashville,I-840,Industrial,20505665.0,0.076,716898.0,3309579.0,6.89,,
+2023 Q1,Nashville,Nashville,Interchange City,Industrial,72702165.0,0.043,594693.0,3027855.0,8.87,,
+2023 Q1,Nashville,Nashville,MetroCenter/Cockrill Bend,Industrial,13260888.0,0.025,6336.0,0.0,9.48,,
+2023 Q1,Nashville,Nashville,Northeast/I-65N Corridor,Industrial,40878629.0,0.033,97101.0,3762652.0,5.3,,
+2023 Q1,Nashville,Nashville,Total,Warehouse/Distribution,129163079.0,0.055,1200124.0,9486936.0,7.44,,
+2023 Q1,Nashville,Nashville,Total,Manufacturing,66937134.0,0.004,209994.0,0.0,5.82,,
+2023 Q1,Nashville,Nashville,Total,R&D/Flex,11042397.0,0.073,16352.0,0.0,13.15,,
+2023 Q1,Nashville,Nashville,Total,Industrial,210535084.0,0.041,1426470.0,9486936.0,7.66,,
+2023 Q1,Northern and Central New Jersey,Northern NJ,Central Bergen,Industrial,33900000.0,0.019,-72200.0,5320.0,13.33,,43400.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Fairfield Market,Industrial,18900000.0,0.046,-178800.0,0.0,15.72,,18500.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Hudson Waterfront,Industrial,64900000.0,0.018,155400.0,1154400.0,18.22,,85300.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Hudson Waterfront,Class A,64900000.0,0.018,155400.0,1154400.0,24.64,,85300.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Meadowlands,Industrial,93400000.0,0.045,-705600.0,1598800.0,18.1,,200100.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Meadowlands,Class A,93400000.0,0.045,-705600.0,1598800.0,25.34,,200100.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Morris Region,Industrial,40400000.0,0.027,36200.0,783500.0,13.44,,374900.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Morris Region,Class A,40400000.0,0.027,36200.0,783500.0,16.15,,374900.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Newark,Industrial,53800000.0,0.011,-194900.0,533600.0,26.04,,31000.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Newark,Class A,53800000.0,0.011,-194900.0,533600.0,19.47,,31000.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,North East Bergen,Industrial,8100000.0,0.022,-76600.0,0.0,13.37,,15000.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,North West Bergen,Industrial,19100000.0,0.032,-80300.0,360400.0,12.86,,118300.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,North West Bergen,Class A,19100000.0,0.032,-80300.0,360400.0,22.0,,118300.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Rt 23 North,Industrial,600000.0,0.0,0.0,0.0,0.0,,0.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Rt 280 Corridor,Industrial,4400000.0,0.009,25100.0,0.0,0.0,,59200.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Rt 46/23/2 Interchange,Industrial,57900000.0,0.019,-57600.0,0.0,14.6,,60400.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Suburban Essex,Industrial,6700000.0,0.061,-6500.0,0.0,23.0,,0.0
+2023 Q1,Northern and Central New Jersey,Northern NJ,Suburban Essex,Class A,6700000.0,0.061,-6500.0,0.0,22.39,,0.0
+2023 Q1,Northern and Central New Jersey,Northern NJ Total,,Industrial,402300000.0,0.027,-1156000.0,4963000.0,16.98,,1006000.0
+2023 Q1,Northern and Central New Jersey,Northern NJ Total,,Class A,402300000.0,0.027,-1156000.0,4963000.0,23.21,,1006000.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Brunswicks/Exit 9,Industrial,27200000.0,0.019,82500.0,846100.0,18.03,,123800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Brunswicks/Exit 9,Class A,27200000.0,0.019,82500.0,846100.0,16.46,,123800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Carteret/Avenel,Industrial,29300000.0,0.052,-54600.0,1817400.0,19.61,,246500.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Carteret/Avenel,Class A,29300000.0,0.052,-54600.0,1817400.0,19.41,,246500.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Central Union,Industrial,24500000.0,0.012,117600.0,0.0,15.79,,138000.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Exit 8A,Industrial,80100000.0,0.027,351700.0,133800.0,14.21,,1003000.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Exit 8A,Class A,80100000.0,0.027,351700.0,133800.0,14.1,,1003000.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Hunterdon/Warren,Industrial,14800000.0,0.023,357100.0,0.0,9.4,,338800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Linden/Elizabeth,Industrial,44300000.0,0.029,931500.0,1532100.0,22.16,,960400.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Linden/Elizabeth,Class A,44300000.0,0.029,931500.0,1532100.0,21.63,,960400.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Monmouth,Industrial,26900000.0,0.068,-123200.0,429600.0,14.5,,9800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Monmouth,Class A,26900000.0,0.068,-123200.0,429600.0,13.59,,9800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Princeton,Industrial,15800000.0,0.064,-79100.0,160500.0,13.82,,252000.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Princeton,Class A,15800000.0,0.064,-79100.0,160500.0,14.25,,252000.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Route 287/Exit 10,Industrial,109200000.0,0.018,187800.0,1656700.0,15.87,,1012300.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Route 287/Exit 10,Class A,109200000.0,0.018,187800.0,1656700.0,18.52,,1012300.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Route 78 East,Industrial,9700000.0,0.012,-82100.0,0.0,19.62,,1800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Somerset,Industrial,39900000.0,0.019,233900.0,662100.0,17.62,,297300.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Somerset,Class A,39900000.0,0.019,233900.0,662100.0,14.47,,297300.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Trenton/295,Industrial,32400000.0,0.015,919200.0,1095000.0,13.03,,1257800.0
+2023 Q1,Northern and Central New Jersey,Central NJ,Trenton/295,Class A,32400000.0,0.015,919200.0,1095000.0,15.25,,1257800.0
+2023 Q1,Northern and Central New Jersey,Central NJ Total,,Industrial,454200000.0,0.027,2842000.0,8333000.0,16.09,,5746000.0
+2023 Q1,Northern and Central New Jersey,Central NJ Total,,Class A,454200000.0,0.027,2842000.0,8333000.0,17.65,,5746000.0
+2023 Q1,Northern and Central New Jersey,NJ Total,,Industrial,856500000.0,0.027,1686000.0,13296000.0,16.51,,6752000.0
+2023 Q1,Northern and Central New Jersey,NJ Total,,Class A,856500000.0,0.027,1686000.0,13296000.0,19.25,,6752000.0
+2023 Q1,Northern Virginia,City of Alexandria,,Industrial,4414983.0,,-5208.0,,12.71,,
+2023 Q1,Northern Virginia,Arlington County,,Industrial,869717.0,,0.0,,,,
+2023 Q1,Northern Virginia,Fairfax County,,Industrial,34222835.0,0.051,140045.0,,14.51,,
+2023 Q1,Northern Virginia,Loudoun County,,Industrial,23000989.0,0.022,172478.0,,13.24,,
+2023 Q1,Northern Virginia,Prince William County,,Industrial,16490011.0,0.015,46621.0,,14.75,,
+2023 Q1,Northern Virginia,City of Alexandria,,Warehouse,3695838.0,0.047,-2873.0,,12.06,,
+2023 Q1,Northern Virginia,Arlington County,,Warehouse,730908.0,,0.0,,,,
+2023 Q1,Northern Virginia,Fairfax County,,Warehouse,19508088.0,0.033,-46821.0,,13.5,,
+2023 Q1,Northern Virginia,Loudoun County,,Warehouse,13626151.0,0.02,264083.0,,13.88,,
+2023 Q1,Northern Virginia,Prince William County,,Warehouse,10660768.0,0.012,28407.0,,13.26,,
+2023 Q1,Northern Virginia,City of Alexandria,,Flex,719145.0,0.027,-2335.0,,16.05,,
+2023 Q1,Northern Virginia,Arlington County,,Flex,138809.0,,0.0,,,,
+2023 Q1,Northern Virginia,Fairfax County,,Flex,14714747.0,0.074,186866.0,,15.05,,
+2023 Q1,Northern Virginia,Loudoun County,,Flex,9374838.0,0.026,-91605.0,,12.8,,
+2023 Q1,Northern Virginia,Prince William County,,Flex,5829243.0,0.02,18214.0,,15.63,,
+2023 Q1,Northern Virginia,Total,,Industrial,78998535.0,0.034,353936.0,795231.0,14.29,,354000.0
+2023 Q1,Northern Virginia,Total,,Warehouse,48221753.0,0.025,242796.0,,13.28,,
+2023 Q1,Northern Virginia,Total,,Flex,30776782.0,0.048,111140.0,,14.91,,
+2023 Q1,Omaha,Council Bluffs,,Industrial,6305956.0,0.038,163699.0,261324.0,6.37,302300.0,
+2023 Q1,Omaha,Northeast,,Industrial,10345024.0,0.012,3524.0,150000.0,4.74,0.0,
+2023 Q1,Omaha,Northwest,,Industrial,6571541.0,0.005,77600.0,61400.0,8.57,0.0,
+2023 Q1,Omaha,Sarpy East,,Industrial,1831878.0,0.016,-2200.0,0.0,10.0,0.0,
+2023 Q1,Omaha,Sarpy West,,Industrial,21569708.0,0.04,237260.0,756265.0,7.42,975177.0,
+2023 Q1,Omaha,South Central,,Industrial,20286101.0,0.011,-35945.0,0.0,6.99,0.0,
+2023 Q1,Omaha,Southeast,,Industrial,8135544.0,0.015,-7123.0,0.0,6.28,0.0,
+2023 Q1,Omaha,Southwest,,Industrial,8777039.0,0.007,6870.0,0.0,10.67,0.0,
+2023 Q1,Omaha,TOTAL OMAHA,,Industrial,83844791.0,0.02,443685.0,1228989.0,7.11,1277477.0,
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Anaheim,Industrial,48852752.0,0.008,-204057.0,489629.0,,0.0,136294.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Brea,Industrial,12188768.0,0.0,-65107.0,255603.0,,0.0,50331.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Buena Park,Industrial,13496485.0,0.006,-65107.0,0.0,,0.0,181434.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Fullerton,Industrial,20969253.0,0.009,498853.0,0.0,,0.0,265957.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,La Habra,Industrial,2580623.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Orange,Industrial,12703496.0,0.006,0.0,0.0,,0.0,68021.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Placentia,Industrial,3740510.0,0.011,45564.0,0.0,,0.0,10604.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,Yorba Linda,Industrial,1715157.0,0.083,-40000.0,0.0,,0.0,0.0
+2023 Q1,Orange County,NORTH ORANGE COUNTY,North County Totals,Industrial,116247044.0,0.008,285584.0,745232.0,1.69,0.0,712641.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Cypress,Industrial,6095545.0,0.011,-19421.0,0.0,,0.0,10159.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Garden Grove,Industrial,12192602.0,0.01,-97968.0,247231.0,,0.0,61713.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Huntington Beach,Industrial,14626552.0,0.005,172814.0,557106.0,,0.0,124965.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,La Palma,Industrial,2761255.0,0.001,-2446.0,0.0,,0.0,0.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Los Alamitos,Industrial,2231228.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Seal Beach,Industrial,972051.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Stanton,Industrial,1072081.0,0.018,-18792.0,0.0,,0.0,0.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,Westminster,Industrial,1885358.0,0.0,0.0,0.0,,0.0,33262.0
+2023 Q1,Orange County,WEST ORANGE COUNTY,West County Totals,Industrial,41836672.0,0.007,34187.0,804337.0,1.69,0.0,230099.0
+2023 Q1,Orange County,AIRPORT AREA,Costa Mesa,Industrial,8843789.0,0.009,-32785.0,0.0,,0.0,31529.0
+2023 Q1,Orange County,AIRPORT AREA,Fountain Valley,Industrial,4233875.0,0.009,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,AIRPORT AREA,Irvine,Industrial,18647683.0,0.003,37082.0,396445.0,,0.0,149841.0
+2023 Q1,Orange County,AIRPORT AREA,Newport Beach,Industrial,786804.0,0.0,15346.0,0.0,,0.0,15346.0
+2023 Q1,Orange County,AIRPORT AREA,Santa Ana,Industrial,27732038.0,0.008,-19386.0,0.0,,0.0,115754.0
+2023 Q1,Orange County,AIRPORT AREA,Tustin,Industrial,7680213.0,0.009,34180.0,311770.0,,0.0,40146.0
+2023 Q1,Orange County,AIRPORT AREA,Airport Area Totals,Industrial,67924402.0,0.007,34437.0,708215.0,1.6,0.0,352616.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Aliso Viejo,Industrial,1262702.0,0.0,0.0,0.0,,0.0,21972.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Foothill Ranch,Industrial,3073919.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Irvine Spectrum,Industrial,16777125.0,0.022,39552.0,193833.0,,0.0,150788.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Laguna Hills,Industrial,1105229.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Laguna Niguel,Industrial,613917.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Lake Forest,Industrial,4229528.0,0.0,0.0,0.0,,0.0,16785.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Mission Viejo,Industrial,914714.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,San Clemente,Industrial,2391633.0,0.0,0.0,0.0,,0.0,17243.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,San Juan Capistrano,Industrial,904246.0,0.0,0.0,136308.0,,0.0,0.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,Santa Margarita,Industrial,2461518.0,0.0,0.0,0.0,,0.0,0.0
+2023 Q1,Orange County,SOUTH ORANGE COUNTY,South County Totals,Industrial,33734531.0,0.011,39552.0,330141.0,1.76,0.0,206788.0
+2023 Q1,Orange County,Orange County Total,,Industrial,259742649.0,0.008,393760.0,2587925.0,1.67,1025262.0,1502144.0
+2023 Q1,Pittsburgh,Beaver County,,R&D/Flex,201810.0,0.064,0.0,,,,
+2023 Q1,Pittsburgh,Beaver County,,Warehouse/Manufacturing,11301314.0,0.053,-6400.0,,,,
+2023 Q1,Pittsburgh,Butler County,,R&D/Flex,112500.0,0.0,0.0,,,,
+2023 Q1,Pittsburgh,Butler County,,Warehouse/Manufacturing,8649499.0,0.04,60000.0,,,,
+2023 Q1,Pittsburgh,City of Pittsburgh,,R&D/Flex,1357010.0,0.168,-26654.0,,76.54,,
+2023 Q1,Pittsburgh,City of Pittsburgh,,Warehouse/Manufacturing,14400959.0,0.027,-40000.0,,7.9,,
+2023 Q1,Pittsburgh,Cranberry,,R&D/Flex,1779344.0,0.132,13422.0,,20.11,,
+2023 Q1,Pittsburgh,Cranberry,,Warehouse/Manufacturing,7274227.0,0.001,0.0,,,,
+2023 Q1,Pittsburgh,East,,R&D/Flex,1721093.0,0.024,0.0,,10.15,,
+2023 Q1,Pittsburgh,East,,Warehouse/Manufacturing,8908740.0,0.126,0.0,,5.46,,
+2023 Q1,Pittsburgh,Northeast,,R&D/Flex,3113603.0,0.069,0.0,,17.29,,
+2023 Q1,Pittsburgh,Northeast,,Warehouse/Manufacturing,11118447.0,0.005,0.0,,7.7,,
+2023 Q1,Pittsburgh,Northwest,,R&D/Flex,578486.0,0.095,0.0,,9.19,,
+2023 Q1,Pittsburgh,Northwest,,Warehouse/Manufacturing,6094888.0,0.012,37324.0,,8.0,,
+2023 Q1,Pittsburgh,South,,R&D/Flex,1172433.0,0.015,0.0,,,,
+2023 Q1,Pittsburgh,South,,Warehouse/Manufacturing,9981551.0,0.004,234741.0,,6.5,,
+2023 Q1,Pittsburgh,Washington County,,R&D/Flex,1023226.0,0.039,0.0,,11.0,,
+2023 Q1,Pittsburgh,Washington County,,Warehouse/Manufacturing,12024034.0,0.033,0.0,,6.37,,
+2023 Q1,Pittsburgh,West,,R&D/Flex,3697295.0,0.078,-8575.0,,16.94,,
+2023 Q1,Pittsburgh,West,,Warehouse/Manufacturing,19124756.0,0.018,0.0,,7.53,,
+2023 Q1,Pittsburgh,Westmoreland County,,R&D/Flex,591529.0,0.0,0.0,,,,
+2023 Q1,Pittsburgh,Westmoreland County,,Warehouse/Manufacturing,24009908.0,0.064,111500.0,,5.71,,
+2023 Q1,Polk County,Polk East,,Manufacturing,2078749.0,0.0,5600.0,0.0,,,
+2023 Q1,Polk County,Polk East,,Warehouse/Distribution,14761850.0,0.004,0.0,2113599.0,8.05,,
+2023 Q1,Polk County,Polk West,,Manufacturing,4818807.0,0.0,0.0,0.0,,,
+2023 Q1,Polk County,Polk West,,Warehouse/Distribution,34516541.0,0.073,85678.0,1262120.0,6.08,,
+2023 Q1,Polk County,Polk West,,R&D/Flex,495446.0,0.004,12084.0,0.0,12.0,,
+2023 Q1,Polk County,Polk County Total,,Manufacturing,6897556.0,0.0,5600.0,0.0,,,
+2023 Q1,Polk County,Polk County Total,,Warehouse/Distribution,49278391.0,0.052,85678.0,3375719.0,6.33,,
+2023 Q1,Polk County,Polk County Total,,Total,56671393.0,0.045,103362.0,3375719.0,6.34,,
+2023 Q1,Portland,Portland,Northeast,Industrial,49600044.0,0.027,175105.0,489700.0,0.82,,
+2023 Q1,Portland,Portland,Northwest,Industrial,39227791.0,0.03,-233271.0,293480.0,0.82,,
+2023 Q1,Portland,Portland,Southeast,Industrial,30483017.0,0.013,269063.0,,0.82,,
+2023 Q1,Portland,Portland,Southwest,Industrial,39120390.0,0.023,-51586.0,583386.0,0.85,131579.0,
+2023 Q1,Portland,Portland,Sunset Corridor,Industrial,32670723.0,0.015,16421.0,,,,
+2023 Q1,Portland,Portland,Clark County,Industrial,26340361.0,0.026,-324908.0,1133014.0,0.82,,
+2023 Q1,Portland,Portland,Total,Industrial,217442326.0,0.023,-149176.0,2499580.0,,131579.0,
+2023 Q1,Puget Sound,Seattle Close-in,Downtown/Lk Union,Industrial,2089048.0,0.151,-3839.0,0.0,,,
+2023 Q1,Puget Sound,Seattle Close-in,North Seattle/Interbay,Industrial,6902389.0,0.106,-14349.0,0.0,,,
+2023 Q1,Puget Sound,Seattle Close-in,East Seattle/Capitol Hill/Rainier Valley,Industrial,1922754.0,0.116,1470.0,0.0,,,
+2023 Q1,Puget Sound,Seattle Close-in,South SeattleWest/Seattle,Industrial,39859807.0,0.053,-251144.0,692452.0,,,
+2023 Q1,Puget Sound,Seattle Close-in,Total,Industrial,50773998.0,0.067,-267862.0,692452.0,1.43,,
+2023 Q1,Puget Sound,Kent Valley,SeaTac,Industrial,6021671.0,0.021,-90097.0,0.0,,,
+2023 Q1,Puget Sound,Kent Valley,Tukwila,Industrial,12161553.0,0.08,25164.0,30000.0,,,
+2023 Q1,Puget Sound,Kent Valley,Renton,Industrial,16194753.0,0.019,102465.0,0.0,,,
+2023 Q1,Puget Sound,Kent Valley,Kent,Industrial,48172306.0,0.046,459365.0,722567.0,,,
+2023 Q1,Puget Sound,Kent Valley,Auburn,Industrial,27867218.0,0.029,-80678.0,424917.0,,,
+2023 Q1,Puget Sound,Kent Valley,Federal Way,Industrial,1593185.0,0.081,-11843.0,1507581.0,,,
+2023 Q1,Puget Sound,Kent Valley,Sumner,Industrial,19386608.0,0.042,-124659.0,0.0,,,
+2023 Q1,Puget Sound,Kent Valley,Total,Industrial,131397294.0,0.041,279717.0,2685065.0,0.96,,
+2023 Q1,Puget Sound,Tacoma/Fife,Port of Tacoma,Industrial,12580815.0,0.015,-75600.0,0.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Tacoma West,Industrial,5580999.0,0.034,-924.0,405583.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Fife,Industrial,13231030.0,0.028,-141632.0,27200.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Puyallup,Industrial,7989140.0,0.04,-275893.0,274690.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Frederickson,Industrial,10832325.0,0.078,129050.0,3236697.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Lakewood,Industrial,6986236.0,0.053,96032.0,10400.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,DuPont,Industrial,4635287.0,0.008,-5316.0,0.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Gig Harbor,Industrial,757586.0,0.206,-18400.0,0.0,,,
+2023 Q1,Puget Sound,Tacoma/Fife,Total,Industrial,62593418.0,0.04,-292683.0,3954570.0,0.89,,
+2023 Q1,Puget Sound,Eastside,Bellevue,Industrial,2030527.0,0.036,-17680.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,I-90 Corridor,Industrial,2589511.0,0.03,-9196.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,Kirkland/Totem Lake,Industrial,2443603.0,0.142,-158467.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,Overlake,Industrial,704781.0,0.065,-5615.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,Marymoor,Industrial,3672768.0,0.006,108458.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,Willows,Industrial,3834195.0,0.069,-53456.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,Bothell,Industrial,3693624.0,0.126,-66888.0,46200.0,,,
+2023 Q1,Puget Sound,Eastside,Woodinville/Maltby,Industrial,6886356.0,0.029,-28538.0,0.0,,,
+2023 Q1,Puget Sound,Eastside,Total,Industrial,25855365.0,0.058,-299812.0,46200.0,1.76,,
+2023 Q1,Puget Sound,Northend,Lynnwood/Edmonds/Mtlk Terrace,Industrial,2600648.0,0.021,-50150.0,0.0,,,
+2023 Q1,Puget Sound,Northend,Monroe,Industrial,1915956.0,0.003,22020.0,127000.0,,,
+2023 Q1,Puget Sound,Northend,Mukilteo,Industrial,2922550.0,0.064,34915.0,58221.0,,,
+2023 Q1,Puget Sound,Northend,Everett,Industrial,10117763.0,0.065,-89848.0,485683.0,,,
+2023 Q1,Puget Sound,Northend,No. Snohomish,Industrial,4492792.0,0.103,597719.0,623516.0,,,
+2023 Q1,Puget Sound,Northend,Total,Industrial,22049709.0,0.062,768012.0,1294420.0,1.04,,
+2023 Q1,Puget Sound,Puget Sound,Total,Whse/Bus Pk/Manuf,281924701.0,0.046,-492470.0,8672707.0,1.06,,
+2023 Q1,Puget Sound,Puget Sound,Total,Flex,10745083.0,0.121,-3142.0,0.0,1.96,,
+2023 Q1,Puget Sound,Puget Sound,Total,Industrial,292669784.0,0.048,-495612.0,8672707.0,1.14,,
+2023 Q1,Puget Sound,Thurston County,Lacey,Industrial,12162893.0,0.038,90051.0,64000.0,,,
+2023 Q1,Puget Sound,Thurston County,Olympia,Industrial,822123.0,0.0,0.0,0.0,,,
+2023 Q1,Puget Sound,Thurston County,Tumwater,Industrial,4181642.0,0.01,-17155.0,461345.0,,,
+2023 Q1,Puget Sound,Thurston County,Outlying Thurston,Industrial,77250.0,0.0,0.0,0.0,,,
+2023 Q1,Puget Sound,Thurston County,Total,Industrial,17243908.0,0.029,72896.0,525345.0,0.65,,
+2023 Q1,Puget Sound,Lewis County,Total,Industrial,5638167.0,0.0,0.0,224884.0,0.45,,
+2023 Q1,Puget Sound,Five-County,Total,Industrial,315551859.0,0.046,-422716.0,9422936.0,1.11,,
+2023 Q1,Raleigh Durham,West Raleigh,,Warehouse,1388486.0,,-8274.0,,,,
+2023 Q1,Raleigh Durham,US 70/Glenwood Avenue,,Warehouse,2680787.0,0.093,-154869.0,120120.0,9.35,,
+2023 Q1,Raleigh Durham,Six Forks/Falls of Neuse Road,,Warehouse,2795392.0,0.037,,11870.0,9.08,,
+2023 Q1,Raleigh Durham,US 1/Capital Boulevard,,Warehouse,7547134.0,0.023,3988.0,165349.0,10.48,,
+2023 Q1,Raleigh Durham,Eastern Wake,,Warehouse,20513962.0,0.048,364240.0,1150560.0,9.55,,
+2023 Q1,Raleigh Durham,Southern Wake,,Warehouse,5980128.0,0.109,-40298.0,32268.0,10.24,,
+2023 Q1,Raleigh Durham,Cary,,Warehouse,2548480.0,,480.0,,,,
+2023 Q1,Raleigh Durham,RTP/I-40 Corridor,,Warehouse,20481156.0,0.017,288880.0,568325.0,9.34,,
+2023 Q1,Raleigh Durham,North Durham,,Warehouse,2489256.0,,4881.0,,,,
+2023 Q1,Raleigh Durham,South Durham,,Warehouse,1766352.0,,,,,,
+2023 Q1,Raleigh Durham,Chapel Hill/Orange County,,Warehouse,4924845.0,0.215,-17628.0,921500.0,8.39,,
+2023 Q1,Raleigh Durham,Johnston County,,Warehouse,8562316.0,0.012,197608.0,1494122.0,6.42,,
+2023 Q1,Raleigh Durham,US 1/64 West Corridor,,Warehouse,8717688.0,0.025,-66600.0,178670.0,5.87,,
+2023 Q1,Raleigh Durham,Franklin County,,Warehouse,3174975.0,0.018,-50793.0,,6.34,,
+2023 Q1,Raleigh Durham,Granville County,,Warehouse,5109556.0,0.045,340687.0,,7.59,,
+2023 Q1,Raleigh Durham,Market Totals,,Warehouse,98680513.0,0.041,862302.0,4642784.0,8.54,,
+2023 Q1,Reno,Central/Airport,,Bulk,8125560.0,0.026,-67916.0,,0.75,,
+2023 Q1,Reno,Central/Airport,,Flex,2560574.0,0.042,-68767.0,,1.09,,
+2023 Q1,Reno,East Valley,,Bulk,25408939.0,0.041,1240030.0,,0.8,,
+2023 Q1,Reno,East Valley,,Flex,122687.0,0.0,0.0,,0.0,,
+2023 Q1,Reno,North Valley,,Bulk,25828551.0,0.009,-77251.0,,0.0,,
+2023 Q1,Reno,North Valley,,Flex,228956.0,0.0,0.0,,0.0,,
+2023 Q1,Reno,South Reno,,Bulk,7774858.0,0.06,174764.0,,1.22,,
+2023 Q1,Reno,South Reno,,Flex,1984051.0,0.014,-781.0,,1.52,,
+2023 Q1,Reno,Sparks,,Bulk,27625184.0,0.018,-100923.0,,1.04,,
+2023 Q1,Reno,Sparks,,Flex,2951252.0,0.014,-6426.0,,1.23,,
+2023 Q1,Reno,West Reno,,Bulk,2215063.0,0.0,12923.0,,0.7,,
+2023 Q1,Reno,West Reno,,Flex,409060.0,0.004,424.0,,1.0,,
+2023 Q1,Reno,Market Total,,Bulk,96978155.0,0.025,1181627.0,,0.66,,
+2023 Q1,Reno,Market Total,,Flex,8256580.0,0.022,-75550.0,,1.22,,
+2023 Q1,Reno,Market Total,,Total,105234735.0,0.025,1106077.0,,0.93,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Distribution - Class A,11871169.0,0.11,,,0.8,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Distribution - Class B,1353222.0,0.022,,,0.67,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Light Industrial - Class A,2027860.0,0.028,,,0.86,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Light Industrial - Class B,3323092.0,0.032,,,0.73,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Flex/High Tech / R&D,2921479.0,0.065,,,0.83,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Special Purpose,818350.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Northgate/Natomas,,Incubator,486628.0,0.055,,,0.82,,
+2023 Q1,Sacramento Snapshot,Richards,,Distribution - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Richards,,Distribution - Class B,1152769.0,0.0,,,0.58,,
+2023 Q1,Sacramento Snapshot,Richards,,Light Industrial - Class A,204105.0,0.066,,,0.83,,
+2023 Q1,Sacramento Snapshot,Richards,,Light Industrial - Class B,1475375.0,0.014,,,,,
+2023 Q1,Sacramento Snapshot,Richards,,Flex/High Tech / R&D,372168.0,0.013,,,0.65,,
+2023 Q1,Sacramento Snapshot,Richards,,Special Purpose,1515983.0,0.042,,,0.78,,
+2023 Q1,Sacramento Snapshot,Richards,,Incubator,12000.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Distribution - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Distribution - Class B,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Light Industrial - Class A,5000.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Light Industrial - Class B,2359648.0,0.031,,,1.17,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Flex/High Tech / R&D,46830.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Special Purpose,2502238.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Downtown/Midtown/East Sac,,Incubator,42000.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Distribution - Class A,8105490.0,0.117,,,0.84,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Distribution - Class B,3028185.0,0.035,,,,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Light Industrial - Class A,1554089.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Light Industrial - Class B,6414616.0,0.026,,,0.85,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Flex/High Tech / R&D,1795588.0,0.011,,,0.91,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Special Purpose,4335625.0,0.015,,,0.74,,
+2023 Q1,Sacramento Snapshot,West Sacramento,,Incubator,91507.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Distribution - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Distribution - Class B,2144532.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Light Industrial - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Light Industrial - Class B,2701961.0,0.026,,,1.66,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Flex/High Tech / R&D,71105.0,0.0,,,0.85,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Special Purpose,353817.0,0.039,,,1.0,,
+2023 Q1,Sacramento Snapshot,South Sacramento,,Incubator,247600.0,0.037,,,0.83,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Distribution - Class A,2687907.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Distribution - Class B,769107.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Light Industrial - Class A,417906.0,0.0,,,0.62,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Light Industrial - Class B,1926700.0,0.002,,,1.1,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Flex/High Tech / R&D,550149.0,0.03,,,1.2,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Special Purpose,983820.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Elk Grove/Laguna/Galt,,Incubator,400827.0,0.01,,,1.16,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Distribution - Class A,4550211.0,0.0,,,0.75,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Distribution Class B,2995110.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Light Industrial - Class A,1538662.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Light Industrial - Class B,13205660.0,0.024,,,1.07,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Flex/High Tech / R&D,1388050.0,0.038,,,1.08,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Special Purpose,4075348.0,0.002,,,0.51,,
+2023 Q1,Sacramento Snapshot,Power Inn Area,,Incubator,890983.0,0.015,,,0.98,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Distribution - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Distribution - Class B,472397.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Light Industrial - Class A,1578224.0,0.023,,,0.76,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Light Industrial - Class B,2753877.0,0.053,,,0.89,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Flex/High Tech / R&D,808064.0,0.075,,,1.08,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Special Purpose,1153266.0,0.023,,,1.34,,
+2023 Q1,Sacramento Snapshot,Northeast Sacramento,,Incubator,153908.0,0.0,,,0.0,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Distribution - Class A,1386926.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Distribution - Class B,2146864.0,0.033,,,0.71,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Light Industrial - Class A,1195196.0,0.011,,,0.9,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Light Industrial - Class B,5712255.0,0.008,,,0.57,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Flex/High Tech / R&D,2989484.0,0.064,,,0.95,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Special Purpose,1796305.0,0.02,,,0.85,,
+2023 Q1,Sacramento Snapshot,Rancho Cordova,,Incubator,3553617.0,0.021,,,0.98,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Distribution - Class A,3383403.0,0.028,,,0.7,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Distribution - Class B,2834721.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Light Industrial - Class A,1142280.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Light Industrial - Class B,3385035.0,0.01,,,1.03,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Flex/High Tech / R&D,3420575.0,0.016,,,1.49,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Special Purpose,1269487.0,0.045,,,0.65,,
+2023 Q1,Sacramento Snapshot,Roseville/Rocklin,,Incubator,1290194.0,0.0,,,1.22,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Distribution - Class A,1996910.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Distribution - Class B,951256.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Light Industrial - Class A,336472.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Light Industrial - Class B,4993589.0,0.015,,,0.79,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Flex/High Tech / R&D,574139.0,0.026,,,0.88,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Special Purpose,733841.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,1-80/Roseville Road,,Incubator,1309254.0,0.006,,,0.92,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Distribution - Class A,1597248.0,0.063,,,0.5,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Distribution - Class B,364586.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Light Industrial - Class A,37800.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Light Industrial - Class B,540391.0,0.033,,,1.18,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Flex/High Tech / R&D,99986.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Special Purpose,1100000.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Lincoln,,Incubator,16000.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Distribution - Class A,7316070.0,0.0,,,0.57,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Distribution - Class B,3996704.0,0.0,,,0.55,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Light Industrial - Class A,186586.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Light Industrial - Class B,2060106.0,0.0,,,0.78,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Flex/High Tech / R&D,801675.0,0.035,,,,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Special Purpose,2884138.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Woodland/Davis,,Incubator,552698.0,0.0,,,2.5,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Distribution - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Distribution - Class B,106532.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Light Industrial - Class A,272091.0,0.0,,,1.15,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Light Industrial - Class B,917528.0,0.006,,,1.29,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Flex/High Tech / R&D,2120001.0,0.045,,,1.23,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Special Purpose,598661.0,0.012,,,1.0,,
+2023 Q1,Sacramento Snapshot,Folsom/El Dorado Hills,,Incubator,815644.0,0.004,,,1.11,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Distribution - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Distribution- Class B,148050.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Light Industrial - Class A,95331.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Light Industrial - Class B,1831169.0,0.006,,,0.94,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Flex/High Tech / R&D,433550.0,0.0,,,0.99,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Special Purpose,115748.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Auburn/Newcastle,,Incubator,385216.0,0.014,,,1.07,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Distribution - Class A,560617.0,0.0,,,0.7,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Distribution - Class B,1312134.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Light Industrial - Class A,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Light Industrial - Class B,1645992.0,0.039,,,0.55,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Flex/High Tech / R&D,1312505.0,0.113,,,,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Special Purpose,3111231.0,0.043,,,0.55,,
+2023 Q1,Sacramento Snapshot,McClellan Park,,Incubator,0.0,0.0,,,,,
+2023 Q1,Sacramento Snapshot,Market Total,,Distribution - Class A,43455951.0,0.06,,,0.73,,
+2023 Q1,Sacramento Snapshot,Market Total,,Distribution - Class B,23776169.0,0.009,,,0.61,,
+2023 Q1,Sacramento Snapshot,Market Total,,Light Industrial - Class A,10591602.0,0.011,,,0.76,,
+2023 Q1,Sacramento Snapshot,Market Total,,Light Industrial - Class B,55246994.0,0.021,,,0.87,,
+2023 Q1,Sacramento Snapshot,Market Total,,Flex/High Tech / R&D,19705348.0,0.045,,,1.02,,
+2023 Q1,Sacramento Snapshot,Market Total,,Special Purpose,27347858.0,0.015,,,0.75,,
+2023 Q1,Sacramento Snapshot,Market Total,,Incubator,10248076.0,0.014,,,0.97,,
+2023 Q1,Sacramento Snapshot,Market Total,,Total,190371998.0,0.029,,,0.81,,
+2023 Q1,Salt Lake City,Airport,,,20656479.0,0.041,-824879.0,6614799.0,0.84,,1216913.0
+2023 Q1,Salt Lake City,Bluffdale,,,2422189.0,0.0,180818.0,142719.0,1.4,174471.0,184578.0
+2023 Q1,Salt Lake City,California Ave,,,55536553.0,0.054,-124847.0,1954026.0,0.79,1082776.0,974522.0
+2023 Q1,Salt Lake City,Downtown,,,15185961.0,0.009,-30886.0,,0.87,,109044.0
+2023 Q1,Salt Lake City,Draper,,,4797767.0,0.008,220641.0,159600.0,1.22,,70866.0
+2023 Q1,Salt Lake City,Murray,,,3950928.0,0.005,0.0,,0.95,,14699.0
+2023 Q1,Salt Lake City,Sandy,,,5769335.0,0.002,0.0,98619.0,1.45,,3120.0
+2023 Q1,Salt Lake City,South Salt Lake,,,17593233.0,0.002,27810.0,,0.8,,145189.0
+2023 Q1,Salt Lake City,West Jordan,,,11080132.0,0.029,12786.0,1222304.0,0.89,,234910.0
+2023 Q1,Salt Lake City,West Valley,,,22608419.0,0.029,109427.0,231536.0,0.69,,111403.0
+2023 Q1,Salt Lake City,Market Total,,,159600996.0,0.032,-429130.0,10295755.0,0.8,1385095.0,3065244.0
+2023 Q1,Savannah,Savannah Market,,Overall,112311136.0,0.013,1233852.0,27488379.0,6.24,11943516.0,
+2023 Q1,Silicon Valley,Palo Alto,,Warehouse,1269247.0,0.02,0.0,,2.25,,
+2023 Q1,Silicon Valley,Palo Alto,,Manufacturing,1269247.0,0.02,0.0,,2.9,,
+2023 Q1,Silicon Valley,Mountain View/Los Altos,,Warehouse,1858307.0,0.033,8192.0,,2.15,,
+2023 Q1,Silicon Valley,Mountain View/Los Altos,,Manufacturing,1858307.0,0.033,8192.0,,2.99,,
+2023 Q1,Silicon Valley,Sunnyvale,,Warehouse,5869277.0,0.022,-9960.0,,2.85,,
+2023 Q1,Silicon Valley,Sunnyvale,,Manufacturing,5869277.0,0.022,-9960.0,,1.65,,
+2023 Q1,Silicon Valley,Santa Clara,,Warehouse,15910354.0,0.021,-96514.0,,1.76,,
+2023 Q1,Silicon Valley,Santa Clara,,Manufacturing,15910354.0,0.021,-96514.0,,1.57,,
+2023 Q1,Silicon Valley,West Valley,,Warehouse,1591717.0,0.014,8160.0,,2.2,,
+2023 Q1,Silicon Valley,West Valley,,Manufacturing,1591717.0,0.014,8160.0,,2.15,,
+2023 Q1,Silicon Valley,San Jose-Downtown/IBP,,Warehouse,12395703.0,0.028,-62156.0,,1.43,,
+2023 Q1,Silicon Valley,San Jose-Downtown/IBP,,Manufacturing,12395703.0,0.028,-62156.0,,1.53,,
+2023 Q1,Silicon Valley,San Jose - North,,Warehouse,10550101.0,0.016,2274.0,,1.41,,
+2023 Q1,Silicon Valley,San Jose - North,,Manufacturing,10550101.0,0.016,2274.0,,1.64,,
+2023 Q1,Silicon Valley,San Jose - South,,Warehouse,12777629.0,0.044,-41324.0,,1.3,,
+2023 Q1,Silicon Valley,San Jose - South,,Manufacturing,12777629.0,0.044,-41324.0,,1.49,,
+2023 Q1,Silicon Valley,Milpitas,,Warehouse,9657524.0,0.007,28870.0,,1.72,,
+2023 Q1,Silicon Valley,Milpitas,,Manufacturing,9657524.0,0.007,28870.0,,1.56,,
+2023 Q1,Silicon Valley,Fremont/Newark,,Warehouse,37078743.0,0.029,-451040.0,,1.41,,
+2023 Q1,Silicon Valley,Fremont/Newark,,Manufacturing,37078743.0,0.029,-451040.0,,1.6,,
+2023 Q1,Silicon Valley,Total,,Industrial,108958602.0,0.026,-613498.0,995307.0,1.57,,
+2023 Q1,Silicon Valley,Total,,Manufacturing,60687574.0,0.024,-193642.0,,1.74,,
+2023 Q1,Silicon Valley,Total,,Warehouse,48271028.0,0.028,-419856.0,,1.4,,

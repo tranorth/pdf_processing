@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Allied Drive/I-65,,,18773909,1.3,-77028,0,11.91,,
+CBD/Polk Avenue,,,12831208,0.8,42368,0,9.23,,
+Elm Hill Pike/I-40,,,34201470,3.0,172660,297000,10.55,,
+I-840,,,23823703,3.5,233301,2272183,7.83,,
+Interchange City,,,75183962,2.4,342102,796292,9.03,,
+MetroCenter/Cockrill Bend,,,13493052,0.0,118337,566160,10.54,,
+Northeast/I-65N Corridor,,,43165061,4.5,-64295,1531216,7.49,,
+NASHVILLE,,"Warehouse/Distribution",139370120,3.7,537495,5462851,7.91,,
+NASHVILLE,,"Manufacturing",66675789,0.3,23088,0,8.60,,
+NASHVILLE,,"R&D/Flex",11364644,4.5,65324,0,13.72,,
+NASHVILLE,,,221472365,2.7,767445,5462851,8.94,,

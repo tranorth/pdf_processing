@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Boca Raton,,Industrial,7413431,0.0475,-143387,0,16.80,0,
+Boynton Beach,,Industrial,4888641,0.0215,-9222,457396,15.23,0,
+Delray Beach,,Industrial,3177531,0.0346,11597,269783,16.16,0,
+Jupiter,,Industrial,1659179,0.0152,1200,0,19.00,0,
+Lake Worth,,Industrial,3910625,0.0091,1819,0,22.29,0,
+PB Outlying,,Industrial,5154632,0.3107,2591,0,13.57,0,
+Riviera Beach,,Industrial,12587773,0.0443,46396,0,19.39,0,
+West Palm Beach,,Industrial,14794524,0.0612,35109,0,15.56,0,
+Market Total,,Industrial,53586336,0.07,-53897,727179,15.20,0,

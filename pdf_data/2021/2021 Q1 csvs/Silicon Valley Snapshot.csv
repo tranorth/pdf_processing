@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+San Jose Downtown/IBP,,Warehouse,4556655,0.085,138166,,1.10,,380129
+San Jose - North,,Warehouse,5745431,0.048,81062,,1.15,,482229
+Sun Jose - South,,Warehouse,6773118,0.053,39899,,1.00,,136411
+Milpitas,,Warehouse,7084694,0.068,42970,,1.10,,287511
+Santa Clara,,Warehouse,5057673,0.031,-38800,,1.25,,0
+West Valley,,Warehouse,357222,0.317,0,,1.12,,0
+Sunnyvale,,Warehouse,2449286,0.056,0,,1.35,,0
+Mountain View/Los Altas,,Warehouse,156097,0.013,0,,1.35,,0
+Palo Alto,,Warehouse,26620,0.0,0,,2.03,,0
+Fremont/Newark,,Warehouse,16703331,0.029,382647,,1.10,,590308
+Silicon Valley Warehouse Market,,Warehouse,48910127,0.049,645944,,1.12,,1876588

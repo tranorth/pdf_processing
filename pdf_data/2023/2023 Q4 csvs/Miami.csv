@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport/Doral,,Industrial,60424331,0.0324,112796,1464241,19.5,,
+Central Dade,,Industrial,39691836,0.0337,926759,,14.3,,
+Hialeah,,Industrial,16707629,0.0398,-42158,409189,14.3,,
+Kendall/Tamiami,,Industrial,14404811,0.0259,-102019,,13,,
+Medley,,Industrial,46107537,0.0311,598487,1973793,17.2,,
+Miami Lakes,,Industrial,16428749,0.0406,2179671,2527500,17,,
+North Central Dade,,Industrial,38889926,0.0311,-95215,1805758,16.1,,
+Northeast Dade,,Industrial,2686371,0.0177,-7285,,14.5,,
+Out of Submarket,,Industrial,1389117,0.0018,0,,,
+South Dade,,Industrial,4634516,0.0135,-32774,398230,13,,
+Grand Total,,Industrial,241364823,0.0321,3538262,8578711,15.5,,

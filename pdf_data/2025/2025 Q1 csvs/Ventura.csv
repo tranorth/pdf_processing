@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Camarillo,,,10882248,0.024,38263,61000,1.07,0,96884
+Moorpark,,,4064576,0.031,-3280,0,1.61,0,22248
+Oxnard/Port Hueneme,,,21941072,0.017,-154584,0,0.93,0,0
+Simi Valley,,,9222872,0.049,360671,180502,1.43,352867,36979
+Thousand Oaks,,,8398383,0.078,-89638,0,1.40,120290,16500
+Ventura,,,9561688,0.021,14009,17383,0.88,0,82626
+Westlake Village,,,3712475,0.008,5400,0,1.75,0,0
+East County,,,25398306,0.05,273153,180502,1.46,473157,75727
+West County,,,42385008,0.02,-102312,78383,0.96,0,179510
+Ventura County,,,67783314,0.031,170841,258885,1.22,473157,255237

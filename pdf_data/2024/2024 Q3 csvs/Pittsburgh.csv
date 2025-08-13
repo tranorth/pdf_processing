@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Beaver County,,,11560671,3.2,-68464,,6.00,,
+Butler County,,,8870212,1.9,30599,,6.82,,
+City of Pittsburgh,,,16092316,4.1,-69769,,10.23,,
+Cranberry,,,9053571,3.1,-17086,,19.73,,
+East,,,10684613,12.3,-157056,,5.45,,
+Northeast,,,14251231,2.7,-112533,,15.32,,
+Northwest,,,6722794,1.4,49457,,9.25,,
+South,,,11322584,0.6,-4464,,5.24,,
+Washington County,,,12642026,3.7,-16837,,6.54,,
+West,,,24016355,6.6,55301,,9.77,,
+Westmoreland County,,,26316861,5.9,-107333,,6.27,,
+Grand Total,,,151506714,4.5,-418185,400000,9.30,,

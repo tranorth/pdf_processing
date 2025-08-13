@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Oakland/East Bay,,Overall,127988050,0.049,-1300000,1233542,1.33,475400,
+I-680/Tri-Valley,,Overall,38158966,0.055,-292000,0,1.13,0,
+Silicon Valley,,Overall,109188269,0.029,-231000,1177672,1.69,0,
+San Francisco Peninsula,,Overall,35460563,0.046,-357000,0,1.82,0,
+San Francisco,,Overall,21677040,0.079,-236200,0,2.24,0,
+Napa-Solano,,Overall,54787979,0.023,-42000,1250489,0.95,0,
+Sacramento,,Overall,193968217,0.047,802000,147873,0.81,1400000,
+Central Valley,,Overall,135891049,0.062,390000,4685147,0.74,0,

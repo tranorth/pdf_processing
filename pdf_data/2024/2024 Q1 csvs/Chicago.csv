@@ -1,0 +1,24 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+McHenry County,,Industrial,23854895,0.073,30670,0,"6.45 to 6.65",0,166252
+Lake County,,Industrial,80395551,0.04,270464,334299,"6.10 to 7.00",11440,233854
+NE Cook County,,Industrial,49918066,0.029,-377692,1000394,"6.95 to 8.20",0,29259
+NW Cook County,,Industrial,32084989,0.06,-562050,48000,"5.10 to 7.50",0,235533
+N Kane County,,Industrial,36263095,0.063,-31660,22245,"6.00 to 6.50",810960,269689
+N DuPage County,,Industrial,45864486,0.02,636316,99300,"7.05 to 7.30",0,77067
+O'Hare,,Industrial,101409771,0.023,-562050,109241,"8.05 to 9.45",98214,1093789
+City North,,Industrial,60604061,0.029,-127902,1184000,"7.55 to 8.70",0,95790
+Near West Suburbs,,Industrial,82037810,0.034,48365,0,"6.60 to 7.75",398954,176060
+West Suburbs,,Industrial,39058406,0.009,200138,0,"7.20 to 8.00",0,71983
+Central Kane & DuPage,,Industrial,40636287,0.029,354121,878403,"5.95 to 7.00",0,53550
+Far West Suburbs,,Industrial,69923215,0.029,339797,929610,"5.20 to 6.50",0,183932
+Southwest Suburbs,,Industrial,65062236,0.043,-247550,359999,"5.85 to 6.30",0,301176
+Far SW Suburbs,,Industrial,96812879,0.038,161234,438200,"6.60 to 7.15",306839,870979
+City South,,Industrial,105493887,0.021,21967,73444,"7.35 to 8.00",22250,107759
+South Suburbs,,Industrial,62388302,0.096,-1761740,48600,"5.75 to 6.10",0,163586
+Joliet Area,,Industrial,104339725,0.06,2209433,3103072,"6.25 to 7.50",1139153,602247
+Northwest Indiana,,Industrial,32490204,0.079,94558,625560,"5.05 to 6.55",400000,55359
+Dekalb Area,,Industrial,14045738,0,0,775000,"4.30 to 4.65",0,0
+Chicago Metro Subtotal,,Industrial,1142683603,0.04,1633725,10030167,"6.34 to 7.14",3187810,4787864
+Southeast Wisconsin,,Industrial,84634550,0.113,1859101,0,"5.05 to 6.40",2719594,499616
+Rockford Area,,Industrial,37555315,0.035,1436337,0,"4.00 to 4.95",1318600,0
+Total,,Industrial,1264873468,0.045,4929163,10030167,"6.18 to 7.01",7226004,5287480

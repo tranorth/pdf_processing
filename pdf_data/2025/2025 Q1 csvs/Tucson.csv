@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport,,,11881044,0.065,-170760,703823,0.83,25000,
+East Central,,,1189709,0.05,6308,,1.02,0,
+North Central,,,191587,0.00,0,,,,
+Northeast,,,1045095,0.031,2350,,,,
+Northwest,,,7989919,0.103,-48687,,0.93,0,
+Southeast,,,12670589,0.044,-156443,314879,0.79,20900,
+Southwest,,,2976390,0.014,-22781,,0.77,0,
+West Central,,,4471340,0.008,2557,,0.84,0,
+Tucson Total,,,42415673,0.055,-387456,1018702,0.82,45900,

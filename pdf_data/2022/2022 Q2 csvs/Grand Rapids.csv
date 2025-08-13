@@ -1,0 +1,4 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Kent County,,Industrial,131774989,0.033,1507337,1694876,6.12,,
+Ottawa County,,Industrial,42722098,0.011,167824,175000,5.83,,
+TOTAL,,Industrial,174497087,0.028,1675161,1869876,6.05,,

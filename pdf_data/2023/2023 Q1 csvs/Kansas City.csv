@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Clay,,Industrial,53922193,0.047,900173,1659475,4.80,,
+Jackson,,Industrial,104518857,0.024,-320320,4222258,4.83,,
+Johnson,,Industrial,83519064,0.042,-173983,3550369,5.88,,
+Platte,,Industrial,16794343,0.013,47306,328320,4.87,,
+Wyandotte,,Industrial,45934492,0.013,222746,40000,3.86,,
+Cass,,Industrial,3995096,0.154,603000,498599,4.33,,
+,,Bulk Distribution,160484119,0.037,1182653,10102157,4.33,,
+,,Modern Bulk Distribution,72811519,0.047,1495921,9120157,4.82,,
+Metro,,Industrial,308684045,0.032,1278922,10299021,5.00,,

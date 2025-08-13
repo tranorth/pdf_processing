@@ -1,0 +1,40 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+North Orange County,Anaheim,Industrial,46387756,0.04,161486,604389,1.55,163506,508459
+North Orange County,Brea,Industrial,11378187,0.053,-19040,0,1.55,0,0
+North Orange County,Buena Park,Industrial,13972195,0.072,2002,0,1.55,0,0
+North Orange County,Fullerton,Industrial,20145342,0.037,10664,0,1.55,0,297670
+North Orange County,La Habra,Industrial,2353349,0.01,0,0,1.55,0,0
+North Orange County,Orange,Industrial,12203744,0.007,58485,289980,1.55,0,90550
+North Orange County,Placentia,Industrial,3578130,0.022,0,0,1.55,0,0
+North Orange County,Yorba Linda,Industrial,1727020,0.0,0,0,1.55,0,0
+North Orange County,,Industrial,111745723,0.04,213597,894369,1.55,163506,896679
+West Orange County,Cypress,Industrial,6131423,0.155,-179316,0,1.66,0,110183
+West Orange County,Garden Grove,Industrial,12144976,0.014,144204,0,1.66,0,58274
+West Orange County,Huntington Beach,Industrial,13333087,0.012,35466,318751,1.66,0,19435
+West Orange County,La Palma,Industrial,2637948,0.0,0,0,1.66,0,0
+West Orange County,Los Alamitos,Industrial,2251618,0.037,11148,0,1.66,0,0
+West Orange County,Seal Beach,Industrial,972051,0.014,0,0,1.66,0,0
+West Orange County,Stanton,Industrial,1072081,0.013,-13680,0,1.66,0,12792
+West Orange County,Westminster,Industrial,1874758,0.119,-34386,0,1.66,0,0
+West Orange County,,Industrial,40417942,0.04,-36564,318751,1.66,0,200684
+Greater Airport Area,Costa Mesa,Industrial,8498327,0.032,19388,0,1.82,0,0
+Greater Airport Area,Fountain Valley,Industrial,4146277,0.02,-22467,0,1.82,0,51572
+Greater Airport Area,Irvine,Industrial,17511309,0.039,-90205,203025,1.82,0,123638
+Greater Airport Area,Newport Beach,Industrial,690354,0.0,0,0,1.82,0,0
+Greater Airport Area,Santa Ana,Industrial,27633284,0.047,-157910,0,1.82,0,476100
+Greater Airport Area,Tustin,Industrial,7325781,0.062,90774,142924,1.82,0,37894
+Greater Airport Area,,Industrial,65805332,0.042,-160420,345949,1.82,162656,689204
+South Orange County,Aliso Viejo,Industrial,1341205,0.031,0,0,1.71,0,0
+South Orange County,Foothill Ranch,Industrial,3164459,0.039,-32257,0,1.71,0,24000
+South Orange County,Irvine Spectrum,Industrial,16660823,0.041,-453974,817532,1.71,0,32098
+South Orange County,Laguna Hills,Industrial,1105229,0.011,-12000,0,1.71,0,0
+South Orange County,Laguna Niguel,Industrial,548117,0.0,0,0,1.71,0,0
+South Orange County,Lake Forest,Industrial,4239575,0.029,7101,0,1.71,0,30200
+South Orange County,Mission Viejo,Industrial,952065,0.0,0,0,1.71,0,0
+South Orange County,San Clemente,Industrial,2391633,0.024,-12070,0,1.71,0,0
+South Orange County,San Juan Capistrano,Industrial,904246,0.0,0,136308,1.71,0,0
+South Orange County,Santa Margarita,Industrial,2461518,0.013,-10109,0,1.71,0,0
+South Orange County,,Industrial,33768870,0.032,-513309,953840,1.71,0,86298
+Orange County Total,,M&W,211026781,0.042,-374802,2512909,,,1716829
+Orange County Total,,R&D,40711086,0.025,-121894,0,,,156036
+Market Total,,Industrial,251797867,0.039,-496696,2512909,1.66,326162,1872865

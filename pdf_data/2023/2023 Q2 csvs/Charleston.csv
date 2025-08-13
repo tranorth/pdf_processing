@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Charleston,,Industrial,1044665,0,0,50000,,,
+East Cooper,,Industrial,8998631,0.0047,22164,0,,,
+Hanahan,,Industrial,6883723,0.0024,0,0,,,
+Hwy 52 North,,Industrial,6364966,0.0255,0,0,,,
+1-26 North,,Industrial,25399839,0.0478,406811,8984024,,,
+North Charleston/Ladson,,Industrial,29907641,0.0151,628136,252800,,,
+West Ashley,,Industrial,1025532,0.0128,0,0,,,
+MARKET TOTAL,,Manufacturing,24693065,0.0013,10765,0,,,
+MARKET TOTAL,,R&D/Flex,2385476,0.0415,29084,0,,,
+MARKET TOTAL,,Warehouse/Distribution,52092891,0.0279,1088259,8480486,,,
+MARKET TOTAL,,Industrial,79624997,0.0181,1165271,9236824,,,

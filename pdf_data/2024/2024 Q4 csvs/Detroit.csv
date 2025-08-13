@@ -1,0 +1,14 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Detroit,,"Industrial",88786633,0.049,218972,0,5.92,0,
+Downriver,,"Industrial",73613849,0.032,508014,0,6.57,899901,
+1-75 Corridor,,"Industrial",85858110,0.029,-181108,816486,8.41,129415,
+Macomb,,"Industrial",108564733,0.015,68918,70855,7.35,0,70961
+Northwest Suburbs,,"Industrial",57690201,0.039,-286675,61111,9.13,0,
+Southeast Oakland,,"Industrial",16809292,0.036,17533,0,7.13,0,
+Washtenaw,,"Industrial",24345135,0.012,4400,0,7.51,0,
+Western Wayne,,"Industrial",90588096,0.023,-512830,0,7.91,0,
+Total,,Distribution/Logistics,216527927,0.040,460073,61111,7.31,950361,
+Total,,Manufacturing,258675992,0.020,-591039,887341,6.49,78955,
+Total,,R&D / Flex,52705290,0.029,-31810,0,11.49,0,
+Total,,Other Industrial,18346840,0.028,0,0,5.95,0,
+Total,,"Industrial",546256049,0.029,-162776,948452,7.30,1029316,

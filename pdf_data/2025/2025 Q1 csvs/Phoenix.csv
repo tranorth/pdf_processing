@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northeast Valley,,,12752134,0.032,-59043,548735,1.5,0,
+Southeast Valley,,,104570480,0.153,703057,5173257,1.01,296740,
+Airport Area,,,75785276,0.041,28178,550792,1.16,0,
+Southwest Valley,,,199212264,0.159,960767,3775574,0.81,6832334,
+Northwest Valley,,,54329512,0.06,122532,1077316,1.08,303126,
+Market Total,,Industrial,447649666,0.122,1755491,11125674,1.00,7432200,

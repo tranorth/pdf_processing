@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Detroit,,Modern Warehouse,4789251,0.182,267875,1333098,7.22,,
+Downriver,,Modern Warehouse,14488734,0.070,0,1673282,,349492,
+I-75 Corridor,,Modern Warehouse,6492599,0.000,0,778416,,80000,
+Macomb,,Modern Warehouse,5013376,0.073,0,450000,,502992,
+NW Suburbs,,Modern Warehouse,1879132,0.000,0,609299,,93995,
+SE Oakland,,Modern Warehouse,2412610,0.038,0,,,,
+Western Wayne,,Modern Warehouse,4798410,0.042,0,286347,8.00,196246,
+Total,,Overall Industrial,540309486,0.027,348943,5130442,7.60,1222725,
+Total,,Modern Warehouse,39874112,0.064,267875,5130442,7.42,1222725,

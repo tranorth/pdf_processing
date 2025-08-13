@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+CBD,,Warehouse/Distribution,1203597,0.023,-952,,,,
+North Central,,Warehouse/Distribution,7463303,0.017,29593,,9.15,,
+Northeast,,Warehouse/Distribution,48155995,0.047,862206,4904375,6.36,,
+Northwest,,Warehouse/Distribution,9680613,0.02,-15099,637570,8.01,,
+South,,Warehouse/Distribution,27541340,0.048,1072805,2001693,5.77,,
+San Antonio Total,,Warehouse/Distribution,94044848,0.042,1948553,7543628,6.39,,

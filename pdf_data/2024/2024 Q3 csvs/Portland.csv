@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northeast,,Industrial,50534766,6.9,103436,789835,0.88,216669,
+Northwest,,Industrial,39816010,9.2,-593960,0,0.85,0,
+Southeast,,Industrial,31333727,1.5,84777,0,0.90,0,
+Southwest,,Industrial,40042259,4.0,-132725,849298,0.92,445007,
+Sunset Corridor,,Industrial,32437552,2.0,51831,590708,0.92,155500,
+Clark County,,Industrial,28242691,7.7,362934,1104460,0.88,809568,
+Total,,Industrial,222407005,5.4,-123707,3334301,,1626744,

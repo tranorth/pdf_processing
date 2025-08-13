@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Downtown,,Warehouse/Distribution,24208214,0.007,-22444,,5.30,,
+East,,Warehouse/Distribution,2787185,0.017,38762,,6.41,,
+Geauga West,,Warehouse/Distribution,926688,0.032,0,,6.49,,
+Lake County West,,Warehouse/Distribution,8892898,0.048,-69351,,5.79,,
+Northeast,,Warehouse/Distribution,9715559,0.032,0,,6.84,,
+Northwest,,Warehouse/Distribution,11109661,0.016,432,,5.47,,
+South,,Warehouse/Distribution,19040456,0.021,-27478,,5.66,,
+Southeast,,Warehouse/Distribution,38286999,0.041,101523,,5.63,,
+Southwest,,Warehouse/Distribution,22575225,0.047,18968,,5.61,,
+Total Market,,Warehouse/Distribution,137542885,0.030,40412,2794909,5.67,,

@@ -1,0 +1,25 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Inland Empire East,"Banning/Beaumont",,9525613,15.3,-1000000,0,0.00,,0
+Inland Empire East,Colton,,8891159,8.8,-537034,417809,1.19,,0
+Inland Empire East,"Corona/Norco",,33817579,5.5,915780,220589,1.19,,945802
+Inland Empire East,"Moreno Valley",,33778212,5.9,-303740,38820,1.30,,70588
+Inland Empire East,Perris,,43122390,14.9,-1765630,1627719,1.00,,210900
+Inland Empire East,"Redlands/Loma Linda",,30411995,7.7,-333184,571039,1.03,,1091697
+Inland Empire East,"Rialto/Bloomington",,43206732,7.1,-279148,752784,1.15,,2228885
+Inland Empire East,Riverside,,58686736,6.3,-725135,1125920,1.14,,668212
+Inland Empire East,"San Bernardino",,45736484,7.9,-422870,672845,1.04,,449513
+Inland Empire East,,,307176900,8.2,-1014428,5427525,1.14,,5665597
+Inland Empire West,"Chino/Chino Hills",,56511252,3.1,817749,0,1.27,,1500067
+Inland Empire West,Fontana,,78260246,5.5,3690737,2175047,1.12,,2015465
+Inland Empire West,"Jurupa Valley/Eastvale",,48619400,7.7,56340,428975,1.23,,318386
+Inland Empire West,"Ontario/Montclair/Upland",,125872595,6.4,-239288,3445605,1.22,,2360586
+Inland Empire West,"Rancho Cucamonga",,44394807,4.3,-492643,151455,1.23,,337235
+Inland Empire West,,,353658300,5.6,780716,6201082,1.22,,6531739
+Inland Empire North,Adelanto,,4379348,10.1,0,0,,,0
+Inland Empire North,"Apple Valley",,3266548,41.2,0,0,,,0
+Inland Empire North,Barstow,,571828,0.0,0,0,,,0
+Inland Empire North,Hesperia,,5349139,22.2,-1004400,0,,,0
+Inland Empire North,Victorville,,10017115,5.5,-20994,1296000,,,0
+Inland Empire North,,,23583978,9.3,-1025394,1296000,0.93,,0
+INLAND EMPIRE CORE,,,660835200,6.8,-233712,11628607,1.19,,12197336
+INLAND EMPIRE + IEN,,,684419178,6.9,-1259106,12924607,1.19,,12197336

@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Polk East,,Manufacturing,2078749,0,0,0,,,
+Polk East,,Warehouse/Distribution,15658649,0.017,-5781,1296800,7.01,,
+Polk East,,Total,17737398,0.065,-5781,1296800,7.01,,
+Polk West,,Manufacturing,4818807,0,0,0,,,
+Polk West,,Warehouse/Distribution,35221961,0.08,55630,905440,6.56,,
+Polk West,,R&D/Flex,495446,0.098,-43882,0,15.00,,
+Polk West,,Total,40536214,0.071,11748,905440,6.64,,
+Polk County,,Manufacturing,6897556,0,0,0,,,
+Polk County,,Warehouse/Distribution,50880610,0.078,49849,2202240,6.70,,
+Polk County,,R&D/Flex,495446,0.098,-43882,0,15.00,,
+Polk County,,Total,58273512,0.069,5967,2202240,6.75,,

@@ -1,0 +1,5 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Prince George's,,Warehouse,42374551,0.019,296375,1668602,11.91,,
+Frederick,,Warehouse,7359731,0.022,5289,1297405,10.35,,
+Montgomery,,Warehouse,10911772,0.038,29230,,15.03,,
+Total,,Warehouse,60646054,0.023,330894,2966007,12.65,,

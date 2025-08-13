@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport,,"Industrial",11854206,0.051,-210,545693,0.85,0,
+East Central,,"Industrial",1189709,0.059,-1149,0,0.90,0,
+North Central,,"Industrial",191587,0.000,1427,0,,0,
+Northeast,,"Industrial",1045095,0.123,-17950,0,1.46,0,
+Northwest,,"Industrial",7989919,0.097,6088,0,0.71,0,
+Southeast,,"Industrial",12649598,0.030,-68115,335779,0.66,0,
+Southwest,,"Industrial",2976390,0.007,10722,0,0.80,0,
+West Central,,"Industrial",4471340,0.008,-1389,0,0.81,0,
+Tucson Total,,"Industrial",42367844,0.047,-49521,881472,0.85,0,

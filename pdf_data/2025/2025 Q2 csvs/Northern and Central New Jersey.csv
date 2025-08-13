@@ -1,0 +1,28 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central Bergen,,Industrial,32100000,0.057,-272400,0,18.04,,30300
+Fairfield Market,,Industrial,18600000,0.058,-121400,22000,16.18,,20600
+Hudson Waterfront,,Industrial,67300000,0.078,-873100,426300,26.65,,230300
+Meadowlands,,Industrial,93900000,0.076,102300,1453200,25.29,,761800
+Morris Region,,Industrial,43300000,0.091,-177300,1291600,17.79,,240500
+Newark,,Industrial,53400000,0.051,32500,475600,27.76,,249300
+Northeast Bergen,,Industrial,8200000,0.026,33100,0,15.91,,36500
+Northwest Bergen,,Industrial,19500000,0.065,-30200,0,21.82,,19300
+Rt 23 North,,Industrial,600000,0.046,-20000,0,,,0
+Rt 280 Corridor,,Industrial,4400000,0.052,-23000,0,12.64,,0
+Rt 46/23/2 Interchange,,Industrial,58200000,0.046,206600,0,14.51,,175900
+Suburban Essex,,Industrial,6700000,0.047,19900,0,24.50,,8500
+Northern NJ Total,,Industrial,406200000,0.066,-1123000,3667600,22.69,,1773000
+Brunswicks/Exit 9,,Industrial,29700000,0.084,448500,163600,18.00,,410100
+Carteret/Avenel,,Industrial,31200000,0.114,-120200,0,19.70,,906800
+Central Union,,Industrial,23500000,0.034,104000,151700,19.25,,16300
+Exit 8A,,Industrial,81100000,0.105,-1702800,0,16.22,,211000
+Hunterdon/Warren,,Industrial,15100000,0.050,239800,1025900,13.86,,64100
+Linden/Elizabeth,,Industrial,45900000,0.079,928600,0,23.70,,1054500
+Monmouth,,Industrial,29200000,0.099,-141400,507500,17.00,,104700
+Princeton,,Industrial,16100000,0.021,81700,375500,13.71,,11000
+Route 287/Exit 10,,Industrial,112900000,0.071,-174200,302400,19.23,,1022700
+Route 78 East,,Industrial,9700000,0.025,-35300,0,12.24,,76000
+Somerset,,Industrial,42500000,0.048,655700,74800,17.50,,763300
+Trenton/295,,Industrial,32500000,0.089,128400,1523200,15.50,,823500
+Central NJ Total,,Industrial,469300000,0.077,412700,4124500,16.92,,5463900
+NJ Total,,Industrial,875500000,0.072,-700200,7792100,19.49,,7236900

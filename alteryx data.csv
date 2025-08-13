@@ -1,0 +1,830 @@
+Market,Submarket
+Albuquerque,Airport
+Albuquerque,Downtown
+Albuquerque,Mesa del Sol
+Albuquerque,NE Heights
+Albuquerque,North I-25
+Albuquerque,North Valley
+Albuquerque,Rio Rancho
+Albuquerque,SE Heights
+Albuquerque,South I-25
+Albuquerque,Valencia County
+Albuquerque,West Mesa
+Atlanta,Airport
+Atlanta,Central Atlanta
+Atlanta,Chattahoochee
+Atlanta,I-20 East
+Atlanta,I-20 West
+Atlanta,N Central/GA 400
+Atlanta,Northeast/I-85
+Atlanta,Northwest/I-75
+Atlanta,Southeast/I-75
+Atlanta,Southwest/I-85
+Atlanta,Stone Mountain
+Austin,BASTROP COUNTY
+Austin,CALDWELL COUNTY
+Austin,CEDAR PARK
+Austin,CENTRAL
+Austin,EAST
+Austin,FAR NORTH
+Austin,FAR NORTHEAST
+Austin,FAR NORTHWEST
+Austin,HAYS COUNTY
+Austin,NORTH
+Austin,NORTHEAST
+Austin,NORTHWEST
+Austin,ROUND ROCK
+Austin,SOUTH
+Austin,SOUTHEAST
+Austin,SOUTHWEST
+Baltimore,Annapolis
+Baltimore,Baltimore City
+Baltimore,Baltimore County East
+Baltimore,Baltimore/ Washington Corridor
+Baltimore,Baltimore Southwest
+Baltimore,Harford/Cecil County
+Baltimore,Hunt Valley/ Towson
+Baltimore,Owings Mills/ Reisterstown Rd
+Boise,Airport
+Boise,Bench
+Boise,Caldwell
+Boise,Downtown
+Boise,Eagle
+Boise,Kuna
+Boise,Meridian
+Boise,Middleton
+Boise,Nampa
+Boise,North Boise
+Boise,South Meridian
+Boise,Southeast
+Boise,Southwest
+Boise,Star
+Boise,West
+Boise,West Canyon
+Boston,City of Worcester
+Boston,Close-In Suburbs North
+Boston,Framingham - Natick
+Boston,Route 128 North
+Boston,Route 128 South
+Boston,Route 128 West
+Boston,Route 3 - North
+Boston,Route 495 - Mass Pike West
+Boston,Route 495 - Route 2 West
+Boston,Route 495 Northeast
+Boston,Route 495 South
+Boston,Worcester North
+Boston,Worcester South
+Broward,Central Broward
+Broward,Coral Springs
+Broward,Northeast Broward
+Broward,Pompano/Lauderdale
+Broward,Southeast Broward
+Broward,Southwest Broward
+Broward,Sunrise
+Central Los Angeles,Bell
+Central Los Angeles,Bell Gardens
+Central Los Angeles,City of Commerce
+Central Los Angeles,City of Vernon
+Central Los Angeles,Cudahy
+Central Los Angeles,Huntington Park
+Central Los Angeles,Downtown Los Angeles
+Central Los Angeles,Maywood
+Central Los Angeles,Montebello
+Central Los Angeles,Monterey Park
+Central Los Angeles,Pico Rivera
+Central Los Angeles,South Gate
+Central Valley,Ceres
+Central Valley,Lathrop
+Central Valley,Lodi
+Central Valley,Manteca
+Central Valley,Modesto
+Central Valley,Oakdale
+Central Valley,Patterson
+Central Valley,Stockton
+Central Valley,Tracy
+Central Valley,Turlock
+Charleston,Charleston
+Charleston,East Cooper
+Charleston,Hanahan
+Charleston,Hwy 52 North
+Charleston,I-26 Corridor
+Charleston,North Charleston/Ladson
+Charleston,West Ashley
+Charlotte,Cabarrus County
+Charlotte,Central
+Charlotte,East
+Charlotte,Gaston County
+Charlotte,Iredell County
+Charlotte,Lancaster County
+Charlotte,Lincoln County
+Charlotte,North
+Charlotte,Northeast
+Charlotte,Northwest
+Charlotte,Rowan County
+Charlotte,Southeast
+Charlotte,Southwest
+Charlotte,Union County
+Charlotte,West
+Charlotte,York County
+Chicago,Central Kane & DuPage
+Chicago,City North
+Chicago,City South
+Chicago,Dekalb Area
+Chicago,Far Southwest Suburbs
+Chicago,Far West Suburbs
+Chicago,Joliet Area
+Chicago,Lake County
+Chicago,McHenry County
+Chicago,Near West Suburbs
+Chicago,North DuPage County
+Chicago,North Kane County
+Chicago,Northeast Cook County
+Chicago,Northwest Cook County
+Chicago,Northwest Indiana
+Chicago,O'Hare
+Chicago,Rockford
+Chicago,Southeast Wisconsin
+Chicago,South Suburbs
+Chicago,Southwest Suburbs
+Chicago,West Suburbs
+Cincinnati,Central
+Cincinnati,Northeast
+Cincinnati,Northern Kentucky
+Cincinnati,Northwest
+Cleveland,Downtown
+Cleveland,East
+Cleveland,Geauga West
+Cleveland,Lake County West
+Cleveland,Northeast
+Cleveland,Northwest
+Cleveland,South
+Cleveland,Southeast
+Cleveland,Southwest
+Cleveland,Out of Submarket
+Columbia,Calhoun
+Columbia,Cayce-West Columbia
+Columbia,Dutch Fork
+Columbia,Fairfield
+Columbia,Kershaw
+Columbia,Lexington
+Columbia,Newberry
+Columbia,North Columbia
+Columbia,Northeast Columbia
+Columbia,Saluda County
+Columbia,Southeast Columbia
+Columbus,Central
+Columbus,Delaware County
+Columbus,East
+Columbus,Fairfield County
+Columbus,Licking County
+Columbus,Madison County
+Columbus,Northeast
+Columbus,Northwest
+Columbus,Pickaway County
+Columbus,Southeast
+Columbus,Southwest
+Columbus,Union County
+Columbus,West
+Dallas Fort Worth,287 Corridor
+Dallas Fort Worth,DFW Airport
+Dallas Fort Worth,East Dallas
+Dallas Fort Worth,Great Southwest / Arlington
+Dallas Fort Worth,North Fort Worth
+Dallas Fort Worth,South Fort Worth
+Dallas Fort Worth,Northeast Dallas
+Dallas Fort Worth,Northwest Dallas
+Dallas Fort Worth,South Dallas
+Dallas Fort Worth,South Stemmons
+Denver,Airport
+Denver,Boulder
+Denver,I-76 Corridor
+Denver,Longmont
+Denver,North
+Denver,North Central
+Denver,Northwest
+Denver,South Central
+Denver,Southeast
+Denver,Southwest
+Denver,West
+Des Moines,Ankeny
+Des Moines,CBD
+Des Moines,Northeast
+Des Moines,Northwest
+Des Moines,South
+Des Moines,Western Suburbs
+Detroit,1-75 Corridor
+Detroit,Detroit
+Detroit,Downriver
+Detroit,Macomb
+Detroit,Northwest Suburbs
+Detroit,Southeast Oakland
+Detroit,Washtenaw
+Detroit,Western Wayne
+El Paso,Central
+El Paso,East
+El Paso,Horizon E
+ast
+El Paso,Lower Valley
+El Paso,Northeast
+El Paso,West
+Greater Los Angeles,Agoura Hills
+Greater Los Angeles,Arleta/Tujunga
+Greater Los Angeles,Azusa
+Greater Los Angeles,Baldwin Park
+Greater Los Angeles,Burbank
+Greater Los Angeles,Calabasas
+Greater Los Angeles,Camarillo
+Greater Los Angeles,Canoga Park
+Greater Los Angeles,Canyon Country
+Greater Los Angeles,Carson
+Greater Los Angeles,Castaic
+Greater Los Angeles,Cerritos
+Greater Los Angeles,Chatsworth
+Greater Los Angeles,City of Industry
+Greater Los Angeles,Compton
+Greater Los Angeles,Cypress
+Greater Los Angeles,Downey
+Greater Los Angeles,El Monte
+Greater Los Angeles,El Segundo
+Greater Los Angeles,Gardena
+Greater Los Angeles,Glendale
+Greater Los Angeles,Glendora/San Dimas/La Verne
+Greater Los Angeles,Granada Hills
+Greater Los Angeles,Harbor City
+Greater Los Angeles,Hawthorne
+Greater Los Angeles,Inglewood
+Greater Los Angeles,Irwindale
+Greater Los Angeles,LA Unincorporated
+Greater Los Angeles,La Mirada
+Greater Los Angeles,La Palma
+Greater Los Angeles,Lakewood
+Greater Los Angeles,Lancaster
+Greater Los Angeles,Lawndale
+Greater Los Angeles,Long Beach
+Greater Los Angeles,Los Alamitos
+Greater Los Angeles,Los Angeles (LAX)
+Greater Los Angeles,Mission Hills
+Greater Los Angeles,Monrovia/Duarte
+Greater Los Angeles,Moorpark
+Greater Los Angeles,North Hollywood
+Greater Los Angeles,Northridge
+Greater Los Angeles,Norwalk
+Greater Los Angeles,Oxnard/Port Hueneme
+Greater Los Angeles,Pacoima
+Greater Los Angeles,Palmdale
+Greater Los Angeles,Panorama City
+Greater Los Angeles,Paramount
+Greater Los Angeles,Pasadena
+Greater Los Angeles,Pomona
+Greater Los Angeles,Rancho Dominguez
+Greater Los Angeles,Redondo Beach
+Greater Los Angeles,Reseda
+Greater Los Angeles,San Fernando
+Greater Los Angeles,San Pedro
+Greater Los Angeles,Santa Clarita
+Greater Los Angeles,Santa Fe Springs
+Greater Los Angeles,Seal Beach
+Greater Los Angeles,Sepulveda
+Greater Los Angeles,Sherman Oaks
+Greater Los Angeles,Signal Hill
+Greater Los Angeles,Simi Valley
+Greater Los Angeles,South El Monte
+Greater Los Angeles,Stanton
+Greater Los Angeles,Sun Valley/Sunland
+Greater Los Angeles,Sylmar
+Greater Los Angeles,Tarzana
+Greater Los Angeles,Thousand Oaks
+Greater Los Angeles,Torrance
+Greater Los Angeles,Valencia
+Greater Los Angeles,Van Nuys
+Greater Los Angeles,Ventura
+Greater Los Angeles,Walnut
+Greater Los Angeles,Westlake Village
+Greater Los Angeles,Westminster
+Greater Los Angeles,Whittier
+Greater Los Angeles,Wilmington
+Greater Los Angeles,Woodland Hills
+Greensboro Winston-Salem,Burlington CBD
+Greensboro Winston-Salem,Central Guilford
+Greensboro Winston-Salem,Clemmons
+Greensboro Winston-Salem,Davidson County
+Greensboro Winston-Salem,Davie County
+Greensboro Winston-Salem,High Point/SW Guilford
+Greensboro Winston-Salem,Kernersville
+Greensboro Winston-Salem,North Alamance
+Greensboro Winston-Salem,North Forsyth
+Greensboro Winston-Salem,North Guilford
+Greensboro Winston-Salem,Piedmont Triad Airport Area
+Greensboro Winston-Salem,South Alamance
+Greensboro Winston-Salem,South Burlington
+Greensboro Winston-Salem,South Forsyth
+Greensboro Winston-Salem,Southeast Alamance
+Greensboro Winston-Salem,Southeast Forsyth
+Greensboro Winston-Salem,Southeast Guilford
+Greensboro Winston-Salem,Southwest Alamance
+Greensboro Winston-Salem,Southwest Greensboro
+Greensboro Winston-Salem,West Burlington/Airport
+Greensboro Winston-Salem,Winston-Salem CBD
+Greenville Spartanburg,1-385 South
+Greenville Spartanburg,1-85 East
+Greenville Spartanburg,1-85 West
+Greenville Spartanburg,Anderson County
+Greenville Spartanburg,Central Greenville
+Greenville Spartanburg,Cherokee County
+Greenville Spartanburg,Laurens County
+Greenville Spartanburg,Pickens
+Greenville Spartanburg,Spartanburg East
+Greenville Spartanburg,Spartanburg West
+Greenville Spartanburg,Taylors-Greer
+Greenville Spartanburg,Travelers Rest
+Hartford,Downtown Hartford
+Hartford,Hartford East
+Hartford,Hartford North
+Hartford,Hartford South
+Hartford,Hartford West
+Hawaii,Airport
+Hawaii,Big Island
+Hawaii,Bougainville
+Hawaii,Campbell
+Hawaii,Halawa
+Hawaii,Iwilei
+Hawaii,Kakaako
+Hawaii,Kalihi
+Hawaii,Kapolei
+Hawaii,Kauai
+Hawaii,Mapunapuna
+Hawaii,Maui
+Hawaii,Oahu
+Hawaii,Pearl City
+Hawaii,Waipio
+Hawaii,Waipahu
+Hawaii,Windward
+Houston,CBD
+Houston,North
+Houston,Northeast
+Houston,Northwest
+Houston,South
+Houston,Southeast
+Houston,Southwest
+Houston,West
+Indianapolis,CBD
+Indianapolis,East
+Indianapolis,Northeast
+Indianapolis,Northwest
+Indianapolis,North
+Indianapolis,South
+Indianapolis,Southeast
+Indianapolis,Southwest
+Indianapolis,West
+Inland Empire,Adelanto
+Inland Empire,Apple Valley
+Inland Empire,Banning/Beaumont
+Inland Empire,Barstow
+Inland Empire,Chino/Chino Hills
+Inland Empire,Colton
+Inland Empire,Corona/Norco
+Inland Empire,Fontana (Bloomington)
+Inland Empire,Hesperia
+Inland Empire,Jurupa Valley/Eastvale
+Inland Empire,Moreno Valley
+Inland Empire,Ontario
+Inland Empire,Perris
+Inland Empire,Rancho Cucamonga
+Inland Empire,Redlands/Loma Linda
+Inland Empire,Rialto
+Inland Empire,Riverside
+Inland Empire,San Bernardino
+Inland Empire,Victorville
+Jacksonville,Beaches
+Jacksonville,Clay County
+Jacksonville,Downtown
+Jacksonville,Northside
+Jacksonville,Southside
+Jacksonville,St. Johns County
+Jacksonville,Westside
+Kansas City,Cass
+Kansas City,Clay
+Kansas City,Jackson
+Kansas City,Johnson
+Kansas City,Platte
+Kansas City,Wyandotte
+Las Vegas,Airport
+Las Vegas,Apex
+Las Vegas,Central
+Las Vegas,Henderson
+Las Vegas,North Las Vegas
+Las Vegas,Southwest
+Long Island,Brentwood/Deer Park
+Long Island,Eastern Nassau
+Long Island,Eastern Suffolk
+Long Island,Hauppauge
+Long Island,Mac Arthur Airport
+Long Island,NE Nassau
+Long Island,NW Nassau
+Long Island,NW Suffolk
+Long Island,SE Nassau
+Long Island,SW Nassau
+Long Island,South Central Suffolk
+Long Island,West Nassau
+Long Island,West Suffolk
+Louisville,Bluegrass
+Louisville,Bullitt County
+Louisville,Downtown
+Louisville,Northeast
+Louisville,Riverport
+Louisville,Shelby County
+Louisville,Southern Indiana
+Louisville,Southside
+McAllen,Edinburg
+McAllen,Hidalgo
+McAllen,McAllen
+McAllen,Mission
+McAllen,Off Park
+McAllen,Pharr
+Memphis,Desoto County
+Memphis,Fayette County
+Memphis,Marshall County
+Memphis,Northeast
+Memphis,Northwest
+Memphis,Southeast
+Memphis,Southwest
+Miami,Airport/Doral
+Miami,Central Dade
+Miami,Hialeah
+Miami,Kendall/Tamiami
+Miami,Medley
+Miami,Miami Lakes
+Miami,North Central Dade
+Miami,Northeast Dade
+Miami,Out of Submarket
+Miami,South Dade
+Milwaukee,Kenosha
+Milwaukee,Milwaukee Downtown
+Milwaukee,Milwaukee West
+Milwaukee,North Central
+Milwaukee,Ozaukee
+Milwaukee,Racine
+Milwaukee,Sheboygan
+Milwaukee,South Central
+Milwaukee,Walworth
+Milwaukee,Washington
+Milwaukee,Waukesha Northeast
+Milwaukee,Waukesha Northwest
+Milwaukee,Waukesha Southeast
+Milwaukee,Waukesha Southwest
+Minneapolis,East
+Minneapolis,Midway
+Minneapolis,Minneapolis
+Minneapolis,North Central
+Minneapolis,Northwest
+Minneapolis,South Central
+Minneapolis,Southwest
+Minneapolis,St Paul
+Napa-Solano County,American Canyon
+Napa-Solano County,Benicia
+Napa-Solano County,Fairfield
+Napa-Solano County,Napa
+Napa-Solano County,Vacaville
+Napa-Solano County,Vallejo
+Nashville,Allied Drive/I-65
+Nashville,CBD/Polk Avenue
+Nashville,Elm Hill Pike/I-40
+Nashville,I-840
+Nashville,Interchange City
+Nashville,MetroCenter/Cockrill Bend
+Nashville,Northeast/I-65N Corridor
+New Jersey,Brunswicks/Exit 9
+New Jersey,Carteret/Avenel
+New Jersey,Central Bergen
+New Jersey,Central Union
+New Jersey,Exit 8A
+New Jersey,Fairfield Market
+New Jersey,Hudson Waterfront
+New Jersey,Hunterdon/Warren
+New Jersey,Linden/Elizabeth
+New Jersey,Meadowlands
+New Jersey,Monmouth
+New Jersey,Morris Region
+New Jersey,Newark
+New Jersey,North East Bergen
+New Jersey,North West Bergen
+New Jersey,Princeton
+New Jersey,Rt 23 North
+New Jersey,Rt 280 Corridor
+New Jersey,Rt 46/23/2 Interchange
+New Jersey,Route 287/Exit 10
+New Jersey,Route 78 East
+New Jersey,Somerset
+New Jersey,Suburban Essex
+New Jersey,Trenton/295
+New York City,Bronx
+New York City,Brooklyn
+New York City,JFK
+New York City,Queens
+New York City,Staten Island
+Norfolk,Peninsula
+Norfolk,Southside
+North/East Contra Costa County,Antioch/Oakley
+North/East Contra Costa County,Brentwood
+North/East Contra Costa County,Concord
+North/East Contra Costa County,Martinez/Pacheco
+North/East Contra Costa County,Pleasant Hill
+North/East Contra Costa County,Walnut Creek
+Northern Virginia,Arlington County
+Northern Virginia,City of Alexandria
+Northern Virginia,Fairfax County
+Northern Virginia,Loudoun County
+Northern Virginia,Prince William County
+Oakland,Alameda
+Oakland,Berkeley
+Oakland,Emeryville
+Oakland,Hayward
+Oakland,Oakland
+Oakland,Richmond
+Oakland,San Leandro
+Oakland,San Lorenzo
+Oakland,Union City
+Omaha,Council Bluffs
+Omaha,Northeast
+Omaha,Northwest
+Omaha,Sarpy East
+Omaha,Sarpy West
+Omaha,South Central
+Omaha,Southeast
+Omaha,Southwest
+Orange County,Anaheim
+Orange County,Brea
+Orange County,Buena Park
+Orange County,Costa Mesa
+Orange County,Cypress
+Orange County,Foothill Ranch
+Orange County,Fountain Valley
+Orange County,Fullerton
+Orange County,Garden Grove
+Orange County,Huntington Beach
+Orange County,Irvine
+Orange County,Irvine Spectrum
+Orange County,La Habra
+Orange County,La Palma
+Orange County,Laguna Hills
+Orange County,Laguna Niguel
+Orange County,Lake Forest
+Orange County,Los Alamitos
+Orange County,Mission Viejo
+Orange County,Newport Beach
+Orange County,Orange
+Orange County,Placentia
+Orange County,San Clemente
+Orange County,San Juan Capistrano
+Orange County,Santa Ana
+Orange County,Santa Margarita
+Orange County,Seal Beach
+Orange County,Stanton
+Orange County,Tustin
+Orange County,Westminster
+Orange County,Yorba Linda
+Orlando,Lake
+Orlando,Northeast Orange
+Orlando,Northwest Orange
+Orlando,Osceola
+Orlando,SE Orange
+Orlando,SW Orange
+Orlando,Seminole
+PA I-78/I-81 Corridor,Adams County
+PA I-78/I-81 Corridor,Berks County
+PA I-78/I-81 Corridor,Carbon County
+PA I-78/I-81 Corridor,Cumberland County
+PA I-78/I-81 Corridor,Dauphin County
+PA I-78/I-81 Corridor,Franklin County
+PA I-78/I-81 Corridor,Lackawanna County
+PA I-78/I-81 Corridor,Lancaster County
+PA I-78/I-81 Corridor,Lebanon County
+PA I-78/I-81 Corridor,Lehigh County
+PA I-78/I-81 Corridor,Luzerne County
+PA I-78/I-81 Corridor,Monroe County
+PA I-78/I-81 Corridor,Northampton County
+PA I-78/I-81 Corridor,Schuylkill County
+PA I-78/I-81 Corridor,York County
+Palm Beach,Boca Raton
+Palm Beach,Boynton Beach
+Palm Beach,Delray Beach
+Palm Beach,Jupiter
+Palm Beach,Lake Worth
+Palm Beach,Out of Submarket
+Palm Beach,Riviera Beach
+Palm Beach,West Palm Beach
+Philadelphia,Bucks County
+Philadelphia,Burlington County
+Philadelphia,Camden County
+Philadelphia,Chester County
+Philadelphia,Delaware County
+Philadelphia,Gloucester County
+Philadelphia,Montgomery County
+Philadelphia,New Castle
+Philadelphia,Philadelphia County
+Philadelphia,Salem County
+Phoenix,Airport Area
+Phoenix,Northeast Valley
+Phoenix,Northwest Valley
+Phoenix,Southeast Valley
+Phoenix,Southwest Valley
+Pittsburgh,Beaver County
+Pittsburgh,Butler County
+Pittsburgh,City of Pittsburgh
+Pittsburgh,Cranberry
+Pittsburgh,East
+Pittsburgh,Northeast
+Pittsburgh,Northwest
+Pittsburgh,South
+Pittsburgh,Washington County
+Pittsburgh,West
+Pittsburgh,Westmoreland County
+Polk County,Polk East
+Polk County,Polk West
+Portland,Clark County
+Portland,Northeast
+Portland,Northwest
+Portland,Southeast
+Portland,Southwest
+Portland,Sunset Corridor
+Puget Sound,1-90
+Puget Sound,Auburn
+Puget Sound,Bellevue
+Puget Sound,Bothell
+Puget Sound,Downtown / Lake Union
+Puget Sound,DuPont
+Puget Sound,East Seattle / Capitol Hill / Rainier Valley
+Puget Sound,Everett
+Puget Sound,Federal Way
+Puget Sound,Fife
+Puget Sound,Frederickson
+Puget Sound,Gig Harbor
+Puget Sound,Kent
+Puget Sound,Kirkland / Totem Lake
+Puget Sound,Lacey
+Puget Sound,Lakewood
+Puget Sound,Lewis County
+Puget Sound,Lynnwood / Edmonds / Mtlk Terrace
+Puget Sound,Marymoor
+Puget Sound,Monroe
+Puget Sound,Mukilteo
+Puget Sound,No. Snohomish
+Puget Sound,North Seattle / Interbay
+Puget Sound,Olympia
+Puget Sound,Outlying Thurston
+Puget Sound,Overlake
+Puget Sound,Port of Tacoma
+Puget Sound,Puyallup
+Puget Sound,Renton
+Puget Sound,SeaTac
+Puget Sound,South / West Seattle
+Puget Sound,South Seattle / West Seattle
+Puget Sound,Sumner
+Puget Sound,Tacoma West
+Puget Sound,Tukwila
+Puget Sound,Tumwater
+Puget Sound,Willows
+Puget Sound,Woodinville / Maltby
+Raleigh Durham,Cary
+Raleigh Durham,Eastern Wake
+Raleigh Durham,Johnston County
+Raleigh Durham,North Durham
+Raleigh Durham,Orange County
+Raleigh Durham,RTP/I-40 Corridor
+Raleigh Durham,Six Forks/Falls of Neuse Road
+Raleigh Durham,South Durham
+Raleigh Durham,Southern Wake County
+Raleigh Durham,U.S. 1/64 West Corridor
+Raleigh Durham,U.S. 1/Capital Boulevard
+Raleigh Durham,U.S. 70/Glenwood Avenue
+Raleigh Durham,West Raleigh
+Reno,Central/Airport
+Reno,East Valley
+Reno,North Valley
+Reno,South Reno
+Reno,Sparks
+Reno,West Reno
+Richmond,Northeast
+Richmond,Northwest
+Richmond,Southeast
+Richmond,Southwest
+Sacramento,1-80/Roseville Road
+Sacramento,Auburn/Newcastle
+Sacramento,Davis/Woodland
+Sacramento,Downtown/Midtown/East Sac
+Sacramento,Downtown/Midtown/East Sacramento
+Sacramento,Elk Grove/Laguna/Galt
+Sacramento,Folsom/El Dorado Hills
+Sacramento,Lincoln
+Sacramento,McClellan Park
+Sacramento,Northeast Sacramento
+Sacramento,Northgate/Natomas
+Sacramento,Power Inn
+Sacramento,Power Inn Area
+Sacramento,Rancho Cordova
+Sacramento,Richards
+Sacramento,Roseville/Rocklin
+Sacramento,South Sacramento
+Sacramento,West Sacramento
+Salt Lake City,Airport
+Salt Lake City,Bluffdale
+Salt Lake City,California Ave
+Salt Lake City,Downtown
+Salt Lake City,Draper
+Salt Lake City,Murray
+Salt Lake City,Sandy
+Salt Lake City,South Salt Lake
+Salt Lake City,West Jordan
+Salt Lake City,West Valley
+San Antonio,CBD
+San Antonio,North Central
+San Antonio,Northeast
+San Antonio,Northwest
+San Antonio,South
+San Diego,Central San Diego
+San Diego,East County
+San Diego,North County
+San Diego,South San Diego
+San Diego,Southwest Riverside
+San Francisco,Bayview/Hunters Point
+San Francisco,Mission Bay/China Basin
+San Francisco,Mission/Potrero
+San Francisco,Showplace Square
+San Francisco,South of Market
+San Francisco Peninsula,Belmont
+San Francisco Peninsula,Brisbane
+San Francisco Peninsula,Burlingame
+San Francisco Peninsula,Daly City
+San Francisco Peninsula,Foster City
+San Francisco Peninsula,Menlo Park
+San Francisco Peninsula,Millbrae
+San Francisco Peninsula,Palo Alto/East PA
+San Francisco Peninsula,Redwood City
+San Francisco Peninsula,San Bruno
+San Francisco Peninsula,San Carlos
+San Francisco Peninsula,San Mateo
+San Francisco Peninsula,South San Francisco
+Sillicon Valley,Fremont/Newark
+Sillicon Valley,Milpitas
+Sillicon Valley,Mountain View/Los Altos
+Sillicon Valley,Palo Alto
+Sillicon Valley,San Jose - Downtown/IBP
+Sillicon Valley,San Jose - North
+Sillicon Valley,San Jose - South
+Sillicon Valley,San Jose South
+Sillicon Valley,Santa Clara
+Sillicon Valley,Sunnyvale
+Sillicon Valley,West Valley
+South Central Valley,Bakersfield
+South Central Valley,Fresno
+South Central Valley,Hanford
+South Central Valley,Madera
+South Central Valley,Merced
+South Central Valley,Visalia
+St Louis,Central County
+St Louis,Downtown
+St Louis,Earth City
+St Louis,Fenton
+St Louis,Maryland Heights
+St Louis,Metro East
+St Louis,North County
+St Louis,South County
+St Louis,St. Charles County
+St Louis,West County
+St Louis,Westport
+Suburban Maryland,Frederick
+Suburban Maryland,Montgomery
+Suburban Maryland,Prince George's
+Tampa,Airport
+Tampa,East Tampa
+Tampa,Mid Pinellas/Gateway
+Tampa,Northeast
+Tampa,North Pinellas
+Tampa,Northwest Tampa
+Tampa,Pasco County
+Tampa,Plant City
+Tampa,South Pinellas
+Tampa,Southeast
+Tampa,Southwest Tampa
+Tampa,Tampa CBD
+Tampa,Westshore
+Tri Valley,Dublin
+Tri Valley,Livermore
+Tri Valley,Pleasanton
+Tri Valley,San Ramon
+Tucson,Airport
+Tucson,East Central
+Tucson,North Central
+Tucson,Northeast
+Tucson,Northwest
+Tucson,SE
+Tucson,Southeast
+Tucson,Southwest
+Tucson,West Central
+Ventura,Camarillo
+Ventura,Moorpark
+Ventura,Oxnard/Port Hueneme
+Ventura,Simi Valley
+Ventura,Thousand Oaks
+Ventura,Ventura City
+Ventura,Westlake Village

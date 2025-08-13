@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East,,Industrial,58523734,0.228,-128848,846594,5.85,,
+Northeast,,Industrial,26455053,0.027,24318,0,8.1,,
+Northwest,,Industrial,72861245,0.083,177568,0,6.1,,
+Southeast,,Industrial,16550427,0.238,-205750,0,5.92,,
+Southwest,,Industrial,76934734,0.063,-749389,0,4.92,,
+West,,Industrial,37506208,0.138,733825,1573359,6.24,,
+CBD,,Industrial,33302871,0.021,-14138,0,5.24,,
+South,,Industrial,32837498,0.141,511680,0,6.2,,
+North,,Industrial,4321451,0.106,-207792,32000,17.49,,
+Indianapolis Market Total,,,359293221,0.111,141474,2451953,6.03,,

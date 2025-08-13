@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Concord,,Industrial,8159183,0.031,-74944,,,
+Martinez/Pacheco,,Industrial,2458487,0.01,4037,,,
+Pleasant Hill,,Industrial,391324,0.031,-3375,,,
+Walnut Creek,,Industrial,946184,0.0,0,,,
+Antioch/Oakley,,Industrial,2963480,0.009,-1340,,,
+Pittsburg,,Industrial,4398012,0.131,3301,,,
+Brentwood,,Industrial,3064711,0.008,102840,,,
+North/East CCC Total,,Warehouse,15038166,0.028,45385,,1.08,,
+North/East CCC Total,,Manufacturing,3053497,0.132,-10530,,1.08,,
+North/East CCC Total,,R&D/Flex,4289718,0.022,-4336,,1.18,,
+Market Total,,Industrial,22381381,0.041,30519,61000,1.08,,

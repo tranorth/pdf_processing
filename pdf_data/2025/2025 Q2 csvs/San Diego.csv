@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central San Diego,,Industrial,64488900,0.057,-450719,0,1.83,,1060611
+East County,,Industrial,15811112,0.026,-10037,0,1.48,,83324
+North County,,Industrial,51559223,0.06,9821,191426,1.4,,900529
+South San Diego,,Industrial,40815811,0.1,-104573,2535574,1.37,,675502
+Southwest Riverside,,Industrial,15329914,0.039,371386,0,1.3,181113,84641
+Total,,Industrial,188004960,0.063,25024,2727000,1.53,181113,2804607

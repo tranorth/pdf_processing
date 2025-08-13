@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Council Bluffs,,Industrial,5986856,0.017,-39794,538624,7.20,0,
+Northeast,,Industrial,10343605,0.012,-9557,150000,4.28,0,
+Northwest,,Industrial,6571541,0.017,166520,30800,7.79,22000,
+Sarpy East,,Industrial,1831878,0.015,0,0,,0,
+Sarpy West,,Industrial,20594531,0.007,15452,1362306,8.12,0,
+South Central,,Industrial,20386927,0.01,33443,0,7.12,10500,
+Southeast,,Industrial,8152122,0.014,-1882,0,5.88,0,
+Southwest,,Industrial,8777039,0.008,-3012,0,9.84,0,
+TOTAL OMAHA,,Industrial,82666499,0.011,161170,2081730,7.36,32500,

@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northeast,,,50195517,0.058,-522019,999218,0.88,,
+Northwest,,,39789837,0.058,-567485,,0.85,,
+Southeast,,,31333727,0.018,2279,,0.90,,
+Southwest,,,39593669,0.026,-102530,445007,0.92,,
+Sunset Corridor,,,32378927,0.018,86090,,0.92,155500,
+Clark County,,,27433013,0.061,61787,1460580,0.88,,
+Total,,,220724690,0.041,-1041878,2904805,,155500,

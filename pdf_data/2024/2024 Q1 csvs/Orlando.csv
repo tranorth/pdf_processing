@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Lake,,,12826802,0.235,25160,0,7.22,,
+NE Orange,,,5571258,0.053,-5200,108000,13.04,,
+NW Orange,,,31222340,0.154,19492,367354,7.56,,
+Osceola,,,7787470,0.048,259255,86850,10.86,,
+Seminole,,,18456396,0.058,75723,76620,11.65,,
+SE Orange,,,46021236,0.038,-14918,1759842,10.55,,
+SW Orange,,,28744409,0.032,-173642,0,12.19,,
+Orlando Total,,,150629911,0.081,185870,2398666,8.76,,

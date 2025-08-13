@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Beaver County,,"Industrial",11560671,0.022,112440,,7.87,,
+Butler County,,"Industrial",8857479,0.018,4500,,6.73,,
+City of Pittsburgh,,"Industrial",16092316,0.057,0,,10.23,,
+Cranberry,,"Industrial",9053571,0.029,23623,,20.15,,
+East,,"Industrial",10684613,0.123,0,,5.43,,
+Northeast,,"Industrial",14251231,0.027,10000,,15.49,,
+Northwest,,"Industrial",6722794,0.018,-27481,,9.25,,
+South,,"Industrial",11322584,0.005,4553,,4.75,,
+Washington County,,"Industrial",12642026,0.040,-35000,,6.63,,
+West,,"Industrial",24117805,0.072,94577,,9.77,,191398
+Westmoreland County,,"Industrial",26316861,0.065,-164699,,6.06,,
+Grand Total,,"Industrial",151621951,0.049,22513,343815,9.17,,

@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+West County,Camarillo,Industrial,10689892,0.028,58610,61000,1.05,116852,101857
+West County,Oxnard/Port Hueneme,Industrial,21940433,0.010,-80391,0,0.88,0,100098
+West County,Ventura,Industrial,9561688,0.023,-16388,13609,0.89,0,41446
+East County,Moorpark,Industrial,4057068,0.030,180916,0,1.23,0,256454
+East County,Simi Valley,Industrial,9118700,0.050,-28045,533369,1.40,0,67097
+East County,Thousand Oaks,Industrial,8278093,0.054,75,120290,1.34,0,22095
+East County,Westlake Village,Industrial,3712475,0.009,0,0,1.75,0,0
+East County,Total,Industrial,25166336,0.042,152946,653659,1.40,0,345646
+West County,Total,Industrial,42192013,0.017,-38169,74609,0.94,116852,243401
+Ventura County,Total,Industrial,67358349,0.027,114777,728268,1.13,116852,589047

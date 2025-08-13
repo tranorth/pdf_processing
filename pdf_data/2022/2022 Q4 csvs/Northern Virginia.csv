@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+City of Alexandria,,Warehouse,3695838,0.046,-102160,,12.42,,
+Arlington County,,Warehouse,730908,,,,,,
+Fairfax County,,Warehouse,19508088,0.031,-72935,,14.04,,
+Loudoun County,,Warehouse,13626151,0.028,-39428,76275,14.38,,
+Prince William County,,Warehouse,10660768,0.015,-12882,718956,13.25,,
+Total,,Warehouse,48221753,0.027,-227405,795231,13.44,,

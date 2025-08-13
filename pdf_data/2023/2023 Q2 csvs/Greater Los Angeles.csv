@@ -1,0 +1,88 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Commerce/Vernon,Bell,Industrial,5349440,0.013,-70121,0,1.84,,0
+Commerce/Vernon,Bell Gardens,Industrial,2691527,0.025,-68010,0,1.85,,0
+Commerce/Vernon,City of Commerce,Industrial,53608668,0.019,-214671,151565,1.67,,564074
+Commerce/Vernon,Montebello,Industrial,11754177,0.038,-406044,0,1.98,,48942
+Commerce/Vernon,Monterey Park,Industrial,2253656,0.029,-18052,0,1.44,,0
+Commerce/Vernon,Pico Rivera,Industrial,10456255,0.004,25358,0,1.25,,0
+Commerce/Vernon,Cudahy,Industrial,1445689,0.000,0,0,,,0
+Commerce/Vernon,City of Vernon,Industrial,57793107,0.022,-152501,454074,1.68,,223773
+Commerce/Vernon,Maywood,Industrial,850381,0.000,0,0,,,0
+Commerce/Vernon,South Gate,Industrial,11771200,0.016,-21755,0,1.34,,0
+Commerce/Vernon,Huntington Park,Industrial,6004856,0.015,-55500,0,1.43,,0
+Commerce/Vernon,Total,Industrial,163978956,0.020,-981296,605639,1.66,0,836789
+Downtown Los Angeles,Los Angeles,Industrial,106781594,0.018,79858,253318,1.40,0,379006
+Mid-Counties,Artesia,Industrial,301507,0.000,0,0,,,0
+Mid-Counties,Bellflower,Industrial,511296,0.054,6439,0,1.66,,17504
+Mid-Counties,Cerritos,Industrial,14136522,0.011,27252,0,1.65,,214854
+Mid-Counties,Downey,Industrial,5331664,0.008,17280,0,1.76,,17280
+Mid-Counties,La Mirada,Industrial,13573357,0.012,-53566,0,1.64,,109423
+Mid-Counties,Lakewood,Industrial,672318,0.000,0,0,1.50,,0
+Mid-Counties,Norwalk,Industrial,2929817,0.058,-146864,0,1.90,,0
+Mid-Counties,Paramount,Industrial,8538952,0.004,-19300,0,1.70,,38240
+Mid-Counties,Santa Fe Springs,Industrial,54437286,0.008,286009,346242,1.87,,438915
+Mid-Counties,Whittier,Industrial,4864472,0.005,-13166,0,0.00,,164914
+Mid-Counties,Total,Industrial,105297191,0.010,104084,369378,1.77,23136,1001130
+Greater San Fernando Valley,Arleta/Tujunga,Industrial,12271111,0.014,-92270,0,1.70,,33592
+Greater San Fernando Valley,Burbank,Industrial,15306902,0.009,-52361,0,2.19,,0
+Greater San Fernando Valley,Glendale,Industrial,19496111,0.006,-11522,0,1.97,,84500
+Greater San Fernando Valley,North Hollywood,Industrial,14083512,0.011,-35381,20000,1.40,,36116
+Greater San Fernando Valley,Pacoima,Industrial,5669326,0.021,-50720,0,1.74,,56028
+Greater San Fernando Valley,Pasadena,Industrial,4466201,0.019,-32404,0,1.68,,0
+Greater San Fernando Valley,San Fernando,Industrial,5214549,0.000,0,168676,1.71,,0
+Greater San Fernando Valley,Sun Valley/Sunland,Industrial,228467,0.000,0,0,,,184335
+Greater San Fernando Valley,Sylmar,Industrial,8350068,0.006,0,0,1.38,,15000
+Greater San Fernando Valley,Agoura Hills,Industrial,751349,0.003,0,0,2.05,,0
+Greater San Fernando Valley,Calabasas,Industrial,1505697,0.062,128700,0,0.00,,128700
+Greater San Fernando Valley,Canoga Park,Industrial,7252871,0.021,-87061,0,1.67,,10141
+Greater San Fernando Valley,Chatsworth,Industrial,22239165,0.021,-163688,0,1.65,,146574
+Greater San Fernando Valley,Northridge,Industrial,4123486,0.011,14903,0,1.31,,47584
+Greater San Fernando Valley,Panorama City,Industrial,2642118,0.010,5600,0,1.45,,0
+Greater San Fernando Valley,Tarzana,Industrial,564981,0.010,-5594,0,1.58,,0
+Greater San Fernando Valley,Van Nuys,Industrial,19617297,0.006,-1026,20049,1.75,,82615
+Greater San Fernando Valley,Woodland Hills,Industrial,3308795,0.010,-29868,0,1.78,,0
+Greater San Fernando Valley,Canyon Country,Industrial,513424,0.000,0,0,,,0
+Greater San Fernando Valley,Santa Clarita,Industrial,3692647,0.000,395751,278670,,,193324
+Greater San Fernando Valley,Valencia,Industrial,19817643,0.002,34530,0,1.45,,111825
+Greater San Fernando Valley,Lancaster,Industrial,3317994,0.004,720000,0,0.79,,0
+Greater San Fernando Valley,Palmdale,Industrial,2731677,0.007,20000,0,1.05,,0
+Greater San Fernando Valley,Total,Industrial,179037799,0.010,-99492,1344476,1.61,278670,1144673
+San Gabriel Valley,Azusa,Industrial,7937482,0.015,-14568,0,1.10,,28650
+San Gabriel Valley,City of Industry,Industrial,80074338,0.014,282992,2761304,1.73,,1311628
+San Gabriel Valley,El Monte,Industrial,12837195,0.008,-13200,360992,1.63,,0
+San Gabriel Valley,Irwindale,Industrial,14194663,0.056,159985,0,1.50,,245152
+San Gabriel Valley,Monrovia/Duarte,Industrial,5515836,0.011,-17700,0,1.40,,10268
+San Gabriel Valley,Pomona,Industrial,19430774,0.005,36497,0,1.55,,96502
+San Gabriel Valley,South El Monte,Industrial,7125629,0.006,29144,0,1.55,,0
+San Gabriel Valley,Baldwin Park,Industrial,4172711,0.017,11985,552562,1.26,,14811
+San Gabriel Valley,Walnut,Industrial,3510509,0.004,147490,0,1.95,,0
+San Gabriel Valley,Glendora/San Dimas/La Verne,Industrial,6290399,0.007,47284,74378,1.57,,99520
+San Gabriel Valley,Total,Industrial,161089536,0.015,522419,3896726,1.66,0,1806531
+South Bay,Carson,Industrial,44583027,0.016,-74950,283893,2.06,,65226
+South Bay,Compton,Industrial,21917325,0.012,-153781,0,1.82,,10618
+South Bay,El Segundo,Industrial,8132937,0.008,24623,0,2.03,,38192
+South Bay,Gardena,Industrial,15000806,0.005,-25100,0,1.61,,43905
+South Bay,Harbor City,Industrial,3547092,0.061,0,203877,1.65,,90272
+South Bay,Hawthorne,Industrial,7310801,0.010,-26367,0,1.90,,49201
+South Bay,Inglewood,Industrial,3992448,0.000,0,0,2.00,,0
+South Bay,LA Unincorporated,Industrial,15381655,0.028,35155,0,1.55,,143013
+South Bay,Lawndale,Industrial,167202,0.000,0,0,,,72346
+South Bay,Long Beach,Industrial,19105898,0.026,15233,673350,1.19,,0
+South Bay,Los Angeles,Industrial,5270461,0.008,0,0,2.33,,0
+South Bay,Rancho Dominguez,Industrial,20598101,0.017,-109943,205435,2.11,,388708
+South Bay,Redondo Beach,Industrial,2453948,0.000,0,0,,,0
+South Bay,San Pedro,Industrial,3199091,0.000,0,112500,2.00,,0
+South Bay,Signal Hill,Industrial,2411365,0.015,0,0,,,43744
+South Bay,Torrance,Industrial,29747538,0.020,-30441,174211,2.28,,173565
+South Bay,Wilmington,Industrial,3574004,0.004,0,0,1.68,,223865
+South Bay,Total,Industrial,206393699,0.016,-345571,1540766,1.91,538570,1342655
+Ventura County,Camarillo,Industrial,11043632,0.013,-111116,120500,1.08,,13373
+Ventura County,Moorpark,Industrial,4134368,0.029,-111932,0,1.27,,0
+Ventura County,Oxnard/Port Hueneme,Industrial,21575068,0.002,-18693,74551,0.91,,69198
+Ventura County,Simi Valley,Industrial,9002685,0.027,2214,551736,1.48,,43000
+Ventura County,Thousand Oaks,Industrial,8597974,0.050,30338,0,1.47,,38004
+Ventura County,Ventura,Industrial,9766883,0.005,-1127,0,1.16,,16542
+Ventura County,Westlake Village,Industrial,3830669,0.003,7384,0,1.96,,11406
+Ventura County,Total,Industrial,67951279,0.015,-202932,746787,1.29,0,191523
+Los Angeles County,Total,Industrial,922578775,0.015,-719998,8010303,1.71,840376,7433356
+Greater Los Angeles,Total,Industrial,990530054,0.015,-922930,8757090,1.69,840376,7624879

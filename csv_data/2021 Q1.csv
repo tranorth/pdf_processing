@@ -1,0 +1,28 @@
+Period,Market,primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+2021 Q1,Boston,Urban,Urbon,Industrial,14512313,0.036,-85337,,21.93,,
+2021 Q1,Boston,Metro North,Close-In Suburbs North,Industrial,17910543,0.019,-2600,,17.68,,
+2021 Q1,Boston,Metro North,Route 128 - North,Industrial,32260569,0.024,286431,,14.21,,
+2021 Q1,Boston,Metro North,Route 495- Northeast,Industrial,19244348,0.011,-3205,,11.66,,
+2021 Q1,Boston,Metro North,Route 3 - North,Industrial,17726435,0.042,36732,,11.87,,
+2021 Q1,Boston,Metro North,,Industrial,87141895,0.024,317358,,13.84,,
+2021 Q1,Boston,Metro South,Route 128 - South,Industrial,44321607,0.034,611546,,9.97,,
+2021 Q1,Boston,Metro South,Route 495 - South,Industrial,65990890,0.021,387402,,7.94,,
+2021 Q1,Boston,Metro South,,Industrial,110312497,0.026,998948,,8.57,,
+2021 Q1,Boston,Metro West,Route 128 - West,Industrial,6707335,0.047,-2266,,,,
+2021 Q1,Boston,Metro West,Framingham - Natick,Industrial,4691376,0.016,-28734,,10.43,,
+2021 Q1,Boston,Metro West,Route 495-Route 2 West,Industrial,20152727,0.018,75470,,,,
+2021 Q1,Boston,Metro West,Route 495 - Mass Pike West,Industrial,23230009,0.017,163663,,9.27,,
+2021 Q1,Boston,Metro West,,Industrial,54781447,0.021,227699,,8.68,,
+2021 Q1,Boston,Greater Boston,Overall Total Industrial,Industrial,266748152,0.025,1458668,,10.53,,
+2021 Q1,Savannah,Savannah Market,,Overall,77228420,0.033,762012,8510808.0,5.39,,
+2021 Q1,Silicon Valley Snapshot,San Jose Downtown/IBP,,Warehouse,4556655,0.085,138166,,1.1,,380129.0
+2021 Q1,Silicon Valley Snapshot,San Jose - North,,Warehouse,5745431,0.048,81062,,1.15,,482229.0
+2021 Q1,Silicon Valley Snapshot,Sun Jose - South,,Warehouse,6773118,0.053,39899,,1.0,,136411.0
+2021 Q1,Silicon Valley Snapshot,Milpitas,,Warehouse,7084694,0.068,42970,,1.1,,287511.0
+2021 Q1,Silicon Valley Snapshot,Santa Clara,,Warehouse,5057673,0.031,-38800,,1.25,,0.0
+2021 Q1,Silicon Valley Snapshot,West Valley,,Warehouse,357222,0.317,0,,1.12,,0.0
+2021 Q1,Silicon Valley Snapshot,Sunnyvale,,Warehouse,2449286,0.056,0,,1.35,,0.0
+2021 Q1,Silicon Valley Snapshot,Mountain View/Los Altas,,Warehouse,156097,0.013,0,,1.35,,0.0
+2021 Q1,Silicon Valley Snapshot,Palo Alto,,Warehouse,26620,0.0,0,,2.03,,0.0
+2021 Q1,Silicon Valley Snapshot,Fremont/Newark,,Warehouse,16703331,0.029,382647,,1.1,,590308.0
+2021 Q1,Silicon Valley Snapshot,Silicon Valley Warehouse Market,,Warehouse,48910127,0.049,645944,,1.12,,1876588.0

@@ -1,0 +1,28 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northern NJ,Central Bergen,Industrial,32300000,0.045,27200,187500,18.16,,72000
+Northern NJ,Fairfield Market,Industrial,18700000,0.038,-106900,0,15.92,,118300
+Northern NJ,Hudson Waterfront,Industrial,66300000,0.038,-36100,1671000,22.91,,116500
+Northern NJ,Meadowlands,Industrial,94500000,0.064,1068300,359200,21.19,,1066800
+Northern NJ,Morris Region,Industrial,41800000,0.045,211500,1791300,15.46,,88300
+Northern NJ,Newark,Industrial,53800000,0.04,-386600,211400,27.12,,50000
+Northern NJ,North East Bergen,Industrial,8100000,0.024,31300,0,15.83,,40000
+Northern NJ,North West Bergen,Industrial,19300000,0.049,37600,113000,19.61,,74600
+Northern NJ,Rt 23 North,Industrial,600000,0.013,-8000,0,0,,0
+Northern NJ,Rt 280 Corridor,Industrial,4400000,0.033,0,0,19.5,,0
+Northern NJ,Rt 46/23/2 Interchange,Industrial,57900000,0.027,388800,402300,16.95,,577700
+Northern NJ,Suburban Essex,Industrial,6800000,0.054,-5600,0,0,,226200
+Northern NJ,Total,Industrial,404500000,0.045,1221500,4735700,19.91,,2430400
+Central NJ,Brunswicks/Exit 9,Industrial,29300000,0.079,-42200,146600,17.2,,274900
+Central NJ,Carteret/Avenel,Industrial,30800000,0.119,-383800,488400,19.82,,514600
+Central NJ,Central Union,Industrial,24500000,0.023,29800,109200,17.73,,66300
+Central NJ,Exit 8A,Industrial,80100000,0.033,-235100,407300,15.94,,559100
+Central NJ,Hunterdon/Warren,Industrial,14900000,0.05,67100,0,11.54,,23000
+Central NJ,Linden/Elizabeth,Industrial,45600000,0.077,37500,400000,22.76,,640200
+Central NJ,Monmouth,Industrial,27500000,0.097,60000,1869800,14.98,,103600
+Central NJ,Princeton,Industrial,16100000,0.053,98600,0,14.22,,180500
+Central NJ,Route 287/Exit 10,Industrial,111400000,0.045,974200,964600,18.15,,910900
+Central NJ,Route 78 East,Industrial,9700000,0.042,-178200,0,15.55,,0
+Central NJ,Somerset,Industrial,40800000,0.04,146700,691500,16.91,,52300
+Central NJ,Trenton/295,Industrial,33600000,0.053,-92800,378000,14.64,,102400
+Central NJ,Total,Industrial,464300000,0.056,481800,5455400,17.32,,3427800
+NJ,Total,Industrial,868800000,0.05,1703300,10191100,18.23,,5858300

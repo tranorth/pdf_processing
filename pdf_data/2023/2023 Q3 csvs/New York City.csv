@@ -1,0 +1,6 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Bronx,,Industrial,23967142,0.058,363012,1200000,22.1,,65715
+Brooklyn,,Industrial,66542538,0.053,119988,2400000,27.58,,319626
+Queens,,Industrial,62525019,0.062,9746,1800000,28.49,,133626
+Staten Island,,Industrial,6184962,0.012,-6100,157000,21,,5670
+New York City Total,,Industrial,159219661,0.055,486646,5600000,26.74,,524637

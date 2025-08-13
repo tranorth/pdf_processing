@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central Atlanta,,Industrial,7205716,0.077,-55352,0,10.21,,
+Chattahoochee,,Industrial,15503898,0.062,-100244,0,9.64,,
+Northwest/I-575,,Industrial,69824178,0.066,134508,10399222,6.71,1730187,
+N Central/GA 400,,Industrial,25166819,0.067,-65930,148000,8.82,207276,
+Northeast/I-85,,Industrial,197397920,0.044,1329951,12269618,6.94,369128,
+Stone Mountain,,Industrial,27983948,0.014,8429,0,6.13,,
+Airport,,Industrial,82253205,0.03,658455,1385033,7.23,1438339,
+Southeast/I-75,,Industrial,68449199,0.046,984144,5254807,6.37,637506,
+Southwest/I-85,,Industrial,59481276,0.021,-376436,2965366,6.68,,
+I-20 East,,Industrial,39076653,0.037,72970,3151596,6.23,315645,
+I-20 West,,Industrial,107321743,0.053,162524,2102635,6.26,1908960,
+ATLANTA,,Warehouse/Distribution,537440396,0.045,3170034,37521532,6.27,6607041,

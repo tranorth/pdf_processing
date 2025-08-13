@@ -1,0 +1,4 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Polk East,,Warehouse/Distribution,15658649,0.073,0,1296800,7.49,,
+Polk West,,Warehouse/Distribution,35826461,0.086,-8157,803440,7.29,,
+Polk County Total,,Warehouse/Distribution,51485110,0.082,-8157,2100240,7.36,,

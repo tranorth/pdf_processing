@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Big Island,,Industrial,6122014,0.019,-28887,0,1.31,0,
+Central Oahu,,Industrial,10239127,0.015,-6634,0,1.80,0,
+East Honolulu,,Industrial,2205371,0.035,6428,0,2.11,0,
+Kauai,,Industrial,1778669,0.007,-4930,0,2.15,0,
+Maui,,Industrial,8176514,0.021,3101,0,2.38,0,
+West Honolulu,,Industrial,18613737,0.021,12112,0,1.65,0,
+West Oahu,,Industrial,6567688,0.013,140107,313260,1.57,108617,
+Windward,,Industrial,1064896,0.002,0,0,,0,
+"Total",,"Industrial",54768016,0.018,121297,313260,1.83,108617,

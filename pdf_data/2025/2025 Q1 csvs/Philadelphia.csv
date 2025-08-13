@@ -1,0 +1,5 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northern DE,,Industrial,33672951,0.082,-69701,769770,11.12,525000,
+Southeast PA,,Industrial,212010963,0.075,430827,4582174,12.73,1174706,
+Southern NJ,,Industrial,141038474,0.126,-271055,3863179,12.20,1486349,
+Market Total,,Industrial,386722388,0.094,90071,9215123,12.31,3186055,

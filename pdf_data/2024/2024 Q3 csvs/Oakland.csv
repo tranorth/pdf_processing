@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Richmond,,,13670422,6.7,-17078,,1.40,,
+Berkeley,,,4783458,2.4,0,,1.75,,
+Emeryville,,,2270994,7.4,-9591,,1.75,,
+Oakland,,,33012071,7.2,-218660,,1.30,,
+Alameda,,,3822285,6.1,0,,1.30,,
+San Leandro,,,19817184,5.0,187678,,1.40,,
+San Lorenzo,,,1184671,0.9,0,,1.10,,
+Hayward,,,35368154,5.2,5429,,1.40,,
+Union City,,,12572242,4.8,96143,,1.40,,
+Oakland Ind. Market,,"Manufacturing",33422975,3.7,27115,,1.34,,
+Oakland Ind. Market,,"Warehouse",93078506,6.5,16806,,,,
+Oakland Ind. Market,,,126501481,5.7,43921,908000,1.36,,

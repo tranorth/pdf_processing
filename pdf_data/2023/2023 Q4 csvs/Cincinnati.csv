@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Freestanding,,Industrial,219954153,0.026,-505251,,6.01,,
+Bulk Warehouse,,Industrial,97379620,0.116,812739,,6.46,,
+Office Warehouse,,Industrial,12464780,0.066,-38150,,7.83,,
+Central,,Industrial,83945490,0.038,-167196,,5.57,50000,
+Northeast,,Industrial,68770102,0.047,-299316,,6.91,1219475,
+Northwest,,Industrial,90263034,0.033,930629,992672,6.64,399197,
+Northern Kentucky,,Industrial,86819927,0.098,-194779,1037677,6.39,1646451,
+Metro Total,,Industrial,329798553,0.055,269338,2030349,6.41,3315123,

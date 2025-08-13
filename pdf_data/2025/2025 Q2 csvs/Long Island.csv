@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central Suffolk,,Industrial,39478972,0.074,498208,650970,16.81,0,
+Eastern Nassau,,Industrial,20370892,0.068,47929,0,20.67,0,
+Eastern Suffolk,,Industrial,9912278,0.115,99856,0,18.26,0,
+Western Nassau,,Industrial,15430756,0.069,-87552,129485,21.97,0,
+Western Suffolk,,Industrial,20663469,0.038,79042,0,16.74,0,
+Total,,Industrial,105856367,0.069,637483,780455,18.66,0,

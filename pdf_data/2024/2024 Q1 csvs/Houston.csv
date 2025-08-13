@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+CBD,,Overall,50875330,0.032,-227056,0,0.84,,
+North,,Overall,115977183,0.079,69017,574232,0.81,,
+Northeast,,Overall,42593906,0.066,2523403,1908270,0.81,,
+Northwest,,Overall,146727207,0.055,178861,2378025,0.84,,
+Southeast,,Overall,115299323,0.06,441408,4038442,0.88,,
+South,,Overall,36239157,0.057,-110886,1799051,0.83,,
+Southwest,,Overall,88323036,0.05,440816,1540073,0.83,,
+West,,Overall,32483924,0.135,1056528,0,0.80,,
+HOUSTON TOTAL,,Overall,628519066,0.063,4372091,12238093,0.83,,

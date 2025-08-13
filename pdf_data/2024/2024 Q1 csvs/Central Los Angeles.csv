@@ -1,0 +1,14 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+COMMERCE,Bell,Industrial,5349440,0.013,40116,0,1.98,0,40116
+COMMERCE,Bell Gardens,Industrial,2691527,0.062,-98878,0,1.60,0,0
+COMMERCE,City of Commerce,Industrial,53687737,0.03,-272164,151565,1.25,0,217197
+COMMERCE,Montebello,Industrial,11769873,0.041,3391,0,1.87,0,203212
+COMMERCE,Monterey Park,Industrial,2253656,0.051,-31200,0,0.99,0,15750
+COMMERCE,Pico Rivera,Industrial,10459199,0.021,-53371,0,1.52,0,40000
+VERNON,Cudahy,Industrial,1418300,0.022,-19960,0,,0,11135
+VERNON,Huntington Park,Industrial,57936368,0.032,4255,538735,1.39,0,389201
+VERNON,Maywood,Industrial,873420,0,0,0,,0,0
+VERNON,South Gate,Industrial,11773474,0.031,-105327,0,1.15,0,87038
+VERNON,City of Vernon,Industrial,6032245,0.03,33026,0,1.08,0,137541
+DOWNTOWN LOS ANGELES,,Industrial,106774916,0.024,-191488,253318,1.09,0,432445
+CENTRAL LOS ANGELES,,Industrial,271020155,.028,-691600,943618,1.32,0,1573635

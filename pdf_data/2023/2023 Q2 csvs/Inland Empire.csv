@@ -1,0 +1,25 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Inland Empire East,Banning/Beaumont,Industrial,6280227,0.000,2334,3610375,0.00,,17500
+Inland Empire East,Colton,Industrial,9348084,0.002,24000,0,1.00,,93340
+Inland Empire East,Corona/Norco,Industrial,33876194,0.047,34500,263848,1.58,,537168
+Inland Empire East,Moreno Valley,Industrial,33440955,0.031,-434330,283459,1.18,,33700
+Inland Empire East,Perris,Industrial,38591732,0.034,2533895,3952010,1.35,,1095622
+Inland Empire East,Redlands/Loma Linda,Industrial,29910683,0.015,2836,499277,1.18,,13990
+Inland Empire East,Rialto,Industrial,36033269,0.017,39733,789969,1.58,,61056
+Inland Empire East,Riverside,Industrial,58396377,0.016,94468,1165253,1.33,,492689
+Inland Empire East,San Bernardino,Industrial,44921190,0.013,-204073,871437,1.30,,120450
+Inland Empire West,Chino/Chino Hills,Industrial,55638522,0.026,-436198,1744787,1.63,,568469
+Inland Empire West,Fontana (Bloomington),Industrial,79949290,0.058,-1558202,4204163,1.62,,1061859
+Inland Empire West,Jurupa Valley/Eastvale,Industrial,45651428,0.007,-1469,5765280,1.65,,229835
+Inland Empire West,Ontario,Industrial,114521736,0.027,-411978,7593557,1.61,,1233337
+Inland Empire West,Rancho Cucamonga,Industrial,41241251,0.016,-282543,2929339,1.47,,1690585
+Inland Empire North,Adelanto,Industrial,3989948,0.095,29925,0,0.00,,0
+Inland Empire North,Apple Valley,Industrial,3266548,0.000,0,0,0.00,,0
+Inland Empire North,Barstow,Industrial,571828,0.000,0,0,0.00,,0
+Inland Empire North,Hesperia,Industrial,3117539,0.006,0,2231600,0.00,,0
+Inland Empire North,Victorville,Industrial,10003999,0.056,-505192,0,1.05,,0
+Inland Empire East Total,,Industrial,290798711,0.023,2093363,11435628,1.40,3315007,2465515
+Inland Empire West Total,,Industrial,337002227,0.030,-2690390,22237126,1.60,10054422,4784085
+Inland Empire Core Total,,Industrial,627800938,0.027,-597027,33672754,1.51,13369429,7249600
+Inland Empire North Total,,Industrial,20949862,0.046,-475267,2231600,1.05,1249725,0
+Inland Empire + IEN Total,,Industrial,648750800,0.027,-1072294,35904354,1.50,14619154,7249600

@@ -1,0 +1,19 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Nassau,East Nassau,Industrial,13400000,0.034,229200,0,19.32,,122400
+Nassau,NE Nassau,Industrial,5400000,0.060,-117100,145200,19.50,,21200
+Nassau,NW Nassau,Industrial,3800000,0.018,-600,0,,,
+Nassau,SE Nassau,Industrial,300000,0.000,0,0,,,
+Nassau,SW Nassau,Industrial,3200000,0.046,-14600,0,13.00,,7000
+Nassau,West Nassau,Industrial,5800000,0.037,4500,102100,19.50,,8000
+NASSAU,,Industrial,32000000,0.038,101500,247300,17.30,0,158600
+Suffolk,Brentwood/Deer Park,Industrial,16300000,0.074,-163200,0,19.77,,511200
+Suffolk,Eastern Suffolk,Industrial,8700000,0.041,-21500,1132400,14.13,,70400
+Suffolk,Hauppauge,Industrial,12100000,0.063,-135100,646100,15.54,,96600
+Suffolk,Mac Arthur Airport,Industrial,9600000,0.054,-90800,121300,13.35,,40700
+Suffolk,North Central Suffolk,Industrial,100000,0.000,8200,0,,,
+Suffolk,NW Suffolk,Industrial,1000000,0.036,0,0,,,
+Suffolk,South Central Suffolk,Industrial,900000,0.006,-5300,0,,,
+Suffolk,SW Suffolk,Industrial,5100000,0.074,-130700,0,14.90,,20200
+Suffolk,West Suffolk,Industrial,14700000,0.050,-66800,103500,18.36,,150700
+SUFFOLK,,Industrial,68400000,0.058,-605300,1899800,17.20,180000,803500
+Long Island Total,,Industrial,100400000,0.052,-503800,2147100,17.22,,962100

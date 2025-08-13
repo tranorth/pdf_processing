@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport,,Industrial,1113585,6.7,21233,,10.81,,
+Downtown,,Industrial,3287932,2.1,-63154,,9.00,,
+Mesa del Sol,,Industrial,693896,,36608,,,,
+NE Heights,,Industrial,482381,0.2,,,,9.00,
+North 1-25,,Industrial,16684839,3.7,-7970,141574,9.50,,
+North Valley,,Industrial,2599515,1.1,-82305,,11.31,,
+Rio Rancho,,Industrial,6539789,,5300,,,,
+SE Heights,,Industrial,1511743,1.5,4013,,13.02,,
+South 1-25,,Industrial,3106520,3.4,4849,,11.70,,
+Valencia County,,Industrial,3234118,6.1,,,,9.50,
+West Mesa,,Industrial,7811057,1.1,49692,86000,11.06,,
+Market Total,,Industrial,47065375,2.6,-31734,227574,9.83,0,

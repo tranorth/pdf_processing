@@ -1,0 +1,6 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central,,,83773706,0.036,1435340,0,5.92,1424135,
+Northeast,,,67227470,0.02,1270,1780429,6.36,,
+Northwest,,,86456446,0.023,773248,1850485,6.43,868886,
+Northern Kentucky,,,81851387,0.037,-897995,4406754,5.52,,
+Metro Total,,,319309009,0.03,1311863,8037668,5.95,2293021,

@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East,,,22275487,10.6,198466,0,,160000,
+Midway,,,28799948,2.2,111719,0,,,
+Minneapolis,,,23662733,1.6,11639,0,,,
+North Central,,,54959170,1.6,254750,304254,,176000,
+Northwest,,,83482492,4.6,444768,815814,,500800,
+South Central,,,56055206,2.0,365315,459004,,23000,
+Southwest,,,72027007,5.0,-356233,525391,,0,
+St Paul,,,15742274,2.2,-28055,175000,,21681,
+Metro Overall,,,357004317,3.7,1002369,2279463,7.49,1100000,

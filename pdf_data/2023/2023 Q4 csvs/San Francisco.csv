@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Bayview/Hunters Point,,Industrial,7229167,0.0344,-36224,,2.15,,
+Mission Bay/China Basin,,Industrial,3218243,0.1126,59824,,2.37,,
+Mission/Potrero,,Industrial,8032377,0.0395,7016,,2.36,,
+Showplace Square,,Industrial,921579,0.1043,-14611,,2.2,,
+South of Market,,Industrial,2227425,0.1774,-72789,,2.63,,
+Market Totals,,Industrial,21628791,0.0656,-56784,,2.34,,
+Market Totals,,Warehouse,18840418,0.0411,23023,,2.31,,
+Market Totals,,Manufacturing,2788373,0.2315,-79807,,2.41,,

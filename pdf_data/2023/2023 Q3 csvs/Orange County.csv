@@ -1,0 +1,38 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+NORTH ORANGE COUNTY,Anaheim,Manufacturing and Warehouse,44838097,0.008,209937,308966,,,558029
+NORTH ORANGE COUNTY,Brea,Manufacturing and Warehouse,10716520,0.019,-76248,124678,,,0
+NORTH ORANGE COUNTY,Buena Park,Manufacturing and Warehouse,13110952,0.001,8374,0,,,0
+NORTH ORANGE COUNTY,Fullerton,Manufacturing and Warehouse,18975148,0.008,21325,139000,,,58952
+NORTH ORANGE COUNTY,La Habra,Manufacturing and Warehouse,2264458,0,0,0,,,0
+NORTH ORANGE COUNTY,Orange,Manufacturing and Warehouse,11947044,0.007,0,0,,,0
+NORTH ORANGE COUNTY,Placentia,Manufacturing and Warehouse,3694720,0.003,-12411,0,,,15647
+NORTH ORANGE COUNTY,Yorba Linda,Manufacturing and Warehouse,830133,0,0,0,,,0
+NORTH ORANGE COUNTY TOTAL,,Manufacturing and Warehouse,106377072,0.008,150977,572644,,,632628
+WEST ORANGE COUNTY,Cypress,Manufacturing and Warehouse,4105599,0.005,0,0,,,85191
+WEST ORANGE COUNTY,Garden Grove,Manufacturing and Warehouse,10979481,0.023,-34368,149335,,,0
+WEST ORANGE COUNTY,Huntington Beach,Manufacturing and Warehouse,14320985,0.029,60891,0,,,220607
+WEST ORANGE COUNTY,La Palma,Manufacturing and Warehouse,2221326,0.001,0,0,,,0
+WEST ORANGE COUNTY,Los Alamitos,Manufacturing and Warehouse,1802440,0,0,0,,,0
+WEST ORANGE COUNTY,Seal Beach,Manufacturing and Warehouse,972051,0,0,0,,,0
+WEST ORANGE COUNTY,Stanton,Manufacturing and Warehouse,1072081,0.018,0,0,,,0
+WEST ORANGE COUNTY,Westminster,Manufacturing and Warehouse,1864466,0,0,0,,,0
+WEST ORANGE COUNTY TOTAL,,Manufacturing and Warehouse,37338429,0.019,26523,149335,,,305798
+AIRPORT AREA,Costa Mesa,Manufacturing and Warehouse,6002621,0,24578,0,,,13440
+AIRPORT AREA,Fountain Valley,Manufacturing and Warehouse,3547457,0.011,0,0,,,0
+AIRPORT AREA,Irvine,Manufacturing and Warehouse,13153283,0.005,-30358,394966,,,254461
+AIRPORT AREA,Newport Beach,Manufacturing and Warehouse,238252,0,0,0,,,0
+AIRPORT AREA,Santa Ana,Manufacturing and Warehouse,24234720,0.02,56625,82241,,,157566
+AIRPORT AREA,Tustin,Manufacturing and Warehouse,5727967,0,0,311770,,,0
+AIRPORT AREA TOTAL,,Manufacturing and Warehouse,52904300,0.011,50845,788977,,,425467
+SOUTH ORANGE COUNTY,Aliso Viejo,Manufacturing and Warehouse,680455,0,0,0,,,0
+SOUTH ORANGE COUNTY,Foothill Ranch,Manufacturing and Warehouse,3011999,0,0,0,,,0
+SOUTH ORANGE COUNTY,Irvine Spectrum,Manufacturing and Warehouse,7846898,0.011,0,94195,,,86492
+SOUTH ORANGE COUNTY,Laguna Hills,Manufacturing and Warehouse,1037200,0,0,0,,,0
+SOUTH ORANGE COUNTY,Laguna Niguel,Manufacturing and Warehouse,417122,0,0,0,,,0
+SOUTH ORANGE COUNTY,Lake Forest,Manufacturing and Warehouse,3648226,0.007,-26849,0,,,45736
+SOUTH ORANGE COUNTY,Mission Viejo,Manufacturing and Warehouse,329338,0,0,136308,,,0
+SOUTH ORANGE COUNTY,San Clemente,Manufacturing and Warehouse,1509228,0,0,0,,,0
+SOUTH ORANGE COUNTY,San Juan Capistrano,Manufacturing and Warehouse,640535,0,0,0,,,0
+SOUTH ORANGE COUNTY,Santa Margarita,Manufacturing and Warehouse,1376787,0,0,0,,,0
+SOUTH ORANGE COUNTY TOTAL,,Manufacturing and Warehouse,20497788,0.005,-26849,230503,,,132228
+ORANGE COUNTY TOTAL,,Manufacturing and Warehouse,217117589,0.01,201496,1741459,,,1496121

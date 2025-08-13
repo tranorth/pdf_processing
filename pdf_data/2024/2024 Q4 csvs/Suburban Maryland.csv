@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Prince George's,,"Warehouse",45812872,0.062,291701,1456432,13.90,,
+Frederick,,"Warehouse",10520628,0.062,-19950,772431,12.15,,
+Montgomery,,"Warehouse",11373878,0.042,83367,0,15.46,,
+Total,,"Warehouse",67707378,0.059,355118,2228863,13.70,,
+Prince George's,,"Flex",7025089,0.021,60452,0,13.49,,
+Frederick,,"Flex",4135009,0.086,102650,0,13.18,,
+Montgomery,,"Flex",8638724,0.031,119435,600000,21.13,,
+Total,,"Flex",19798822,0.039,282537,600000,15.68,,
+Prince George's,,"Total Industrial",52837961,0.057,352153,1456432,13.89,,
+Frederick,,"Total Industrial",14655637,0.068,82700,772431,12.47,,
+Montgomery,,"Total Industrial",20012602,0.038,202802,600000,17.26,,
+Total,,"Total Industrial",87506200,0.054,637655,2828863,14.01,,

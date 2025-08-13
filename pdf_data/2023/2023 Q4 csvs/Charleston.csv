@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Charleston,,Overall,1044665,0.0,0,0,,,
+East Cooper,,Overall,8773595,0.005,4440,0,,,
+Hanahan,,Overall,7010922,0.0034,0,0,,,
+Hwy 52 North,,Overall,6246266,0.0011,90975,0,,,
+I-26 North,,Overall,28831498,0.098,315850,5854907,,,
+North Charleston/Ladson,,Overall,30182594,0.025,-11426,1343590,,,
+West Ashley,,Overall,1047382,0.0125,0,0,,,
+MARKET TOTAL,,Manufacturing,24663949,0.0,0,0,,,
+MARKET TOTAL,,R&D/Flex,2400476,0.0416,-8150,0,,,
+MARKET TOTAL,,Warehouse/Distribution,56072497,0.0426,407949,6913497,,,
+MARKET TOTAL,,Overall,83136922,0.0352,399799,7198497,,,

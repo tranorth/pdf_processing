@@ -1,0 +1,46 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northern NJ,Central Bergen,Industrial,33900000,0.019,-72200,5320,13.33,,43400
+Northern NJ,Fairfield Market,Industrial,18900000,0.046,-178800,0,15.72,,18500
+Northern NJ,Hudson Waterfront,Industrial,64900000,0.018,155400,1154400,18.22,,85300
+Northern NJ,Hudson Waterfront,Class A,64900000,0.018,155400,1154400,24.64,,85300
+Northern NJ,Meadowlands,Industrial,93400000,0.045,-705600,1598800,18.1,,200100
+Northern NJ,Meadowlands,Class A,93400000,0.045,-705600,1598800,25.34,,200100
+Northern NJ,Morris Region,Industrial,40400000,0.027,36200,783500,13.44,,374900
+Northern NJ,Morris Region,Class A,40400000,0.027,36200,783500,16.15,,374900
+Northern NJ,Newark,Industrial,53800000,0.011,-194900,533600,26.04,,31000
+Northern NJ,Newark,Class A,53800000,0.011,-194900,533600,19.47,,31000
+Northern NJ,North East Bergen,Industrial,8100000,0.022,-76600,0,13.37,,15000
+Northern NJ,North West Bergen,Industrial,19100000,0.032,-80300,360400,12.86,,118300
+Northern NJ,North West Bergen,Class A,19100000,0.032,-80300,360400,22,,118300
+Northern NJ,Rt 23 North,Industrial,600000,0,0,0,0,,0
+Northern NJ,Rt 280 Corridor,Industrial,4400000,0.009,25100,0,0,,59200
+Northern NJ,Rt 46/23/2 Interchange,Industrial,57900000,0.019,-57600,0,14.6,,60400
+Northern NJ,Suburban Essex,Industrial,6700000,0.061,-6500,0,23,,0
+Northern NJ,Suburban Essex,Class A,6700000,0.061,-6500,0,22.39,,0
+Northern NJ Total,,Industrial,402300000,0.027,-1156000,4963000,16.98,,1006000
+Northern NJ Total,,Class A,402300000,0.027,-1156000,4963000,23.21,,1006000
+Central NJ,Brunswicks/Exit 9,Industrial,27200000,0.019,82500,846100,18.03,,123800
+Central NJ,Brunswicks/Exit 9,Class A,27200000,0.019,82500,846100,16.46,,123800
+Central NJ,Carteret/Avenel,Industrial,29300000,0.052,-54600,1817400,19.61,,246500
+Central NJ,Carteret/Avenel,Class A,29300000,0.052,-54600,1817400,19.41,,246500
+Central NJ,Central Union,Industrial,24500000,0.012,117600,0,15.79,,138000
+Central NJ,Exit 8A,Industrial,80100000,0.027,351700,133800,14.21,,1003000
+Central NJ,Exit 8A,Class A,80100000,0.027,351700,133800,14.1,,1003000
+Central NJ,Hunterdon/Warren,Industrial,14800000,0.023,357100,0,9.4,,338800
+Central NJ,Linden/Elizabeth,Industrial,44300000,0.029,931500,1532100,22.16,,960400
+Central NJ,Linden/Elizabeth,Class A,44300000,0.029,931500,1532100,21.63,,960400
+Central NJ,Monmouth,Industrial,26900000,0.068,-123200,429600,14.5,,9800
+Central NJ,Monmouth,Class A,26900000,0.068,-123200,429600,13.59,,9800
+Central NJ,Princeton,Industrial,15800000,0.064,-79100,160500,13.82,,252000
+Central NJ,Princeton,Class A,15800000,0.064,-79100,160500,14.25,,252000
+Central NJ,Route 287/Exit 10,Industrial,109200000,0.018,187800,1656700,15.87,,1012300
+Central NJ,Route 287/Exit 10,Class A,109200000,0.018,187800,1656700,18.52,,1012300
+Central NJ,Route 78 East,Industrial,9700000,0.012,-82100,0,19.62,,1800
+Central NJ,Somerset,Industrial,39900000,0.019,233900,662100,17.62,,297300
+Central NJ,Somerset,Class A,39900000,0.019,233900,662100,14.47,,297300
+Central NJ,Trenton/295,Industrial,32400000,0.015,919200,1095000,13.03,,1257800
+Central NJ,Trenton/295,Class A,32400000,0.015,919200,1095000,15.25,,1257800
+Central NJ Total,,Industrial,454200000,0.027,2842000,8333000,16.09,,5746000
+Central NJ Total,,Class A,454200000,0.027,2842000,8333000,17.65,,5746000
+NJ Total,,Industrial,856500000,0.027,1686000,13296000,16.51,,6752000
+NJ Total,,Class A,856500000,0.027,1686000,13296000,19.25,,6752000

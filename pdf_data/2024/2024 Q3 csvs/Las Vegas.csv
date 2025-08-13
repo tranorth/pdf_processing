@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport,,,14679055,2.6,34921,40346,1.23,53330,
+Apex,,,5498086,52.4,0,922569,0.85,,
+Central,,,8837935,2.2,-40192,,1.16,,
+Henderson,,,23503657,6.9,10234,1867321,1.21,197125,
+North Las Vegas,,,75067574,9.0,495201,3071652,1.09,2484462,
+Southwest,,,47859508,2.6,198390,2241416,1.22,53036,
+Las Vegas Total,,,175445815,7.5,698554,8143304,1.16,2787953,

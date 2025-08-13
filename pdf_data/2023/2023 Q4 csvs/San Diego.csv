@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central San Diego,,,64369310,0.032,-234131,216800,1.65,0,347943
+East County,,,15108154,0.011,-39217,384501,1.33,0,37735
+North County,,,50656191,0.04,-2139,254118,1.36,0,618667
+South San Diego,,,38939427,0.072,-221428,1277445,1.29,684152,474832
+Southwest Riverside,,,15043833,0.04,-28601,58585,1.09,0,101409
+San Diego Totals,,,184116915,0.042,-525516,2191449,1.38,684152,1580586

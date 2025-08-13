@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East,,,58520434,22.2,-431024,846594,5.85,,
+Northeast,,,26455053,2.6,128899,0,8.16,,
+Northwest,,,72861245,8.3,-57646,0,6.04,,
+Southeast,,,16550427,22.4,-436700,0,5.90,,
+Southwest,,,76934734,4.5,875823,0,5.26,,
+West,,,37664032,16.0,-136248,1573359,6.17,,
+CBD,,,33302871,2.0,304,0,4.36,,24656
+South,,,32837498,13.5,105939,0,6.20,,
+North,,,4321451,5.8,-23348,32000,14.17,,
+Total,,,359447745,10.6,25999,2451953,5.94,,

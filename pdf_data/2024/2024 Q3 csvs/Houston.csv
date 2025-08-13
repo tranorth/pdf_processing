@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+CBD,,"Class A Warehouse/Dist.",50646171,3.0,-12044,0,0.61,0,
+North,,"Class A Warehouse/Dist.",116482100,5.1,1901677,1401531,0.59,881996,
+Northeast,,"Class A Warehouse/Dist.",44502176,9.6,269374,858600,0.58,3659048,
+Northwest,,"Class A Warehouse/Dist.",147432105,5.4,349784,1894035,0.61,588029,
+Southeast,,"Class A Warehouse/Dist.",117406230,6.1,1829970,3779664,0.65,4124486,
+South,,"Class A Warehouse/Dist.",38112524,4.6,1624325,356143,0.60,1588926,
+Southwest,,"Class A Warehouse/Dist.",89076696,4.8,-150739,2808695,0.60,2052774,
+West,,"Class A Warehouse/Dist.",32539044,19.5,376740,0,0.57,892640,
+HOUSTON TOTAL,,"Class A Warehouse/Dist.",636197046,6.2,6189087,11098668,0.60,13787899,

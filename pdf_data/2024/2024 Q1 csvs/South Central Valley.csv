@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Merced,,Industrial,3972341,0.052,0,,0.57,,
+Madera,,Industrial,3304850,0.013,0,,0.63,,
+Fresno,,Industrial,38880482,0.027,0,,0.72,,
+Visalia,,Industrial,20897004,0.07,0,,0.74,,
+Hanford,,Industrial,3843114,0,0,,0.60,,
+Bakersfield,,Industrial,33604663,0.038,233217,,0.74,,
+Market Totals,,Industrial,104502454,0.039,233217,,0.71,,

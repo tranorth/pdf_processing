@@ -1,0 +1,14 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central San Diego,,,64604343,0.051,-50856,0,1.7,0,807158
+East County,,,15667637,0.026,-18403,0,1.38,0,114143
+North County,,,51824260,0.061,112730,67721,1.36,169534,1065786
+South San Diego,,,40955427,0.102,437886,1458209,1.23,91601,1130516
+Southwest Riverside,,,15069199,0.049,-31843,0,1.21,0,87393
+San Diego Totals,,High-Finish,31717226,0.053,96952,67721,1.82,0,380293
+San Diego Totals,,Business Park R&D,8633290,0.047,-23741,0,1.81,0,112939
+San Diego Totals,,R&D,23083936,0.056,120693,67721,1.83,0,267354
+San Diego Totals,,Low-Finish,156403640,0.064,352562,1458209,1.4,261135,2824703
+San Diego Totals,,Business Park Ind,26030544,0.055,-152394,0,1.58,88552,546235
+San Diego Totals,,Warehouse / Distribution,63274839,0.098,603442,1458209,1.36,172583,1473362
+San Diego Totals,,Light Industrial,67098257,0.037,-98486,0,1.33,0,805106
+Market Total,,Industrial,188120866,0.062,449514,1525930,1.4,261135,3204996

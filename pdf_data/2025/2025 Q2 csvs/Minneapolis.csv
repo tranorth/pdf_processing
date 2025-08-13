@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East,,Industrial,20482847,0.096,95645,225550,10.03,0,
+Midway,,Industrial,25857727,0.031,-57199,0,7.49,0,
+Minneapolis,,Industrial,18874670,0.022,-3077,0,10.11,0,
+North Central,,Industrial,48520734,0.025,121998,639396,9.58,337248,
+Northwest,,Industrial,78189793,0.037,165972,782120,11.01,399312,
+South Central,,Industrial,50235249,0.030,112125,874732,7.77,382000,
+Southwest,,Industrial,66416180,0.055,101138,821021,10.02,0,
+St Paul,,Industrial,13031086,0.041,-8251,175000,6.91,0,
+Total,,Industrial,321608286,0.040,528351,3517819,9.87,1118560,

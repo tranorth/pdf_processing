@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+SF Peninsula,,Warehouse,29501101,0.018,154051,,1.55,,
+Silicon Valley,,Warehouse,48437822,0.02,38626,,1.39,,
+Oakland,,Warehouse,92264044,0.027,291277,,1.34,,
+Tri-Valley,,Warehouse,17313789,0.017,185927,,1.39,,
+Napa / Solano,,Warehouse,42063072,0.015,-83943,,0.85,,
+Total Bay Area,,Warehouse,229579828,0.021,585938,,1.31,,

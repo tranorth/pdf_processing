@@ -97,11 +97,92 @@ class CSVGeneratorTool(StructuredTool):
         ### FINAL OUTPUT COLUMNS
         The final CSV MUST have these exact columns: `primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q`
         
-        ### MAPPING & CLEANING RULES
-        - The source data is a CSV. The first column is `primary_submarket`.
-        - Convert vacancy percentages to decimals (e.g., 5.4% -> 0.054).
-        - Numbers in parentheses `(123)` must be negative `-123`.
-        - Remove all quotes and commas from numbers.
+        make sure that youre double and triple checking your answers / output. 
+
+
+
+        if there are multiple tables, we only need the ones for industrial / warehouse
+
+
+
+        Analyze these files and then tell me which page the submarket data is on, then i will need you to extract the data from each file and put them into their respective csv format with columns as close to this as possible if applicable: primary_submarket =submarket, county, etc
+
+
+
+        secondary_submarket = city, etc
+
+
+
+        property_type = warehouse, manufacturing, flex, bulk, class a, b etc
+
+
+        total_inventory_q = net rentable Area, bldg sqft, inventory etc
+
+
+
+        vacancy_q = vacancy rate etc, (keep as a decimal)
+
+
+
+        net_absorption_q = ytd net absorbtion, year quarter deliveries(the quarter version is priority over ytd), etc
+
+
+
+        under_construction_q = under construction, under construct etc
+
+
+
+        Rent_q = median asking rent, average asking rent etc (Industrial/ Warehouse/ Whs. is priority)
+
+
+
+        delivered_q = ytd deliveries, quarter deliveries(the quarter version is priority over ytd), etc.
+
+
+
+        leasing_activity_q = sq ft leased(sqft leased is priority), gross absorption(this is secondary priority if sqft leased column is not available not value so if there is a sqft leased column use that value even if nothing is there), gross activity column should be a last result, etc
+
+
+
+
+
+        if there are more than one options for a csv column then use best judgement to ascertain which one would best fit the csv, you can analyze other files to check if something should be somewhere and make sure to include the market total rows and submarket total rows if applicable, make sure to include the market total row at the bottom
+
+
+
+        If possible we only need things to do with industrial warehouse and/or logistics
+
+
+
+        these are the columns i need even if the files dont have data values for each column and keep it to this: primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+
+
+
+        make sure to do your due diligence of the data making sure the values are under the correct column and accuracy of the data, reanalyze the data of you have to and give yourself a score from 1 to 100
+
+
+
+        all n/a should be 0 or blank(blank is priority)
+
+        all - should be 0 or blank(blank is priority)
+
+        all numbers in parenthesis should be negative
+
+        no numbers should have "" quotes around them
+
+        no names should have "" quotes around them
+
+        there should be any "" in the data
+
+        get rows even if they dont have data in them so we can have table completion
+
+        dont make up numbers for the leasing column if they aren't there then just leave blank, same for deliveries as well
+
+        make sure to include both primary and secondary submarkets if and when needed but dont include the market as primary submarket unless its necessary to differentiate between subsections
+
+
+
+        Industrial Data is the priority
         
         Raw CSV Data to Process:
         {raw_csv_data}

@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport/Doral,,,60824327,0.0458,-126765,1528640,19.60,0,
+Central Dade,,,39691109,0.0365,32374,107632,14.50,85376,
+Hialeah,,,16707629,0.0438,-85667,409189,13.60,0,
+Kendall/Tamiami,,,14404811,0.0317,-44926,0,13.00,0,
+Medley,,,46875052,0.0464,-59225,930559,17.35,539293,
+Miami Lakes,,,17933512,0.0821,705155,1512320,17.00,924942,
+North Central Dade,,,40290770,0.0783,106188,374419,16.10,1805758,
+Northeast Dade,,,2686371,0.0266,-1890,0,14.50,0,
+Out of Submarket,,,1389117,0.0018,0,0,,,
+South Dade,,,4634516,0.0105,5948,169053,13.00,0,
+Grand Total,,,245437214,0.0503,531192,5031812,15.46,3355279,

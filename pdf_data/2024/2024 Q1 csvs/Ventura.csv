@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Camarillo,,Industrial,10979113,0.012,32582,120500,"1.07",0,74117
+Moorpark,,Industrial,4134368,0.062,-45916,48787,"1.35",0,0
+Oxnard/Port Hueneme,,Industrial,21989428,0.007,17130,0,"1.08",74551,25188
+Simi Valley,,Industrial,9002685,0.036,-21121,551736,"1.47",0,13976
+Thousand Oaks,,Industrial,8597974,0.045,9804,120290,"1.36",0,100397
+Ventura City,,Industrial,9766883,0.01,12050,13609,"1.02",0,47567
+Westlake Village,,Industrial,3830669,0.005,0,0,"1.95",0,0
+East Ventura,,Industrial,25565696,0.04,-57233,720813,"1.53",0,114373
+West Ventura,,Industrial,42735424,0.008,61762,134109,"1.06",74551,146872
+Ventura County,,Industrial,68301120,0.02,4529,854992,"1.26",74551,261245

@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Southside,,Warehouse,78317340,0.061,-348250,4667509,9.11,,
+Peninsula,,Warehouse,28191646,0.057,-157245,553532,9.21,,
+Overall,,Warehouse,106508986,0.060,-505495,5221041,9.13,,
+Southside,,Flex,10645858,0.043,1194,18760,12.39,,
+Peninsula,,Flex,2230881,0.030,-7095,,10.37,,
+Overall,,Flex,12876739,0.041,-5901,18760,12.17,,
+Southside,,Overall,88963198,0.059,-347056,5025929,9.45,,
+Peninsula,,Overall,30422527,0.055,-164340,553532,9.27,,
+Total,,Overall,119385725,0.058,-511396,5579461,9.41,,

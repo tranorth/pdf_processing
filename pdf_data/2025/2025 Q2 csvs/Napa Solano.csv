@@ -1,0 +1,31 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Napa,Napa,Industrial,9334265,0.037,-94309,,1.17,,22965
+Napa,Napa,Warehouse/Distribution,6570513,0.038,-94209,,1.03,,19465
+Napa,Napa,Manufacturing,917450,0.047,3500,,1.33,,3500
+Napa,Napa,R&D/Flex,1846302,0.030,-3600,,1.53,,0
+Napa,American Canyon,Industrial,8675872,0.163,-67962,,0.90,,0
+Napa,American Canyon,Warehouse/Distribution,8185065,0.171,-67962,,0.90,,0
+Napa,American Canyon,Manufacturing,475767,0.039,0,,0.90,,0
+Napa,American Canyon,R&D/Flex,15040,0.000,0,,1.45,,0
+Napa Total,,Industrial,18010137,0.098,-162271,,0.98,,22965
+Solano,Benicia,Industrial,8565710,0.040,-92326,,1.08,,224371
+Solano,Benicia,Warehouse/Distribution,6894853,0.043,-88626,,1.05,,220371
+Solano,Benicia,Manufacturing,1189094,0.028,0,,0.95,,0
+Solano,Benicia,R&D/Flex,481763,0.040,-3700,,1.18,,4000
+Solano,Fairfield,Industrial,17582455,0.112,-59087,,0.86,,26665
+Solano,Fairfield,Warehouse/Distribution,13976261,0.125,-59087,,0.82,,23175
+Solano,Fairfield,Manufacturing,2297129,0.037,0,,0.95,,0
+Solano,Fairfield,R&D/Flex,1309065,0.107,0,,1.33,,3480
+Solano,Vacaville,Industrial,13151436,0.094,27180,,0.85,,158776
+Solano,Vacaville,Warehouse/Distribution,10356545,0.091,43916,,0.84,,156749
+Solano,Vacaville,Manufacturing,1264986,0.006,-8000,,0.90,,0
+Solano,Vacaville,R&D/Flex,1529905,0.191,-8736,,1.18,,2027
+Solano,Vallejo,Industrial,4850219,0.032,-54258,,1.31,,0
+Solano,Vallejo,Warehouse/Distribution,2338493,0.040,-54258,,1.47,,0
+Solano,Vallejo,Manufacturing,1927151,0.032,0,,1.22,,0
+Solano,Vallejo,R&D/Flex,584575,0.000,0,,0.95,,0
+Solano Total,,Industrial,44149820,0.084,-178491,,0.89,,409820
+Napa-Solano Total,,Warehouse/Distribution,48321730,0.098,-320226,,0.87,,419760
+Napa-Solano Total,,Manufacturing,8071577,0.031,-4500,,1.23,,3500
+Napa-Solano Total,,R&D/Flex,5766650,0.088,-16036,,1.36,,9507
+Napa-Solano Ind. Market Total,,Industrial,62159957,0.088,-340762,,0.91,,431767

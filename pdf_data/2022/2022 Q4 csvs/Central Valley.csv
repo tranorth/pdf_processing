@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Ceres,,Industrial,6160708,0.001,0,,,,
+Lathrop,,Industrial,18240680,0.094,196368,,0.67,,
+Lodi,,Industrial,5423163,0.0,0,,,,
+Manteca,,Industrial,14434114,0.001,-4542,,0.9,,
+Modesto,,Industrial,6411159,0.0,0,,,,
+Oakdale,,Industrial,890391,0.0,0,,,,
+Patterson,,Industrial,5008183,0.0,0,,0.65,,
+Stockton,,Industrial,38139768,0.071,0,,0.68,,
+Tracy,,Industrial,31865519,0.038,241206,,0.79,,
+Turlock,,Industrial,2875028,0.0,0,,,,
+Market Totals,,Industrial,129448713,0.037,433032,,0.71,,

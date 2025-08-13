@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Beaver County,,Warehouse/Distribution,11361468,0.039,-4240,,6.76,,
+Butler County,,Warehouse/Distribution,8649499,0.026,0,,6.88,,
+City of Pittsburgh,,Warehouse/Distribution,14522700,0.023,17672,,8.15,,
+Cranberry,,Warehouse/Distribution,7274227,0.007,13997,,,,
+East,,Warehouse/Distribution,8908740,0.126,-22078,,5.44,,
+Northeast,,Warehouse/Distribution,11118447,0.006,0,,9.35,,
+Northwest,,Warehouse/Distribution,6251308,0.022,112420,,11,,
+South,,Warehouse/Distribution,10150151,0.004,37700,,7.32,,
+Washington County,,Warehouse/Distribution,12024034,0.048,0,,5.67,,
+West,,Warehouse/Distribution,20318954,0.062,6280,,7.24,,
+Westmoreland County,,Warehouse/Distribution,25652100,0.055,1286629,,6.18,,
+Pittsburgh Total,,,151708918,0.044,1434902,,9.18,,

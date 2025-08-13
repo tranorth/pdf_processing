@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East,,Industrial,57657235,0.179,404000,771029,5.55,,
+Northeast,,Industrial,26487813,0.037,139232,0,9.92,,
+Northwest,,Industrial,71258693,0.076,-179505,1405400,6.21,,
+Southeast,,Industrial,15404139,0.14,-194381,1146288,6.18,,
+Southwest,,Industrial,76854682,0.043,-143595,80052,4.97,,
+West,,Industrial,37664032,0.136,345103,826687,6.29,,
+South,,Industrial,33827962,0.007,-88015,126576,6.52,,
+CBD,,Industrial,32649585,0.16,-158400,0,6.44,,
+North,,Industrial,4550723,0.047,0,87000,12.13,,
+Total,,Industrial,356354864,0.093,124439,4959626,5.98,,

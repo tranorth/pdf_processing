@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+CENTRAL,,Industrial,,0.046,-210987,,,0,
+NORTHEAST,,Industrial,,0.012,457339,,,80000,
+NORTHWEST,,Industrial,,0.058,23811,,,17520,
+SOUTHEAST,,Industrial,,0.053,208595,,,30000,
+SOUTHWEST,,Industrial,,0.046,-505666,,,1326287,
+OKLAHOMA CITY TOTAL,,Industrial,,0.045,478758,4425791,,1453807,

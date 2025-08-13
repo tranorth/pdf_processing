@@ -1,0 +1,28 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northern NJ,Central Bergen,,32300000,5.3,-386900,187500,18.36,,110700
+Northern NJ,Fairfield Market,,18800000,4.2,-74900,0,15.69,,20100
+Northern NJ,Hudson Waterfront,,66700000,5.1,-505700,1272300,22.56,,56900
+Northern NJ,Meadowlands,,94900000,7.0,-159300,100000,21.54,,654500
+Northern NJ,Morris Region,,42800000,3.7,356800,1835300,15.50,,621900
+Northern NJ,Newark,,54000000,5.2,-444300,0,27.65,,55900
+Northern NJ,North East Bergen,,8100000,2.9,-41000,0,15.61,,53700
+Northern NJ,North West Bergen,,19400000,5.5,-106000,113000,20.31,,400100
+Northern NJ,Rt 23 North,,600000,1.3,0,0,,,0
+Northern NJ,Rt 280 Corridor,,4400000,3.5,-10500,0,19.50,,3900
+Northern NJ,Rt 46/23/2 Interchange,,58300000,4.2,-523400,70000,16.53,,25700
+Northern NJ,Suburban Essex,,6800000,4.1,87100,0,12.47,,0
+Central NJ,Brunswicks/Exit 9,,29300000,9.2,-422100,310200,17.08,,321100
+Central NJ,Carteret/Avenel,,30800000,11.3,110300,488400,19.55,,282900
+Central NJ,Central Union,,24500000,2.3,89200,100000,17.78,,22000
+Central NJ,Exit 8A,,80300000,4.1,-419700,115600,15.95,,1376000
+Central NJ,Hunterdon/Warren,,14900000,3.8,97600,0,11.53,,32400
+Central NJ,Linden/Elizabeth,,46000000,7.9,277200,0,21.46,,1199800
+Central NJ,Monmouth,,29300000,13.1,548800,0,16.01,,396900
+Central NJ,Princeton,,16100000,2.4,456900,0,12.50,,427200
+Central NJ,Route 287/Exit 10,,111400000,5.0,-587300,964600,17.76,,764400
+Central NJ,Route 78 East,,9700000,4.0,25700,0,13.13,,153800
+Central NJ,Somerset,,40800000,4.5,-207400,691400,17.37,,97600
+Central NJ,Trenton/295,,33700000,7.8,-759100,284400,14.29,,200200
+Northern NJ Total,,,405900000,5.2,-1808100,3578100,20.07,,2003500
+Central NJ Total,,,466900000,6.2,-789900,2954600,17.46,,5274500
+NJ Total,,,872900000,5.7,-2597900,6532800,18.31,,7278100

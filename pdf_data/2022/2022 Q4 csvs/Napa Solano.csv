@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+American Canyon,,Warehouse/Distribution,8195570,0.0,0,,0.85,,
+Benicia,,Warehouse/Distribution,6887171,0.005,0,,0.85,,
+Fairfield,,Warehouse/Distribution,12262307,0.022,-45054,,0.85,,
+Napa,,Warehouse/Distribution,5890638,0.018,-1400,,1.00,,
+Vacaville,,Warehouse/Distribution,6497893,0.033,-37489,,0.85,,
+Vallejo,,Warehouse/Distribution,2329493,0.003,0,,0.70,,
+Napa-Solano Ind. Market,,Warehouse/Distribution,42063072,0.015,-83943,,0.85,,

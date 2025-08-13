@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Bluegrass,,"Industrial",8704304,0.000,284735,321660,,214735,
+Bullitt County,,"Industrial",24685593,0.074,394716,0,6.13,426300,
+Downtown,,"Industrial",12552726,0.027,-49000,0,4.18,0,
+Northeast,,"Industrial",11310241,0.005,0,0,7.20,0,
+Riverport,,"Industrial",18882441,0.041,96528,0,5.38,0,
+Shelby County,,"Industrial",8850307,0.061,0,380000,6.00,0,
+Indiana,,"Industrial",33042870,0.020,331548,4066462,5.48,0,
+Southside,,"Industrial",60830625,0.034,-510129,237100,6.44,0,
+TOTALS,,"Industrial",178859107,0.035,548398,5005222,5.94,641035,

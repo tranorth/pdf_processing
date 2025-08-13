@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+CBD,,Industrial,2152612,0.089,,,7.54,,
+North Central,,Industrial,12580292,0.076,135830,,12.44,,
+Northeast,,Industrial,85117568,0.136,656320,1350423,7.58,,
+Northwest,,Industrial,16264438,0.059,-46079,0,12.16,,
+South,,Industrial,25521645,0.047,-166514,1614183,7.94,,
+San Antonio Total,,Industrial,141636555,0.105,498402,2964606,8.48,,
+CBD,,DISTRIBUTION/LOGISTICS,1142348,0.019,-2400,,12.27,21228,
+North Central,,DISTRIBUTION/LOGISTICS,7727873,0.079,145779,,,,
+Northeast,,DISTRIBUTION/LOGISTICS,68209270,0.163,687293,,7.49,,
+Northwest,,DISTRIBUTION/LOGISTICS,10200583,0.069,-22711,,8.42,,
+South,,DISTRIBUTION/LOGISTICS,17842481,0.067,-161280,,7.60,,
+San Antonio Total,,DISTRIBUTION/LOGISTICS,105122555,0.130,646681,,7.76,,

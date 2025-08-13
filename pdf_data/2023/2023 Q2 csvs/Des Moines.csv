@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Western Suburbs,,Warehouse & Distribution,12183081,0.036,42923,234348,6.00,,
+CBD,,Warehouse & Distribution,594479,0.023,0,0,5.86,,
+Northwest,,Warehouse & Distribution,3805010,0.028,0,0,6.20,,
+Northeast,,Warehouse & Distribution,17731946,0.088,-55866,0,5.86,,
+South,,Warehouse & Distribution,4258016,0.042,32153,0,4.95,,
+Ankeny,,Warehouse & Distribution,4928314,0.092,221171,0,6.00,,
+Greater DSM,,Warehouse & Distribution,43500846,0.063,240381,234348,5.99,,

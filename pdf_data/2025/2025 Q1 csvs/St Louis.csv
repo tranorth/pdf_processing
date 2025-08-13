@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central County,,,15558818,0.011,33998,0,7.63,,
+Downtown,,,45004797,0.039,-249999,0,4.98,,
+Earth City,,,19020563,0.062,-159016,0,6.16,,
+Fenton,,,8361017,0.026,33947,0,7.63,,
+Maryland Heights,,,3587088,0.2,14534,929356,6.28,,
+Metro East,,,36631768,0.067,1344981,1027245,4.23,,678706
+North County,,,33638840,0.064,164720,1468779,5.51,,131821
+Saint Charles County,,,27225722,0.052,-179013,48400,5.64,,56300
+South County,,,5883770,0.013,0,0,7.5,,
+West County,,,5557058,0.01,20340,0,11.82,,
+Westport,,,10434171,0.026,-112823,0,7.02,,
+Total,,,210903612,0.049,911669,3473780,5.62,,

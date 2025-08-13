@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Boston,,Industrial,280822802,0.04,639895,3843513,15.74,68970,
+Hartford,,Industrial,73186689,0.035,131351,2686050,6.35,530000,
+NYC,,Industrial,159219661,0.055,486646,5605693,26.74,262119,
+Northern NJ,,Industrial,403992013,0.043,-1263737,2983310,18.55,1170963,
+Central NJ,,Industrial,459537438,0.04,882931,7868400,17.21,1168343,
+Philadelphia Metro,,Industrial,366573829,0.057,1664981,13486803,12.08,5968062,
+I-78/I-81 Corridor,,Industrial,522248905,0.06,1854864,9599249,8.55,5557379,

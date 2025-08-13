@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+West,,Industrial,,0.082,-95682,848662,,,
+Northeast,,Industrial,,0.035,224759,,,,
+Central,,Industrial,,0.009,-94439,,,,
+East,,Industrial,,0.167,77794,1716676,,,
+Lower Valley,,Industrial,,0.108,1238628,868801,,816734,
+Horizon East,,Industrial,,0.959,,1207032,,853780,
+El Paso Total,,Class A,,0.188,987865,5010998,,1722581,
+El Paso Total,,Class B,,0.050,134788,,,,
+El Paso Total,,Industrial,,0.107,1122653,5010998,,1722581,

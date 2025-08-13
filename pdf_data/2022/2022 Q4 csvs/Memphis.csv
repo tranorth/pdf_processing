@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Desoto County,,Bulk Warehouse,60703215,0.072,640074,3337603,4.53,,
+Fayette County,,Bulk Warehouse,5107618,0.0,0,2000000,N/A,,
+Marshall County,,Bulk Warehouse,19916784,0.082,0,1893028,4.5,,
+Northeast,,Bulk Warehouse,3876616,0.007,0,,6.19,,
+Northwest,,Bulk Warehouse,18208419,0.034,0,,1.75,,
+Southeast,,Bulk Warehouse,68714914,0.042,130000,2433000,4.54,,
+Southwest,,Bulk Warehouse,16258206,0.02,311564,,3.00,,
+Memphis MSA,,Bulk Warehouse,192785772,0.053,1081638,9663631,4.32,,

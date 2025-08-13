@@ -1,0 +1,11 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Inland Empire East,Banning/Beaumont,Industrial,9525613,0.26,-1017845,0,0,,
+Inland Empire East,Colton,Industrial,8765289,0.067,199233,599932,0.91,,214233
+Inland Empire East,Corona/Norco,Industrial,33834496,0.053,47868,220589,1.27,,158177
+Inland Empire East,Moreno Valley,Industrial,33741678,0.058,-108800,1948800,1.05,,107200
+Inland Empire East,Perris,Industrial,41322390,0.147,223510,6075127,0,,223510
+Inland Empire East,Redlands/Loma Linda,Industrial,30412041,0.062,4271,928649,0.75,,52469
+Inland Empire East,Rialto/Bloomington,Industrial,43320980,0.09,-707383,555936,1.15,,
+Inland Empire East,Riverside,Industrial,60830664,0.057,398862,818526,1.05,,478756
+Inland Empire East,San Bernardino,Industrial,46073869,0.083,-5200,335460,1.04,,58038
+Inland Empire East Total,,,307827020,0.084,-965484,6148915,1.09,,1292383

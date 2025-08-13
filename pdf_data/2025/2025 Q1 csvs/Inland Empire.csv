@@ -1,0 +1,25 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Inland Empire East,Banning/Beaumont,Industrial,9525613,0.153,1017845,0,0,0,0
+Inland Empire East,Colton,Industrial,8757197,0.017,439943,0,0.81,,449943
+Inland Empire East,Corona/Norco,Industrial,33767843,0.045,337565,157920,1.07,,581399
+Inland Empire East,Moreno Valley,Industrial,33741678,0.074,-357890,38820,0.83,,256795
+Inland Empire East,Perris,Industrial,42688411,0.119,2340434,1285153,1.04,,2603713
+Inland Empire East,Redlands/Loma Linda,Industrial,30775080,0.123,-1536781,564791,0,,0
+Inland Empire East,Rialto/Bloomington,Industrial,43516593,0.097,-129724,360353,1.03,,619367
+Inland Empire East,Riverside,Industrial,61429827,0.067,-44043,243323,0.91,,480472
+Inland Empire East,San Bernardino,Industrial,45982817,0.104,-939891,335460,0.9,,471547
+Inland Empire East,,Industrial,310185059,0.089,1127458,3585752,0.98,,5463236
+Inland Empire West,Chino/Chino Hills,Industrial,57024112,0.024,318925,0,1.17,,1389824
+Inland Empire West,Fontana,Industrial,78593025,0.044,546096,2123630,1.12,,899984
+Inland Empire West,Jurupa Valley/Eastvale,Industrial,48781696,0.047,424581,0,1.15,,608042
+Inland Empire West,Ontario/Montclair/Upland,Industrial,126006939,0.057,1272082,3623338,1.22,,3093375
+Inland Empire West,Rancho Cucamonga,Industrial,44358009,0.051,-115924,151455,1.16,,279609
+Inland Empire West,,Industrial,354763781,0.047,2445760,5898423,1.18,0,6270834
+Inland Empire Core,,Industrial,664948840,0.066,3573218,9484175,1.12,,11734070
+Inland Empire North,Adelanto,Industrial,4379348,0.059,0,0,0,,0
+Inland Empire North,Apple Valley,Industrial,3266548,0.415,-12500,0,0,,0
+Inland Empire North,Barstow,Industrial,571828,0,0,0,0,,0
+Inland Empire North,Hesperia,Industrial,5367270,0.225,0,0,0,,0
+Inland Empire North,Victorville,Industrial,10017115,0.053,-2706,1296000,0.86,,33393
+Inland Empire North,,Industrial,23602109,0.142,-15206,1296000,0.86,,33393
+INLAND EMPIRE + IEN,,Industrial,688550949,0.069,3558012,10780175,1.11,,11767463

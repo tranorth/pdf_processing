@@ -1,0 +1,35 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East SFV,Arleta/Tujunga,Industrial,12225641,0.038,-57850,0,1.55,0,164704
+East SFV,Burbank,Industrial,14328681,0.03,-80463,0,1.66,0,48936
+East SFV,Glendale,Industrial,17492677,0.011,266,0,1.03,0,90860
+East SFV,North Hollywood,Industrial,13982331,0.022,-26019,0,1.52,0,113333
+East SFV,Pacoima,Industrial,5149558,0.002,-5000,0,1.34,0,55514
+East SFV,Pasadena,Industrial,3606135,0.036,-24020,0,1.41,0,59770
+East SFV,San Fernando,Industrial,5276373,0.026,-16854,0,1.21,0,17350
+East SFV,Sun Valley/Sunland,Industrial,228467,0.0,,0,,0,0
+East SFV,Sylmar,Industrial,7425718,0.028,0,583529,1.38,0,64721
+East SFV,,Industrial,79715581,0.023,-209940,583529,1.47,0,615188
+West SFV,Agoura Hills,Industrial,711349,0.008,0,0,1.51,0,0
+West SFV,Calabasas,Industrial,1403867,0.059,-10346,0,1.69,0,0
+West SFV,Canoga Park,Industrial,5343963,0.028,32678,0,1.31,0,79813
+West SFV,Chatsworth,Industrial,22190114,0.028,-97255,79539,1.26,0,193593
+West SFV,Granada Hills,Industrial,43598,0.0,0,0,,,0
+West SFV,Mission Hills,Industrial,126781,0.0,0,0,,,0
+West SFV,Northridge,Industrial,3497668,0.034,-31182,0,1.28,0,0
+West SFV,Panorama City,Industrial,2452002,0.003,0,0,1.03,0,0
+West SFV,Reseda,Industrial,439927,0.0,0,0,,,0
+West SFV,Sepulveda,Industrial,944878,0.015,18356,0,1.85,0,32356
+West SFV,Sherman Oaks,Industrial,38817,0.0,0,0,,,0
+West SFV,Tarzana,Industrial,465121,0.039,-12120,0,1.45,0,0
+West SFV,Van Nuys,Industrial,18893442,0.013,-80115,91950,1.37,0,49441
+West SFV,Woodland Hills,Industrial,2314791,0.028,-29130,0,1.82,0,0
+West SFV,,Industrial,58866318,0.023,-209114,171489,1.38,0,355203
+Santa Clarita Valley,Canyon Country,Industrial,576309,0.0,0,0,,,0
+Santa Clarita Valley,Castaic,Industrial,96253,0.0,0,0,,,0
+Santa Clarita Valley,Santa Clarita,Industrial,4131547,0.078,-57659,604407,1.06,0,203049
+Santa Clarita Valley,Valencia,Industrial,20502496,0.013,18807,126607,1.46,0,426603
+Santa Clarita Valley,,Industrial,25306605,0.023,-38852,731014,1.41,0,629652
+Antelope Valley,Lancaster,Industrial,4071002,0.014,0,921538,1.04,0,274211
+Antelope Valley,Palmdale,Industrial,3595962,0.054,-33483,1000000,1.00,99853,0
+Antelope Valley,,Industrial,7666964,0.033,-33483,1921538,1.00,99853,274211
+Greater San Fernando Valley,,Industrial,171555468,0.024,-491389,3407570,1.41,99853,1874254

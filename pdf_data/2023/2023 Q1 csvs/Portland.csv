@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Portland,Northeast,Industrial,49600044,0.027,175105,489700,0.82,,
+Portland,Northwest,Industrial,39227791,0.03,-233271,293480,0.82,,
+Portland,Southeast,Industrial,30483017,0.013,269063,,0.82,,
+Portland,Southwest,Industrial,39120390,0.023,-51586,583386,0.85,131579,
+Portland,Sunset Corridor,Industrial,32670723,0.015,16421,,,
+Portland,Clark County,Industrial,26340361,0.026,-324908,1133014,0.82,,
+Portland,Total,Industrial,217442326,0.023,-149176,2499580,,131579,

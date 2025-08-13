@@ -40,7 +40,7 @@ def process_pdf_with_agent(pdf_path: str, agent_executor):
         return None
 
 if __name__ == "__main__":
-    report_dir = "data"
+    report_dir = r"pdf_processing/2025 Q2"
     if not os.path.isdir(report_dir):
         print(f"Directory not found: {report_dir}. Please create it and add your PDF files.")
     else:

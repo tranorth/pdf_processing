@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Concord,,Industrial,8163381,0.031,14332,61630,1.95,,121277
+Martinez/Pacheco,,Industrial,2459977,0.007,3878,,1.75,,23191
+Pleasant Hill,,Industrial,391324,0.016,3710,,1.75,,6460
+Walnut Creek,,Industrial,946184,0.000,0,,1.50,,0
+Antioch/Oakley,,Industrial,2963480,0.061,-136575,,1.31,,8000
+Pittsburg,,Industrial,4398012,0.135,-16360,,1.15,,0
+Brentwood,,Industrial,3064711,0.005,14189,,1.15,,14189
+NE Contra Costa Total,,Warehouse,15024094,0.029,-7067,,1.23,,107163
+NE Contra Costa Total,,Manufacturing,3230422,0.161,-96773,,1.18,,64565
+NE Contra Costa Total,,R&D Flex,4132553,0.026,-12986,,1.92,,1389
+NE Contra Costa Market Total,,Industrial,22387069,0.048,-116826,61630,1.18,0,173117

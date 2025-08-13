@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central County,,Industrial,15558818,0.011,-4643,0,7.37,0,
+Downtown,,Industrial,44960419,0.039,22128,0,5.41,0,
+Earth City,,Industrial,19020563,0.088,-221625,0,5.64,0,
+Fenton,,Industrial,8361017,0.028,-1194,0,7.49,0,
+Maryland Heights,,Industrial,3944144,0.265,29577,544672,6.48,357056,
+Metro East,,Industrial,36631768,0.062,185695,1123447,4.40,0,
+North County,,Industrial,33671623,0.065,-30105,1468779,5.67,0,
+Saint Charles County,,Industrial,27210863,0.053,61525,48400,5.86,0,
+South County,,Industrial,5883770,0.013,-747,0,7.84,0,
+West County,,Industrial,5557058,0.009,4725,50000,13.07,0,
+Westport,,Industrial,10434171,0.035,-113835,43000,7.55,0,
+Total,,Industrial,211234214,0.053,-68499,3278298,5.67,357056,

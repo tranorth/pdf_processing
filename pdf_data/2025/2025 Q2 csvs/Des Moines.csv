@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Ankeny,,Industrial,9160260,0.022,9050,0,6.26,0,
+CBD,,Industrial,878700,0.024,-2500,0,6.67,0,
+Northeast,,Industrial,26303573,0.072,699640,0,6.20,342000,
+Northwest,,Industrial,5659624,0.029,0,0,6.65,0,
+South,,Industrial,5773657,0.057,358677,0,6.98,55000,
+Western Suburbs,,Industrial,19670353,0.113,1209,0,7.31,0,
+Total,,Industrial,67446167,0.072,1066076,0,6.85,397000,

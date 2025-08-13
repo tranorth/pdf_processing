@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Downtown,,Overall,1029331,0.026,0,0,,,
+Beaches,,Overall,188007,0.007,0,0,14.00,,
+Northside,,Overall,44584939,0.031,262375,2519637,8.33,,
+Southside,,Overall,22376863,0.049,38869,235920,8.84,,
+Westside,,Overall,51670122,0.048,895272,1800820,7.19,,
+Clay County,,Overall,2919873,0.05,-18000,0,13.85,,
+St. Johns County,,Overall,2190295,0.134,164700,1064374,9.66,,
+Jacksonville Total,,Manufacturing,19002251,0.008,296500,0,4.87,,
+Jacksonville Total,,Warehouse/Distribution,96919403,0.047,1054883,5543831,7.53,,
+Jacksonville Total,,R&D/Flex,9037766,0.075,-8167,76920,11.05,,
+Jacksonville Total,,Overall,124959420,0.043,1343216,5620751,7.94,,

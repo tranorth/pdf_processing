@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Hartford East,,Industrial,20934368,0.072,-65047,0,5.97,0,
+Hartford North,,Industrial,33278082,0.063,302458,250240,8.29,0,
+Hartford South,,Industrial,11797361,0.056,-41076,0,7.62,0,
+Hartford West,,Industrial,10297545,0.048,-3216,0,7.17,0,
+Periphery Downtown,,Industrial,4448145,0.024,23980,0,13.95,0,
+Total,,Industrial,80755501,0.06,217099,250240,7.75,0,

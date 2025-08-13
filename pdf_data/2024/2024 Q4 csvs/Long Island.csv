@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Western Nassau,,"Industrial",15400000,0.047,-9200,129500,24.19,,42600
+Eastern Nassau,,"Industrial",20400000,0.050,13800,0,21.04,,471000
+Western Suffolk,,"Industrial",20900000,0.044,76800,0,16.29,,126900
+Central Suffolk,,"Industrial",39900000,0.091,-401400,297500,17.80,,140000
+Eastern Suffolk,,"Industrial",9900000,0.118,73700,0,17.30,,32100
+Total,,"Industrial",106500000,0.070,-246300,427000,18.67,,388700

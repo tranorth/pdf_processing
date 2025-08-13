@@ -1,0 +1,9 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Chambersburg,,Industrial,36709004,0.094,0,409500,6.79,0,
+Harrisburg/York,,Industrial,164700653,0.059,917188,1285902,8.16,995347,
+Lehigh Valley,,Industrial,118521017,0.090,-179439,939095,11.52,174444,
+Reading,,Industrial,59714671,0.094,-34804,1591000,8.86,0,
+Hazleton/Schuylkill,,Industrial,38135582,0.154,-1282000,1348000,7.66,0,
+Scranton,,Industrial,70918886,0.102,518345,418683,7.09,699847,
+Lancaster,,Industrial,55684789,0.038,-202289,690248,8.74,0,
+Total,,Industrial,544384602,0.082,-262999,6682428,9.04,1869638,

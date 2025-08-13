@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Allied Drive/1-65,,Industrial,18924439,0.018,-15000,0,11.27,,
+CBD/Polk Avenue,,Industrial,12805608,0.009,0,0,9.81,,
+Elm Hill Pike/1-40,,Industrial,34201470,0.031,622325,297000,11.35,,
+1-840,,Industrial,23823703,0.048,0,3770487,7.84,,
+Interchange City,,Industrial,74899600,0.028,280608,145639,9.79,,
+MetroCenter/Cockrill Bend,,Industrial,13450892,0.016,0,348320,13.83,,
+Northeast/1-65N Corridor,,Industrial,43402769,0.039,-1841,654216,8.69,,
+,Nashville Total,Warehouse/Distribution,139998088,0.042,832572,4799246,8.55,,
+,Nashville Total,Manufacturing,66456129,0.002,89250,416416,9.51,,
+,Nashville Total,R&D/Flex,11364644,0.04,-10875,0,13.82,,
+Market Total,,Industrial,221508481,0.03,886092,5215662,9.81,,

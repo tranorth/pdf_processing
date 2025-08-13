@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+East Port St. Lucie,,,1020358,0.0168,-1235,0,17.72,0,
+Fort Pierce,,,5909803,0.0403,0,0,10.27,0,
+I-95/Glades Cut Off,,,6098428,0.1756,-5322,0,10.53,0,
+Kings Road Corridor,,,3734221,0.5678,1044723,0,9.04,0,
+Martin County,,,7738829,0.1654,11640,205888,9.72,205888,
+Total Port St. Lucie,,,24501639,0.1929,1049806,205888,9.60,205888,

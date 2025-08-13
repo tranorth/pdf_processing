@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Detroit,,,88726033,5.1,-168459,,5.91,,
+Downriver,,,72467800,2.4,3297,899901,6.94,,
+1-75 Corridor,,,85728695,2.4,78124,177174,8.62,,
+Macomb,,,108548620,1.7,-322590,70855,7.08,,
+Northwest Suburbs,,,57690201,2.8,-339597,61111,9.50,,
+Southeast Oakland,,,16809292,3.7,0,,7.32,,
+Washtenaw,,,24345135,1.2,48041,,7.40,,
+Western Wayne,,,90584865,1.6,18087,,8.22,,
+Grand Total,,,544900641,2.6,-683097,1209041,7.36,,

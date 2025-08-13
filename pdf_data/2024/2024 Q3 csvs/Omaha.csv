@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Council Bluffs,,,6592828,2.9,1600,16800,14.08,0,
+Northeast,,,10672383,4.5,0,,6.97,0,
+Northwest,,,6641116,0.9,-33560,,8.41,21600,
+Sarpy East,,,1886744,0.0,0,,6.75,0,
+Sarpy West,,,22976032,5.8,172103,301990,7.41,361973,
+South Central,,,20362477,0.8,104423,105000,9.65,0,
+Southeast,,,8130730,0.4,126847,,6.98,0,
+Southwest,,,8777039,1.0,-4415,,6.82,0,
+TOTAL OMAHA,,,86039349,2.7,366998,423790,7.40,383573,

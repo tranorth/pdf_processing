@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+NORTHWEST,Airport,Industrial,23454519,0.105,,3400440,0.75,1987909,
+NORTHWEST,California Ave,Industrial,56863998,0.066,529357,1222180,0.82,2359802,
+NORTHWEST,West Valley,Industrial,22841914,0.031,305019,19600,0.72,231536,
+NORTHEAST,Downtown,Industrial,15160006,0.018,-183353,,0.74,,
+NORTHEAST,Murray,Industrial,3885648,0.003,5913,,0.73,,
+NORTHEAST,South Salt Lake,Industrial,17569473,0.013,-177739,,0.87,,
+SOUTH VALLEY,Bluffdale,Industrial,2596660,0.072,212862,232239,1.07,317190,
+SOUTH VALLEY,Draper,Industrial,4797767,0.022,153785,,1.22,159600,
+SOUTH VALLEY,Sandy,Industrial,5767033,0.024,-28256,,1.01,98619,
+SOUTH VALLEY,West Jordan,Industrial,12203606,0.108,-20013,1092084,0.78,1022624,
+Market Total,,Industrial,165140624,0.056,823916,5966543,0.81,6177280,

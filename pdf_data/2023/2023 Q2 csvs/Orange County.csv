@@ -1,0 +1,38 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+North Orange County,Anaheim,Manufacturing/Warehouse,44986479,0.013,149267,314200,,,192398
+North Orange County,Brea,Manufacturing/Warehouse,10716520,0.012,0,124678,,,0
+North Orange County,Buena Park,Manufacturing/Warehouse,13110952,0.000,30609,0,,,30609
+North Orange County,Fullerton,Manufacturing/Warehouse,18975148,0.009,1499,107000,,,22950
+North Orange County,La Habra,Manufacturing/Warehouse,2264458,0.000,0,0,,,23220
+North Orange County,Orange,Manufacturing/Warehouse,11947044,0.007,-13146,0,,,27622
+North Orange County,Placentia,Manufacturing/Warehouse,3694720,0.000,40000,0,,,40000
+North Orange County,Yorba Linda,Manufacturing/Warehouse,830133,0.000,0,0,,,0
+North Orange County,,Manufacturing/Warehouse,106525454,0.008,208229,545878,,,336799
+West Orange County,Cypress,Manufacturing/Warehouse,4105599,0.005,0,0,,,213420
+West Orange County,Garden Grove,Manufacturing/Warehouse,10979481,0.011,165171,149335,,,212771
+West Orange County,Huntington Beach,Manufacturing/Warehouse,13973675,0.009,-52250,557106,,,153969
+West Orange County,La Palma,Manufacturing/Warehouse,2221326,0.001,0,0,,,0
+West Orange County,Los Alamitos,Manufacturing/Warehouse,1802440,0.000,0,0,,,0
+West Orange County,Seal Beach,Manufacturing/Warehouse,972051,0.000,0,0,,,0
+West Orange County,Stanton,Manufacturing/Warehouse,1072081,0.018,0,0,,,0
+West Orange County,Westminster,Manufacturing/Warehouse,1864466,0.000,0,0,,,0
+West Orange County,,Manufacturing/Warehouse,36991119,0.008,112921,706441,,,580160
+Greater Airport Area,Costa Mesa,Manufacturing/Warehouse,6002621,0.004,0,0,,,14670
+Greater Airport Area,Fountain Valley,Manufacturing/Warehouse,3547457,0.011,0,0,,,62328
+Greater Airport Area,Irvine,Manufacturing/Warehouse,13153283,0.002,-15000,396445,,,41454
+Greater Airport Area,Newport Beach,Manufacturing/Warehouse,238252,0.000,0,0,,,217589
+Greater Airport Area,Santa Ana,Manufacturing/Warehouse,24234720,0.022,-340548,0,,,60080
+Greater Airport Area,Tustin,Manufacturing/Warehouse,5727967,0.000,0,311770,,,0
+Greater Airport Area,,Manufacturing/Warehouse,52904300,0.012,-355548,708215,,,396121
+South Orange County,Aliso Viejo,Manufacturing/Warehouse,680455,0.000,0,0,,,0
+South Orange County,Foothill Ranch,Manufacturing/Warehouse,3011999,0.000,0,0,,,0
+South Orange County,Irvine Spectrum,Manufacturing/Warehouse,7747260,0.003,-23022,193833,,,96178
+South Orange County,Laguna Hills,Manufacturing/Warehouse,1037200,0.000,0,0,,,0
+South Orange County,Laguna Niguel,Manufacturing/Warehouse,417122,0.000,0,0,,,0
+South Orange County,Lake Forest,Manufacturing/Warehouse,3648226,0.000,0,0,,,67107
+South Orange County,Mission Viejo,Manufacturing/Warehouse,329338,0.000,0,0,,,0
+South Orange County,San Clemente,Manufacturing/Warehouse,1509228,0.000,0,0,,,0
+South Orange County,San Juan Capistrano,Manufacturing/Warehouse,640535,0.000,0,136308,,,0
+South Orange County,Santa Margarita,Manufacturing/Warehouse,1376787,0.000,0,0,,,15070
+South Orange County,,Manufacturing/Warehouse,20398150,0.001,-23022,330141,,,178355
+GRAND TOTALS,,Manufacturing/Warehouse,216819023,0.008,-57420,2290675,,,1491435

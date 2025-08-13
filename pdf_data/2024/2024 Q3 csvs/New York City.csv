@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Bronx,,,25168639,5.8,70996,,30.60,,95789
+Brooklyn,,,67062276,5.8,17963,,24.75,,289913
+Queens,,,63711791,5.8,629270,,27.93,,174543
+Staten Island,,,6161446,5.8,2488,,26.88,,7288
+JFK,,,5551621,5.8,-139488,,29.39,,5500
+NYC Total,,,162104152,5.8,720717,3700000,28.96,730000,567533

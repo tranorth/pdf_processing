@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+McAllen,,Overall Industrial,,0.013,36941,20000,5.62,,
+Pharr,,Overall Industrial,,0.013,110000,42000,8.32,160000,
+Edinburg,,Overall Industrial,,0.018,,,,,
+Hidalgo,,Overall Industrial,,0.030,30000,,6.60,,
+Mission,,Overall Industrial,,,84700,100000,,,
+Off Park,,Overall Industrial,,0.042,30000,253000,5.65,,
+McAllen Total,,Overall Industrial,,0.015,95361,415000,6.14,160000,
+McAllen Total,,Class A,,0.014,88000,415000,7.35,160000,
+McAllen Total,,Class B,,0.014,7361,,5.31,,

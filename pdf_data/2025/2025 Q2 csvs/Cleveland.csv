@@ -1,0 +1,12 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Downtown,,Industrial,38408522,0.033,43772,0,4.7,0,
+East,,Industrial,5840223,0.011,8275,0,8.17,0,
+Geauga West,,Industrial,1456727,0.004,0,0,6,0,
+Lake County West,,Industrial,20500356,0.019,104293,0,5.33,0,
+Northeast,,Industrial,24846472,0.02,-36239,0,3.87,0,
+Northwest,,Industrial,29031588,0.02,16000,0,4.98,0,
+Out of Submarket,,Industrial,1917092,0.606,0,930000,5.76,0,
+South,,Industrial,31219594,0.036,-80796,0,6.42,0,
+Southeast,,Industrial,52521765,0.044,-172510,0,5.84,0,
+Southwest,,Industrial,41444514,0.018,-20810,60000,6.18,0,
+Market Total,,Industrial,247186853,0.033,-138015,990000,5.31,0,

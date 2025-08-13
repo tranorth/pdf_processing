@@ -1,0 +1,6 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+North Orange County,,Industrial,114854301,0.009,7150,678753,1.78,,
+West Orange County,,Industrial,42334816,0.017,182378,149335,1.79,0,
+Greater Airport Area,,Industrial,66922909,0.018,-87820,340595,1.86,448382,
+South Orange County,,Industrial,33927120,0.008,7159,230503,1.79,0,
+Orange County Total,,Total,258039146,0.012,108867,1399186,1.81,446948,

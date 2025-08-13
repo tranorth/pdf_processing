@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northeast Valley,,,13849982,0.03,11569,0,1.43,160019,
+Southeast Valley,,,88165569,0.05,219679,16728482,1.22,637635,
+Airport Area,,,76802189,0.031,-139656,276063,1.20,0,
+Southwest Valley,,,154582550,0.029,1451109,32323930,0.81,771386,
+Northwest Valley,,,51723071,0.027,-10602,3104412,1.20,111676,
+Phoenix Total,,,385123361,0.034,1489547,52432887,1.11,1680716,

@@ -1,0 +1,13 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Richmond,,"Industrial",13670422,0.068,-8170,,1.40,,
+Berkeley,,"Industrial",4712858,0.026,8150,,1.50,,
+Emeryville,,"Industrial",2270994,0.074,0,,1.75,,
+Oakland,,"Industrial",33037491,0.075,-63944,,1.00,,
+Alameda,,"Industrial",3911303,0.060,0,,1.30,,
+San Leandro,,"Industrial",19817184,0.057,-98248,,1.40,,
+San Lorenzo,,"Industrial",1184671,0.112,-121686,,1.10,,
+Hayward,,"Industrial",35567810,0.046,406870,,1.40,,
+Union City,,"Industrial",12572242,0.044,42956,,1.40,,
+Oakland Ind. Market,,"Manufacturing",33421895,0.038,220795,,1.33,,
+Oakland Ind. Market,,"Warehouse",93323080,0.065,-54867,,1.36,,
+Oakland Ind. Market,,"Industrial",126744975,0.058,165928,753500,1.36,,

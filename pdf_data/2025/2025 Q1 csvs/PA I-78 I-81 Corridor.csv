@@ -1,0 +1,5 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central PA,,Industrial,276021054,0.065,-1287706,1064248,7.96,670147,
+Lehigh Valley PA,,Industrial,158558680,0.088,-825992,814100,11.06,174444,
+Northeast PA,,Industrial,108512621,0.11,136162,699847,7.38,2529442,
+Market Total,,Industrial,543092355,0.081,-1977536,2578195,8.91,3374033,

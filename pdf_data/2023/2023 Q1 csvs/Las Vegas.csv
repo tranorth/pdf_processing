@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Airport,,Industrial,14906671,0.031,-12934,,1.19,,
+Central,,Industrial,8947106,0.014,-16452,,,,
+Henderson,,Industrial,20947664,0.007,-8814,2226114,1.07,,
+North Las Vegas,,Industrial,65507717,0.011,1610242,12443677,0.96,1668037,
+Southwest,,Industrial,45518000,0.016,274593,2082649,1.16,356540,
+Las Vegas Total,,Industrial,155827158,0.014,1846635,16752440,1.03,2024577,

@@ -1,0 +1,821 @@
+﻿FID,Submarket,Market
+0,Albany,Albany
+1,Columbia,Albany
+2,Fulton,Albany
+3,Greene,Albany
+4,Montgomery,Albany
+5,Rensselaer,Albany
+6,Saratoga,Albany
+7,Schenectady,Albany
+8,Schoharie,Albany
+9,Warren,Albany
+10,Airport,Albuquerque
+11,Downtown,Albuquerque
+12,Mesa del Sol,Albuquerque
+13,North I-25,Albuquerque
+14,North Valley,Albuquerque
+15,NE Heights,Albuquerque
+16,Rio Rancho,Albuquerque
+17,SE Heights,Albuquerque
+18,South I-25,Albuquerque
+19,Valencia County,Albuquerque
+20,West Mesa,Albuquerque
+21,Airport/South Atlanta,Atlanta
+22,Central Atlanta,Atlanta
+23,Chattahoochee,Atlanta
+24,I-20 West,Atlanta
+25,Morgan County County,Atlanta
+26,North Central San Antonio/GA 400 Corrido,Atlanta
+27,Northeast/I-85,Atlanta
+28,Northwest/I-75,Atlanta
+29,Snapfinger,Atlanta
+30,Stone Mountain,Atlanta
+31,Central,Austin
+32,Far North,Austin
+33,North,Austin
+34,Northeast,Austin
+35,Northwest,Austin
+36,South,Austin
+37,Southwest,Austin
+38,Annapolis,Baltimore
+39,Baltimore City,Baltimore
+40,Baltimore County East,Baltimore
+41,Baltimore Southwest,Baltimore
+42,Balt/ Washington Corridor,Baltimore
+43,Harford/Cecil County,Baltimore
+44,Hunt Valley/Towson,Baltimore
+45,Outer North West Baltimore,Baltimore
+46,Owings Mills/Reisterstown Rd,Baltimore
+47,Queen Anne County,Baltimore
+48,Southern Anne Arundel County,Baltimore
+49,Central,Birmingham
+50,East,Birmingham
+51,Northwest,Birmingham
+52,Oxmoor,Birmingham
+53,South,Birmingham
+54,Southwest,Birmingham
+55,St Clair County,Birmingham
+56,Boston,Boston
+57,Cambridge,Boston
+58,Close-In Suburbs North,Boston
+59,Framingham - Natick,Boston
+60,Route 128-North,Boston
+61,Route 128-South,Boston
+62,Route 128-West,Boston
+63,Route 3 - North,Boston
+64,Route 495-South,Boston
+65,Route 495 Mass Pike West,Boston
+66,Route 495 Route 2 West,Boston
+67,C,Buffalo
+68,E,Buffalo
+69,N,Buffalo
+70,S,Buffalo
+71,Charleston,Charleston
+72,East Cooper,Charleston
+73,Hanahan,Charleston
+74,Hwy 52 North,Charleston
+75,I-26 North,Charleston
+76,North Charleston/Ladson,Charleston
+77,West Ashley,Charleston
+78,Central,Charlotte
+79,East,Charlotte
+80,North,Charlotte
+81,Northeast,Charlotte
+82,Northwest,Charlotte
+83,Southeast,Charlotte
+84,Southwest,Charlotte
+85,West,Charlotte
+86,Central Kane & DuPage County,Chicago
+87,City North,Chicago
+88,City South,Chicago
+89,Far Southwest Suburbs,Chicago
+90,Far West Suburbs,Chicago
+91,Northwest Indiana,Chicago
+92,Joliet Area,Chicago
+93,Lake County,Chicago
+94,McHenry County,Chicago
+95,Near West Suburbs,Chicago
+96,North DuPage County,Chicago
+97,North Kane County,Chicago
+98,Northeast Cook County,Chicago
+99,Northwest Cook County,Chicago
+100,O'Hare,Chicago
+101,South Suburbs,Chicago
+102,Southwest Suburbs,Chicago
+103,West Suburbs,Chicago
+104,Central,Cincinnati
+105,Northeast,Cincinnati
+106,Northern Kentucky,Cincinnati
+107,Northwest,Cincinnati
+108,Downtown,Cleveland
+109,East,Cleveland
+110,Geauga West,Cleveland
+111,Lake County West,Cleveland
+112,Northeast,Cleveland
+113,South,Cleveland
+114,Southeast,Cleveland
+115,Southwest,Cleveland
+116,Northwest,Cleveland
+117,CBD,Colorado Springs
+118,Central,Colorado Springs
+119,East,Colorado Springs
+120,Falcon,Colorado Springs
+121,Fountain/Security/Widefield,Colorado Springs
+122,Greater Downtown,Colorado Springs
+123,Northeast,Colorado Springs
+124,Northwest,Colorado Springs
+125,Southeast,Colorado Springs
+126,Southwest,Colorado Springs
+127,Tri-Lakes,Colorado Springs
+128,West Side/Manitou,Colorado Springs
+129,Calhoun,Columbia
+130,Cayce-West Columbia,Columbia
+131,Dutch Fork,Columbia
+132,Fairfield,Columbia
+133,Kershaw,Columbia
+134,Lexington,Columbia
+135,Newberry,Columbia
+136,North Columbia,Columbia
+137,Northeast Columbia,Columbia
+138,Saluda,Columbia
+139,Southeast Columbia,Columbia
+140,Central,Columbus
+141,East,Columbus
+142,Northeast,Columbus
+143,Northwest,Columbus
+144,Southeast,Columbus
+145,Southwest,Columbus
+146,West,Columbus
+147,Delaware County,Columbus - Outlying
+148,Fairfield County,Columbus - Outlying
+149,Licking County,Columbus - Outlying
+150,Madison County,Columbus - Outlying
+151,Pickaway County,Columbus - Outlying
+152,Union County,Columbus - Outlying
+153,Antioch/Oakley,North East Contra Costa County
+154,Brentwood,North East Contra Costa County
+155,Concord,North East Contra Costa County
+156,Martinez/Pacheco,North East Contra Costa County
+157,Pittsburg,North East Contra Costa County
+158,Pleasant Hill,North East Contra Costa County
+159,Walnut Creek,North East Contra Costa County
+160,DFW Airport,Dallas - Fort Worth
+161,East Dallas,Dallas - Fort Worth
+162,Great Southwest/Arlington,Dallas - Fort Worth
+163,North Fort Worth,Dallas - Fort Worth
+164,Northeast Dallas,Dallas - Fort Worth
+165,Northwest Dallas,Dallas - Fort Worth
+166,287 Corridor,Dallas - Fort Worth
+167,South Fort Worth,Dallas - Fort Worth
+168,South Stemmons,Dallas - Fort Worth
+169,Airport,Denver
+170,Boulder,Denver
+171,I-76 Corridor,Denver
+172,North,Denver
+173,North Central,Denver
+174,Northwest,Denver
+175,South Central,Denver
+176,Southeast,Denver
+177,Southwest,Denver
+178,West,Denver
+179,Detroit,Detroit
+180,Downriver,Detroit
+181,Macomb,Detroit
+182,I-75 Corridor,Detroit
+183,Northwest Suburbs,Detroit
+184,Southeast Oakland,Detroit
+185,Washtenaw,Detroit
+186,Western Wayne,Detroit
+187,Central,El Paso
+188,East,El Paso
+189,Fort Bliss,El Paso
+190,Lower Valley,El Paso
+191,Northeast,El Paso
+192,West,El Paso
+193,Eastern,Fairfield County
+194,Lower,Fairfield County
+195,Upper,Fairfield County
+196,Destin/Fort Walton Beach/Okaloosa,Panhandle
+197,Tallahassee,Panhandle
+198,Panama City,Panhandle
+199,Pensacola,Panhandle
+200,Central Broward,Broward
+201,Coral Springs,Broward
+202,Northeast Broward,Broward
+203,Pompano/Lauderdale,Broward
+204,Southeast Broward,Broward
+205,Sunrise,Broward
+206,Southwest Broward,Broward
+207,CUA,Grand Rapids
+208,Northeast,Grand Rapids
+209,Northwest,Grand Rapids
+210,Southeast,Grand Rapids
+211,Southwest,Grand Rapids
+212,Piedmont Triad Airport,Greensboro Winston-Salem
+213,High Point/SW Guilord,Greensboro Winston-Salem
+214,North Guilford,Greensboro Winston-Salem
+215,Southeast Guilford,Greensboro Winston-Salem
+216,South Greensboro,Greensboro Winston-Salem
+217,Anderson,Greenville-Spartanburg
+218,Central Greenville,Greenville-Spartanburg
+219,I-385 South,Greenville-Spartanburg
+220,I-85 East,Greenville-Spartanburg
+221,I-85 West,Greenville-Spartanburg
+222,Spartanburg East,Greenville-Spartanburg
+223,Spartanburg West,Greenville-Spartanburg
+224,Taylors-Greer,Greenville-Spartanburg
+225,Travelers Rest,Greenville-Spartanburg
+226,Periphery Downtown,Hartford
+227,Hartford East,Hartford
+228,Hartford North,Hartford
+229,Hartford South,Hartford
+230,Hartford West,Hartford
+231,Aiea,Hawaii
+232,Airport,Hawaii
+233,Bougainville,Hawaii
+234,Campbell,Hawaii
+235,Central Business District,Hawaii
+236,Ewa Beach,Hawaii
+237,Halawa,Hawaii
+238,Iwilei,Hawaii
+239,Kakaako,Hawaii
+240,Kalihi,Hawaii
+241,Kapolei,Hawaii
+242,Mapunapuna,Hawaii
+243,Pearl City,Hawaii
+244,Sand Island,Hawaii
+245,Wahiawa,Hawaii
+246,Waipahu,Hawaii
+247,Waipio,Hawaii
+248,Windward,Hawaii
+249,CBD,Houston
+250,North,Houston
+251,Northeast,Houston
+252,Northwest,Houston
+253,South,Houston
+254,Southeast,Houston
+255,Southwest,Houston
+256,Southwest,Indianapolis
+257,Northwest,Indianapolis
+258,North,Indianapolis
+259,Northeast,Indianapolis
+260,CBD,Indianapolis
+261,East,Indianapolis
+262,Southeast,Indianapolis
+263,Inland Empire East,Inland Empire
+264,Inland Empire North,Inland Empire
+265,Low Desert,Inland Empire
+266,Inland Empire West,Inland Empire
+267,Beaches,Jacksonville
+268,Clay County,Jacksonville
+269,Downtown,Jacksonville
+270,Northside,Jacksonville
+271,Southside,Jacksonville
+272,St. Johns County,Jacksonville
+273,Westside,Jacksonville
+274,Central,Juarez
+275,North,Juarez
+276,San Geronimo,Juarez
+277,South/Electrolux,Juarez
+278,Southeast,Juarez
+279,Southwest,Juarez
+280,West,Juarez
+281,Cass,Kansas City
+282,Clay,Kansas City
+283,Jackson,Kansas City
+284,Johnson,Kansas City
+285,Platte,Kansas City
+286,Wyandotte,Kansas City
+287,Central Business District,Lansing
+288,East,Lansing
+289,North,Lansing
+290,South,Lansing
+291,West,Lansing
+292,Airport,Las Vegas
+293,Central,Las Vegas
+294,Henderson,Las Vegas
+295,North Las Vegas,Las Vegas
+296,Southwest,Las Vegas
+297,Antelope Valley,Los Angeles
+298,Montebello,Central Los Angeles
+299,Downtown Los Angeles,Central Los Angeles
+300,Greater San Fernando Valley,Greater Los Angeles
+301,Mid-Counties,Greater Los Angeles
+302,San Gabriel Valley,Greater Los Angeles
+303,South Bay,Greater Los Angeles
+304,Huntington Park,Central Los Angeles
+305,Bluegrass,Louisville
+306,Bullitt County,Louisville
+307,Downtown,Louisville
+308,Northeast,Louisville
+309,Riverport,Louisville
+310,Southern Indiana,Louisville
+311,Southside/Airport,Louisville
+312,Central,Madison
+313,East,Madison
+314,Rock County,Madison
+315,South,Madison
+316,West,Madison
+317,Prince George's,Suburban Maryland
+318,Montgomery,Suburban Maryland
+319,Edinburg,McAllen
+320,Hidalgo,McAllen
+321,McAllen,McAllen
+322,Mission,McAllen
+323,Pharr,McAllen
+324,Desoto County,Memphis
+325,Northeast,Memphis
+326,Northwest,Memphis
+327,Southeast,Memphis
+328,Southwest,Memphis
+329,Airport/Doral,Miami
+330,Central Dade,Miami
+331,Hialeah,Miami
+332,Kendall/Tamiami,Miami
+333,Medley,Miami
+334,Miami Lakes,Miami
+335,North Central Dade,Miami
+336,Northeast Dade,Miami
+337,South Dade,Miami
+338,Southeast Wisconsin,Chicago
+339,Milwaukee Downtown,Milwaukee
+340,Milwaukee North Central,Milwaukee
+341,Milwaukee North Shore,Milwaukee
+342,Milwaukee Northwest,Milwaukee
+343,Milwaukee South,Milwaukee
+344,Milwaukee South Central,Milwaukee
+345,Milwaukee West,Milwaukee
+346,Ozaukee,Milwaukee
+347,Sheboygan,Milwaukee
+348,Walworth,Milwaukee
+349,Washington,Milwaukee
+350,Waukesha Northeast,Milwaukee
+351,Waukesha Northwest,Milwaukee
+352,Waukesha Southeast,Milwaukee
+353,Waukesha Southwest,Milwaukee
+354,East,Minneapolis
+355,Midway,Minneapolis
+356,Minneapolis,Minneapolis
+357,North Central,Minneapolis
+358,Northwest,Minneapolis
+359,South Central,Minneapolis
+360,Southwest,Minneapolis
+361,St Paul,Minneapolis
+362,Allied Drive/I-65,Nashville
+363,CBD/Polk Avenue,Nashville
+364,Elm Hill Pike/I-40,Nashville
+365,Interchange City,Nashville
+366,MetroCenter/Cockrill Bend,Nashville
+367,Northeast/I-65N Corridor,Nashville
+368,Branford,New Haven
+369,Cheshire,New Haven
+370,East Haven,New Haven
+371,Guilford,New Haven
+372,Hamden,New Haven
+373,Madison,New Haven
+374,Meriden,New Haven
+375,Milford,New Haven
+376,New Haven,New Haven
+377,North Branford,New Haven
+378,North Haven,New Haven
+379,Orange,New Haven
+380,Wallingford,New Haven
+381,West Haven,New Haven
+382,Woodbridge,New Haven
+383,Brunswicks/Exit 9,Northern and Central New Jersey
+384,Carteret/Avenel,Northern and Central New Jersey
+385,Central Bergen,Northern and Central New Jersey
+386,Central Union,Northern and Central New Jersey
+387,Exit 8A,Northern and Central New Jersey
+388,Fairfield Market,Northern and Central New Jersey
+389,Hudson Waterfront,Northern and Central New Jersey
+390,Hunterdon/Warren,Northern and Central New Jersey
+391,Linden/Elizabeth,Northern and Central New Jersey
+392,Meadowlands,Northern and Central New Jersey
+393,Monmouth,Northern and Central New Jersey
+394,Newark,Northern and Central New Jersey
+395,North East Bergen,Northern and Central New Jersey
+396,North West Bergen,Northern and Central New Jersey
+397,Princeton,Northern and Central New Jersey
+398,Route 23 North,Northern and Central New Jersey
+399,Route 280 Corridor,Northern and Central New Jersey
+400,Route 287/Exit 10,Northern and Central New Jersey
+401,Route 46/23/2 Interchange,Northern and Central New Jersey
+402,Route 78 East,Northern and Central New Jersey
+403,Somerset,Northern and Central New Jersey
+404,Suburban Essex,Northern and Central New Jersey
+405,Trenton/295,Northern and Central New Jersey
+406,Greeley/Evans,Northern Colorado
+407,Loveland/Berthoud,Northern Colorado
+408,I-25 North,Northern Colorado
+409,Fort Collins,Northern Colorado
+410,Alameda,Oakland
+411,Berkeley,Oakland
+412,Emeryville,Oakland
+413,Hayward,Oakland
+414,Oakland,Oakland
+415,Richmond,Oakland
+416,San Leandro,Oakland
+417,San Lorenzo,Oakland
+418,Union City,Oakland
+419,Central,Oklahoma City
+420,Northeast,Oklahoma City
+421,Northwest,Oklahoma City
+422,Southeast,Oklahoma City
+423,Southwest,Oklahoma City
+424,Council Bluffs,Omaha
+425,Northeast,Omaha
+426,Northwest,Omaha
+427,Sarpy East,Omaha
+428,Sarpy West,Omaha
+429,South Central,Omaha
+430,Southeast,Omaha
+431,Southwest,Omaha
+432,North Orange County,Orange County
+433,South Orange County,Orange County
+434,West County,Orange County
+435,Northeast Orange Co,Orlando
+436,Northwest Orange Co,Orlando
+437,Osceola,Orlando
+438,Seminole Co,Orlando
+439,Southeast Orange Co,Orlando
+440,Southwest Orange Co,Orlando
+441,Chambersburg,PA I-78/I-81 Corridor
+442,Reading,PA I-78/I-81 Corridor
+443,Hazleton/Schuylkill,PA I-78/I-81 Corridor
+444,Lancaster,PA I-78/I-81 Corridor
+445,Lehigh Valley,PA I-78/I-81 Corridor
+446,Boca Raton,Palm Beach County
+447,Boynton Beach,Palm Beach County
+448,Delray Beach,Palm Beach County
+449,Jupiter,Palm Beach County
+450,Lake Worth,Palm Beach County
+451,West Palm Beach,Palm Beach County
+452,Southeast Valley,Phoenix
+453,Southwest Valley,Phoenix
+454,Northeast Valley,Phoenix
+455,Northwest Valley,Phoenix
+456,Airport Area,Phoenix
+457,Beaver County,Pittsburgh
+458,Butler County,Pittsburgh
+459,Cranberry,Pittsburgh
+460,East,Pittsburgh
+461,Northeast,Pittsburgh
+462,Northwest,Pittsburgh
+463,Pittsburgh,Pittsburgh
+464,South,Pittsburgh
+465,Washington County,Pittsburgh
+466,West,Pittsburgh
+467,Westmoreland County,Pittsburgh
+468,Polk East,Polk County
+469,Polk West,Polk County
+470,Clark County,Portland
+471,Northeast,Portland
+472,Northwest,Portland
+473,Southeast,Portland
+474,Sunset Corridor,Portland
+475,Aquidneck Island,Providence
+476,Capital Center,Providence
+477,East Bay,Providence
+478,Empire,Providence
+479,Financial,Providence
+480,Jewelry,Providence
+481,Northern RI,Providence
+482,Promenade,Providence
+483,Providence,Providence
+484,Randall Square,Providence
+485,South Main Street,Providence
+486,West Bay,Providence
+487,Westminster,Providence
+488,Cameron Village,Raleigh Durham
+489,Cary,Raleigh Durham
+490,Downtown Durham,Raleigh Durham
+491,Downtown Raleigh,Raleigh Durham
+492,Eastern Wake,Raleigh Durham
+493,Six Forks/Falls of Neuse Road,Raleigh Durham
+494,North Durham,Raleigh Durham
+495,Orange County,Raleigh Durham
+496,RTP/I-40 Corridor,Raleigh Durham
+497,South Durham,Raleigh Durham
+498,Southern Wake County,"Raleigh Durham
+"
+499,U.S. 1/Capital Boulevard,Raleigh Durham
+500,U.S. 70/Glenwood Avenue,Raleigh Durham
+501,West Raleigh,Raleigh Durham
+502,Central/Airport,Reno
+503,East Valley,Reno
+504,North Valleys,Reno
+505,South Reno,Reno
+506,Sparks,Reno
+507,West Reno,Reno
+508,Northeast,Richmond
+509,Northwest,Richmond
+510,Southeast,Richmond
+511,Southwest,Richmond
+512,Auburn/Newcastle,Sacramento
+513,Davis,Sacramento
+514,Downtown/Midtown,Sacramento
+515,East Sacramento,Sacramento
+516,El Dorado Hills,Sacramento
+517,Elk Grove/Laguna/Galt,Sacramento
+518,Folsom,Sacramento
+519,I-80/Roseville Rd,Sacramento
+520,Lincoln,Sacramento
+521,McClellan Park,Sacramento
+522,Northeast Sacramento,Sacramento
+523,Northgate/Natomas,Sacramento
+524,Power Inn,Sacramento
+525,Rancho Cordova/Hwy 50,Sacramento
+526,Richards,Sacramento
+527,Roseville/Rocklin,Sacramento
+528,South Sacramento,Sacramento
+529,West Sacramento,Sacramento
+530,Woodland,Sacramento
+531,Airport,Salt Lake City
+532,Bluffdale,Salt Lake City
+533,California Avenue,Salt Lake City
+534,Downtown,Salt Lake City
+535,Draper,Salt Lake City
+536,Murray,Salt Lake City
+537,Sandy,Salt Lake City
+538,South Salt Lake,Salt Lake City
+539,West Jordan,Salt Lake City
+540,West Valley,Salt Lake City
+541,CBD,San Antonio
+542,North Central,San Antonio
+543,Northeast,San Antonio
+544,Northwest,San Antonio
+545,South,San Antonio
+546,North County,San Diego
+547,South San Diego,San Diego
+548,East County,San Diego
+549,SouthWest Riverside County,San Diego
+550,Central San Diego,San Diego
+551,Brisbane,San Francisco Peninsula
+552,Burlingame,San Francisco Peninsula
+553,Daly City,San Francisco Peninsula
+554,Foster City,San Francisco Peninsula
+555,Menlo Park,San Francisco Peninsula
+556,Millbrae,San Francisco Peninsula
+557,Palo Alto/East PA,San Francisco Peninsula
+558,Redwood City,San Francisco Peninsula
+559,San Bruno,San Francisco Peninsula
+560,San Mateo,San Francisco Peninsula
+561,South San Francisco,San Francisco Peninsula
+562,Cupertino,Silicon Valley
+563,Fremont/Newark,Silicon Valley
+564,Milpitas,Silicon Valley
+565,Mountain View/Los Altos,Silicon Valley
+566,San Jose – IBP/Downtown,Silicon Valley
+567,San Jose - North,Silicon Valley
+568,San Jose - South,Silicon Valley
+569,Santa Clara,Silicon Valley
+570,West Valley,Silicon Valley
+571,Sunnyvale,Silicon Valley
+572,Savannah,Savannah
+573,East Seattle / Capitol Hill / Rainier Va,Seattle
+574,Seattle Close In,Seattle
+575,Tacoma/Fife,Seattle
+576,American Canyon,Napa-Solano County
+577,Benicia,Solano-Napa County
+578,Fairfield,Napa-Solano County
+579,Napa,Solano-Napa County
+580,Vacaville,Napa-Solano County
+581,Vallejo,Napa-Solano County
+582,Central County,St Louis
+583,Maryland Heights,St Louis
+584,Fenton,St Louis
+585,Metro East,St Louis
+586,North County,St Louis
+587,St. Charles County,St Louis
+588,Downtown,St Louis
+589,West County,St Louis
+590,Westport,St Louis
+591,Ceres,Central Valley
+592,Lathrop,Central Valley
+593,Lodi,Central Valley
+594,Manteca,Central Valley
+595,Modesto,Central Valley
+596,Oakdale,Central Valley
+597,Patterson,Central Valley
+598,Stockton,Central Valley
+599,Tracy,Central Valley
+600,Turlock,Central Valley
+601,East Tampa,Tampa
+602,Mid Pinellas/Gateway,Tampa
+603,Northeast Tampa,Tampa
+604,North Pinellas,Tampa
+605,Northwest Tampa,Tampa
+606,Plant City,Tampa
+607,Southeast Tampa,Tampa
+608,South Pinellas,Tampa
+609,Southwest Tampa,Tampa
+610,Tampa CBD,Tampa
+611,Westshore,Tampa
+612,Central Business District,Toledo
+613,East Toledo / Oregon,Toledo
+614,North Toledo,Toledo
+615,Perrysburg / Northwood,Toledo
+616,South / Southwest,Toledo
+617,West / Sylvania,Toledo
+618,Airport,Tucson
+619,East Central,Tucson
+620,North Central San Antonio,Tucson
+621,Northeast,Tucson
+622,Northwest,Tucson
+623,Southeast,Tucson
+624,Southwest,Tucson
+625,West Central,Tucson
+626,CBD,Tulsa
+627,East,Tulsa
+628,Midtown,Tulsa
+629,North Central San Antonio,Tulsa
+630,Northeast,Tulsa
+631,Northwest,Tulsa
+632,South,Tulsa
+633,South Central,Tulsa
+634,Southeast,Tulsa
+635,Southwest,Tulsa
+636,East Ventura County,Ventura County
+637,West Ventura County,Ventura County
+638,Arlington County,Virginia (Northern)
+639,Fairfax County,Virginia (Northern)
+640,City of Alexandria,Virginia (Northern)
+641,Loudoun County,Virginia (Northern)
+642,Prince William County,Virginia (Northern)
+643,Dublin,Walnut Creek
+644,Livermore,Walnut Creek
+645,Pleasanton,Walnut Creek
+646,San Ramon,Walnut Creek
+647,Capitol Hill,Washington D.C.
+648,Capitol Riverfront,Washington D.C.
+649,Central Business District,Washington D.C.
+650,Inland Empire East,Washington D.C.
+651,Georgetown,Washington D.C.
+652,NOMA,Washington D.C.
+653,Southwest,Washington D.C.
+654,Uptown,Washington D.C.
+655,Inland Empire West,Washington D.C.
+656,Clemmons,Greensboro Winston-Salem
+657,Kernersville,Greensboro Winston-Salem
+658,North Forsyth,Greensboro Winston-Salem
+659,West Forsyth,Greensboro Winston-Salem
+660,South Shore,Staten Island
+661,Staten Island,New York City
+662,North Shore,Staten Island
+663,Bronx,New York City
+664,Brooklyn,New York City
+665,JFK,New York City
+666,Queens,New York City
+667,Central New Jersey,Northern and Central New Jersey
+668,Outlying,Columbus
+669,Dallas,Dallas - Fort Worth
+670,Fort Worth,Dallas - Fort Worth
+671,Northern New Jersey,Northern and Central New Jersey
+672,SeaTac,Seattle
+673,Kent,Seattle
+674,Renton,Seattle
+675,Federal Way,Seattle
+676,Port of Tacoma / Downtown,Seattle
+677,Fife,Seattle
+678,Lakewood,Seattle
+679,DuPont,Seattle
+680,Bellevue,Seattle
+681,Kirkland / Totem Lake,Seattle
+682,Redmond/Overlake,Seattle
+683,Tukwila,Seattle
+684,East Seattle / Capitol Hill / Rainier Valley,Seattle
+685,South Seattle / West Seattle,Seattle
+686,Puyallup,Seattle
+687,Auburn,Seattle
+688,North Seattle / Interbay,Seattle
+689,Woodinville / Maltby,Seattle
+690,Bothell,Seattle
+691,Lynnwood / Edmonds / Mtlk Terrace,Seattle
+692,Mukilteo,Seattle
+693,Everett,Seattle
+694,Monroe,Seattle
+695,North Snohomish,Seattle
+696,Tacoma West,Seattle
+697,Downtown / Lake Union,Seattle
+698,Marymoor,Seattle
+699,Willows,Seattle
+700,Sumner,Seattle
+701,I-90,Seattle
+702,Frederickson,Seattle
+703,US 1/64 West Corridor,Raleigh Durham
+704,North Alamance,Greensboro Winston-Salem
+705,Southwest Alamance,Greensboro Winston-Salem
+706,Southeast Alamance,Greensboro
+707,Southeast Forsyth,Greensboro Winston-Salem
+708,Davidson County,Greensboro Winston-Salem
+709,Davie County,Greensboro Winston-Salem
+710,South County,St Louis
+711,Earth City,St Louis
+712,Southern Anne Arundel County,Baltimore
+713,Southern Anne Arundel County,Baltimore
+714,West,Houston
+715, , 
+716,Riviera Beach,Palm Beach County
+717,Southwest,Portland
+718,Southwest,Minneapolis
+719,Polk East,Polk County
+720,Polk West,Polk County
+721,Pasco County,Tampa
+722,Airport,Tampa
+723,I-840,Nashville
+724,Lake County,Orlando
+725,Airport Area,Orange County
+726,Fayette County,Memphis
+727,Marshall County,Memphis
+728, , 
+729, Iredell County,Charlotte
+730, , 
+731, , 
+732,Rowan County,Charlotte
+733,Cabarrus County,Charlotte
+734,Lancaster County,Charlotte
+735,Lincoln County,Charlotte
+736,Gaston County,Charlotte
+737,York County,Charlotte
+738,Union County,Charlotte
+739,Southeast,Boise
+740,Southwest,Boise
+741,Bench,Boise
+742,Downtown,Boise
+743,West,Boise
+744,Eagle,Boise
+745,Star,Boise
+746,West Canyon,Boise
+747,Meridian,Boise
+748,Caldwell,Boise
+749,North Boise,Boise
+750,South Meridian,Boise
+751,Nampa,Boise
+752,Kuna,Boise
+753,Airport,Boise
+754,Worcester South,Boston
+755,City of Worcester,Boston
+756,Worcester North,Boston
+757,Rockford,Chicago
+758,Dekalb Area,Chicago
+759,South Dallas,Dallas - Fort Worth
+760,Caldwell County,Austin
+761,Hays County,Austin
+762,Burnet County,Austin
+763,Round Rock,Austin
+764,Bastrop County,Austin
+765,Cedar Park,Austin
+766,Far Northeast,Austin
+767,East,Austin
+768,Southeast,Austin
+769,Horizon East,El Paso
+770,South,Indianapolis
+771,West,Indianapolis
+772,Apex,Las Vegas
+773,Shelby County,Louisville
+774,Westlaco,McAllen
+775,Morris Region,Northern and Central New Jersey
+776,Granville,Raleigh Durham
+777,Franklin County,Raleigh Durham
+778,Johnson County,Raleigh Durham
+779,San Carlos,San Francisco Peninsula
+780,Belmont,San Francisco Peninsula
+781,Dixon,Napa-Solano County
+782,Northeast,Oklahoma City
+783,Longmont,Denver
+784,I-25 South,Northern Colorado
+785,Windsor,Northern Colorado
+786,Weld County South,Northern Colorado
+787,Southeast PA,Philadelphia
+788,Northern DE,Philadelphia
+789,Southern NJ,Philadelphia
+790,Kent Valley,Puget Sound
+791,Eastside,Puget Sound
+792,Thurston County,Puget Sound
+793,Lewis County,Puget Sound
+794,Tacoma,Puget Sound
+795,Northend,Puget Sound
+796,Bakersfield,South Central Valley
+797,Visalia,South Central Valley
+798,Hanford,South Central Valley
+799,Fresno,South Central Valley
+800,Merced,South Central Valley
+801,Madera,South Central Valley
+802,Peninsula,Norfolk
+803,Southside,Norfolk
+804,City of Vernon,Central Los Angeles
+805,City of Commerce,Central Los Angeles
+806,Pico Rivera,Central Los Angeles
+807,South Gate,Central Los Angeles
+808,Cudahy,Central Los Angeles
+809,Maywood,Central Los Angeles
+810,Bell,Central Los Angeles
+811,Bell Gardens,Central Los Angeles
+812,Monterey Park,Central Los Angeles
+813, Palo Alto,Silicon Valley
+814, , 
+815,Frederick,Suburban Maryland
+816, , 
+817,Harrisburg/York,PA I-78/I-81 Corridor
+818,Scranton,PA I-78/I-81 Corridor

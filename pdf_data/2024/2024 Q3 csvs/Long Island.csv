@@ -1,0 +1,7 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Western Nassau,,,15400000,4.7,-221300,0,24.19,,9000
+Eastern Nassau,,,20200000,4.1,-25700,207200,20.51,,161200
+Western Suffolk,,,20900000,4.8,5800,0,16.54,,103800
+Central Suffolk,,,39900000,8.1,-210500,160000,17.00,,161900
+Eastern Suffolk,,,9700000,10.6,-30600,219300,16.23,,86700
+Total,,,106100000,6.4,-482300,586500,18.53,108000,522600

@@ -1,0 +1,28 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Northern NJ,Central Bergen,Industrial,33200000,0.033,-109300,394400,15.37,,131000
+Northern NJ,Fairfield Market,Industrial,18900000,0.034,-63300,0,15.97,,218300
+Northern NJ,Hudson Waterfront,Industrial,65900000,0.039,-80200,1338700,20.36,,525900
+Northern NJ,Meadowlands,Industrial,93900000,0.063,-47500,867500,19.34,,312400
+Northern NJ,Morris Region,Industrial,41100000,0.065,-485400,121400,15.19,,261300
+Northern NJ,Newark,Industrial,53900000,0.03,229400,366400,21.36,,74000
+Northern NJ,North East Bergen,Industrial,8100000,0.034,35800,0,14.15,,184200
+Northern NJ,North West Bergen,Industrial,19100000,0.049,159000,208300,19.23,,82900
+Northern NJ,Rt 23 North,Industrial,600000,0,0,0,0.00,,0
+Northern NJ,Rt 280 Corridor,Industrial,4400000,0.029,-88000,0,11.00,,113000
+Northern NJ,Rt 46/23/2 Interchange,Industrial,57900000,0.039,-141800,295500,15.04,,125500
+Northern NJ,Suburban Essex,Industrial,6800000,0.04,-750,0,21.98,,169200
+Northern NJ Total,,Industrial,404000000,0.045,-599000,3592200,18.10,,6184400
+Central NJ,Brunswicks/Exit 9,Industrial,28500000,0.061,415100,129700,17.43,,654000
+Central NJ,Carteret/Avenel,Industrial,30900000,0.123,-210900,0,19.48,,293000
+Central NJ,Central Union,Industrial,24500000,0.021,490,209200,18.41,,0
+Central NJ,Exit 8A,Industrial,80700000,0.032,-435000,292000,15.79,,700400
+Central NJ,Hunterdon/Warren,Industrial,14900000,0.029,-66400,40000,8.72,,82500
+Central NJ,Linden/Elizabeth,Industrial,46000000,0.054,664200,677400,19.94,,103000
+Central NJ,Monmouth,Industrial,27200000,0.078,-146300,2172800,14.31,,222400
+Central NJ,Princeton,Industrial,15900000,0.05,227000,160500,14.19,,0
+Central NJ,Route 287/Exit 10,Industrial,110500000,0.034,46400,1703300,17.87,,734800
+Central NJ,Route 78 East,Industrial,9800000,0.035,-166900,0,15.44,,25200
+Central NJ,Somerset,Industrial,40300000,0.033,600,732700,16.45,,329600
+Central NJ,Trenton/295,Industrial,32800000,0.028,-231100,652100,14.02,,267800
+Central NJ Total,,Industrial,461900000,0.045,531900,6769700,17.18,,3412700
+NJ Total,,Industrial,865900000,0.045,-67100,10361900,17.53,,5441200

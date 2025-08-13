@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Southside,Warehouse,Industrial,75737429,0.028,649932,5730826,8.93,,
+Peninsula,Warehouse,Industrial,27121291,0.029,-136534,840253,8.58,,
+Overall,Warehouse,Industrial,102858720,0.028,513398,6571079,8.84,,
+Southside,Flex,Industrial,10677458,0.065,-82400,,11.08,,
+Peninsula,Flex,Industrial,2633937,0.046,-23154,,8.96,,
+Overall,Flex,Industrial,13311395,0.061,-105554,,10.53,,
+Southside,Overall,Industrial,86414887,0.033,567532,5730826,9.36,,
+Peninsula,Overall,Industrial,29755228,0.03,-159688,840253,8.66,,
+Overall,Overall,Industrial,116170115,0.032,407844,6571079,9.17,,

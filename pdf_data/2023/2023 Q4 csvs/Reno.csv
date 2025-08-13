@@ -1,0 +1,8 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Central/Airport,,Bulk,8125560,0.033,6465,,0.94,,
+East Valley,,Bulk,30117330,0.062,174640,,0.77,,
+North Valley,,Bulk,26780301,0.035,210077,,0.86,,
+South Reno,,Bulk,8165098,0.042,404651,,1,,
+Sparks,,Bulk,27827143,0.025,17444,,0.93,,
+West Reno,,Bulk,2385563,0.114,62026,,1.1,,
+Market Total,,Bulk,103400995,0.042,875303,,0.87,,

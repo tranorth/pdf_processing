@@ -1,0 +1,10 @@
+primary_submarket,secondary_submarket,property_type,total_inventory_q,vacancy_q,net_absorption_q,under_construction_q,rent_q,delivered_q,leasing_activity_q
+Boca Raton,,,7455058,0.037,-9773,0,19.05,0,
+Boynton Beach,,,4431245,0.0198,-15932,0,17.00,0,
+Delray Beach,,,2907748,0.0246,-28485,69785,17.50,0,
+Jupiter,,,1682839,0.0215,-4525,0,13.00,0,
+Lake Worth,,,3910625,0.0132,128185,0,13.00,0,
+PB Outlying,,,4472178,0.2415,-164806,549364,11.50,555963,
+Riviera Beach,,,12523055,0.0536,-89507,0,14.60,0,
+West Palm Beach,,,15087367,0.0661,80864,0,16.65,435442,
+Total Palm Beach,,,52470115,0.0624,-103979,619149,15.90,991405,
